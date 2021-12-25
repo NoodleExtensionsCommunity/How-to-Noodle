@@ -1,3 +1,6 @@
+# WIP!
+EVERYTHING SEEN HERE FOR NOW IS WIP AND I DO NOT RECOMMEND YOU PROCEED
+
 # How to Noodle
 This repository will explain how to make a noodle map with some basics described and with a provided script.
 
