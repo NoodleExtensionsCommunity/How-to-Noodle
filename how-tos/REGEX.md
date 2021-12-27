@@ -25,7 +25,7 @@ Amount modifiers:
 OR:
 `(a|b)` - matches both "a" and "b"
 
-Examples:
+Examples: <br>
 `[0-9]+,[0-9]+` - one or more digits followed by a comma followed by one or more digits (412,66 would match, 5a,2 wouldn't) <br>
 `[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}` - Poor-man's ipv4 regex (matches 4 groups of [0-9]{1,3} separated by dots). <br>
 `ba+d` - matches "bad", "baad", "baaad" etc. <br>
