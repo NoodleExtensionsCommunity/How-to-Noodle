@@ -1,6 +1,6 @@
 # How to use Regex
 
-### What is regex?
+### What is Regex?
 
 Regex is short for Regular Expression, and is a tool for pattern matching, and is used in Heck for environment ID matching.
 We will be using [Boost Regex](https://www.boost.org/doc/libs/1_31_0/libs/regex/doc/syntax.html) for this how to, as this is what Heck uses in its LookupID dependency.
@@ -33,7 +33,7 @@ Examples: <br>
 
 These are just **examples** of special characters, amounts or clauses. You **will** need the [documentation](https://www.boost.org/doc/libs/1_31_0/libs/regex/doc/syntax.html) to make the best use of Boost Regex.
 
-Example of matching to an environment object:
+This following example will return all 3 instances of `Pillar` appearing, first in PillarPair, then PillarL, then PillarR.
 ```js
 _environment.push(
     {
@@ -43,5 +43,3 @@ _environment.push(
     }
 )
 ```
-
-This will return all 3 instances of `Pillar` appearing, first in PillarPair, then PillarL, then PillarR.

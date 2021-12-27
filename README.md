@@ -18,6 +18,10 @@ Each folder has It's own little category in which everything is described. Have 
 # Credits
 Sands#4600 - for originally teaching me about noodle
 
+Raine#1111- for helping with Regex
+
+Lone#5260 - for helping being a resource regarding some lookup methods
+
 Discovered#0001 - for teaching me functions
 
 Reaxt#0001 - for the original script 
