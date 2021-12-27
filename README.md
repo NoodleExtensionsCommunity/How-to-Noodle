@@ -14,3 +14,12 @@ If you see me use `Random()`, note it's already incorporated into the script, th
 
 # Folders
 Each folder has It's own little category in which everything is described. Have fun learning, if you want something added or contribute to this, open a pull request, an issue or message me on discord.
+
+# Credits
+Sands#4600 - for originally teaching me about noodle
+
+Discovered#0001 - for teaching me functions
+
+Reaxt#0001 - for the original script 
+
+[Noodle Extensions Community](https://discord.gg/DVB6kvGVpa) - for being a great place to take inspiration from
