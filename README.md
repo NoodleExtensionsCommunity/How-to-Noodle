@@ -2,6 +2,10 @@
 This repository will explain how to make a noodle map with some basics described and with a provided script.
 
 # Getting started
+**YOU NEED NODE.JS FOR THIS TO RUN!**
+
+The tutorial for it in vscode can be found [here](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)-
+
 It is recommended to grab my script before starting to learn how to script in this.
 
 If you run into any issues message me on discord (StormPacer#2871)
