@@ -23,9 +23,9 @@ I'll try to explain this part by part as best as I can.
 #
 `_customEvents.push( {  } )` is used by the script to say you want this text written under _customEvents in the main difficulty file (using `fs` for node.js).
 
-`_type` tells it what customEvent this is, we defined it as AnimateTrack.
-
 `_time` is what tells it when the event will happen (in beats!)
+
+`_type` tells it what customEvent this is, we defined it as AnimateTrack.
 
 `_data` holds all of our precious stuff.
 
