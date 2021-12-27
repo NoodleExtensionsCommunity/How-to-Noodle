@@ -17,7 +17,7 @@ Characters: <br>
 `[:blank:]` - any blank character (space and tab) <br>
 
 
-Amount modifiers:
+Amount modifiers: <br>
 `*` - 0 or more characters <br>
 `+` - 1 or more characters  <br>
 `{1,3}` - 1 to 3 characters <br>
