@@ -7,6 +7,7 @@ We will be using [Boost Regex](https://www.boost.org/doc/libs/1_31_0/libs/regex/
 
 ## Note
 Using Regex incorrectly will cause some performance issues, try to understand Regex before using it in an actual map.
+Using [this tool](https://regex101.com/) helps learn Regex a lot faster. But be aware that you should still be comfortable with Regex before its used in an actual map.
 
 With that out of the way, here is all the important stuff:
 
