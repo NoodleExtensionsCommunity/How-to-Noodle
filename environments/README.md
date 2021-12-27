@@ -1,5 +1,4 @@
 # This page is currently undergoing changes!
-### This will include more on how Regex works.
 
 I will be very brief on this part as I am not the most comfortable with it and it's well explained on the original wiki, the only thing I will add is how to incorporate it with the script.
 
@@ -22,6 +21,6 @@ _environment.push(
 ```
 To quickly explain this, basically what we are doing here is writing environment data into the difficulty file. This will look for that exact id, more can be found [here](https://github.com/StormPacer/Noodle-Maps/tree/main/chroma%20logs).
 
-There are three lookup methods: Exact, Contains and Regex. I recommend you check each one out and find the one that is right for you
+There are three lookup methods: [Exact](https://github.com/stormpacer/how-to-noodle/how-tos/exact/README.md), [Contains](https://github.com/stormpacer/how-to-noodle/how-tos/contains/README.md) and [Regex](https://github.com/stormpacer/how-to-noodle/how-tos/regex/README.md/). I recommend you check each one out and find the one that is right for you
 
 And this is basically how you incorporate `_environment` into scripting.
