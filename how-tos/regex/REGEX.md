@@ -1,4 +1,4 @@
-# How to Regex
+# How to use Regex
 
 ### What is regex?
 
