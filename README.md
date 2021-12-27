@@ -18,7 +18,7 @@ Each folder has It's own little category in which everything is described. Have 
 # Credits
 Sands#4600 - for originally teaching me about noodle
 
-Raine#1111 - Helping out with regex
+Raine#1111 - for helping out with regex
 
 Discovered#0001 - for teaching me functions
 
