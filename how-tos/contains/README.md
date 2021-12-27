@@ -1,6 +1,6 @@
 # How to use Contains
 
-
+It's as the method says, you use
 
 ```js
 _environment.push(
