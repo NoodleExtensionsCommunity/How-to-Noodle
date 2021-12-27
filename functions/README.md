@@ -76,8 +76,6 @@ function Insert(Start, End) {
 
 This would be no fun if I told you what it does, so why not check it out for yourself. The only thing I want to point out is `_noteJumpStartBeatOffset`.
 This will spawn the note ahead of time so it stays on screen for longer.
-
-**TIME ALSO CHANGES DEPENDING ON THE OFFSET!**
 # Note duplication
 
 Did you ever see those cool effects with multiple arrows around the note combining into one? Well with this function that's possible!
