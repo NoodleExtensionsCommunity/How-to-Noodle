@@ -22,7 +22,7 @@ Let's explain it's parts and what it does.
 #
 The function is called `rotate` and that's also how we'll call it in our script.
 
-The `Start` and `End` value will be used affect all the notes in that defined range.
+The `Start` and `End` value will be used to affect all the notes in that defined range.
 
 `filterednotes.forEach(note => {` is the part where we tell the script that we want to affect every note that is between Start and End.
 
