@@ -19,7 +19,7 @@ _environment.push(
     }
 )
 ```
-To quickly explain this, basically what we are doing here is writing environment data into the difficulty file. This will look for that exact id, more can be found [here](https://github.com/StormPacer/Noodle-Maps/tree/main/chroma%20logs).
+To quickly explain this, basically what we are doing here is writing environment data into the difficulty file. This will look for that exact id, more can be found [here](https://github.com/StormPacer/How-to-Noodle/tree/main/Chroma%20Logs).
 
 There are three lookup methods: [Exact](https://github.com/stormpacer/how-to-noodle/blob/main/how-tos/exact/README.md), [Contains](https://github.com/stormpacer/how-to-noodle/blob/main/how-tos/contains/README.md) and [Regex](https://github.com/stormpacer/how-to-noodle/blob/main/how-tos/regex/README.md/). I recommend you check each one out and find the one that is right for you
 
