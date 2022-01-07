@@ -1,0 +1,344 @@
+BillieEnvironment.[0]Environment
+BillieEnvironment.[0]Environment.[0]SceneSetup
+BillieEnvironment.[0]Environment.[1]DecoratorContext
+BillieEnvironment.[0]Environment.[10]LightEffects
+BillieEnvironment.[0]Environment.[11]====== STATIC ======
+BillieEnvironment.[0]Environment.[12]Mountains
+BillieEnvironment.[0]Environment.[12]Mountains.[0]BackMountains
+BillieEnvironment.[0]Environment.[12]Mountains.[1]FrontMountains
+BillieEnvironment.[0]Environment.[13]PlayersPlace
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[0]Mirror
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[1]Feet
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[2]Construction
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[3]RectangleFakeGlow
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[4]Frame
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[5]SaberBurnMarksParticles
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[6]SaberBurnMarksArea
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[7]Collider
+BillieEnvironment.[0]Environment.[14]LeftRail
+BillieEnvironment.[0]Environment.[15]RightRail
+BillieEnvironment.[0]Environment.[16]LeftFarRail1
+BillieEnvironment.[0]Environment.[17]LeftFarRail2
+BillieEnvironment.[0]Environment.[18]RightFarRail1
+BillieEnvironment.[0]Environment.[19]RightFarRail2
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[0]BG
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+BillieEnvironment.[0]Environment.[20]RailingFullBack
+BillieEnvironment.[0]Environment.[21]RailingFullFront
+BillieEnvironment.[0]Environment.[22]LastRailingCurve
+BillieEnvironment.[0]Environment.[23]====== DYNAMIC ======
+BillieEnvironment.[0]Environment.[24]Rain
+BillieEnvironment.[0]Environment.[25]WaterRainRipples
+BillieEnvironment.[0]Environment.[25]WaterRainRipples.[0]SplashMesh
+BillieEnvironment.[0]Environment.[26]Waterfall
+BillieEnvironment.[0]Environment.[26]Waterfall.[0]WaterfallFlatFar
+BillieEnvironment.[0]Environment.[26]Waterfall.[1]WaterfallFlatClose
+BillieEnvironment.[0]Environment.[26]Waterfall.[2]WaterfallSetDepthOnly
+BillieEnvironment.[0]Environment.[26]Waterfall.[3]WaterfallTransition
+BillieEnvironment.[0]Environment.[26]Waterfall.[4]WaterfallFalling
+BillieEnvironment.[0]Environment.[27]DayAndNight
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[0]NeonTube (3)
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[0]NeonTube (3).[0]BakedBloom
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[1]NeonTube (2)
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[1]NeonTube (2).[0]BakedBloom
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[2]NeonTube (1)
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[2]NeonTube (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[3]NeonTube
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[0]Sun.[3]NeonTube.[0]BakedBloom
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[1]DirectionalLightFront
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[2]DirectionalLightBack
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[3]DirectionalLightLeft
+BillieEnvironment.[0]Environment.[27]DayAndNight.[0]Day.[4]DirectionalLightRight
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[0]Moon
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[0]Moon.[0]NeonTube
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[0]Moon.[0]NeonTube.[0]BakedBloom
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[1]DirectionalLightFront
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[2]DirectionalLightBack
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[3]DirectionalLightLeft
+BillieEnvironment.[0]Environment.[27]DayAndNight.[1]Night.[4]DirectionalLightRight
+BillieEnvironment.[0]Environment.[27]DayAndNight.[2]BackgroundGradient
+BillieEnvironment.[0]Environment.[28]Clouds
+BillieEnvironment.[0]Environment.[29]BigSmokePS
+BillieEnvironment.[0]Environment.[3]FakeMirrorObjectsInstaller
+BillieEnvironment.[0]Environment.[30]====== LIGHTS ======
+BillieEnvironment.[0]Environment.[31]LightRailingSegment
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[0]RailingCurveF
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[1]NeonTubeDirectionalL
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[1]NeonTubeDirectionalL.[0]BakedBloom
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[1]NeonTubeDirectionalL.[1]BoxLight
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[2]NeonTubeDirectionalR
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[2]NeonTubeDirectionalR.[0]BakedBloom
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[2]NeonTubeDirectionalR.[1]BoxLight
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[3]NeonTubeDirectionalL (1)
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[3]NeonTubeDirectionalL (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[3]NeonTubeDirectionalL (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[4]NeonTubeDirectionalR (1)
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[4]NeonTubeDirectionalR (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[31]LightRailingSegment.[4]NeonTubeDirectionalR (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1)
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[0]RailingCurveF
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[1]NeonTubeDirectionalL
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[1]NeonTubeDirectionalL.[0]BakedBloom
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[1]NeonTubeDirectionalL.[1]BoxLight
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[2]NeonTubeDirectionalR
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[2]NeonTubeDirectionalR.[0]BakedBloom
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[2]NeonTubeDirectionalR.[1]BoxLight
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[3]NeonTubeDirectionalL (1)
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[3]NeonTubeDirectionalL (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[3]NeonTubeDirectionalL (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[4]NeonTubeDirectionalR (1)
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[4]NeonTubeDirectionalR (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[32]LightRailingSegment (1).[4]NeonTubeDirectionalR (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2)
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[0]RailingCurveF
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[1]NeonTubeDirectionalL
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[1]NeonTubeDirectionalL.[0]BakedBloom
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[1]NeonTubeDirectionalL.[1]BoxLight
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[2]NeonTubeDirectionalR
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[2]NeonTubeDirectionalR.[0]BakedBloom
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[2]NeonTubeDirectionalR.[1]BoxLight
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[3]NeonTubeDirectionalL (1)
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[3]NeonTubeDirectionalL (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[3]NeonTubeDirectionalL (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[4]NeonTubeDirectionalR (1)
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[4]NeonTubeDirectionalR (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[33]LightRailingSegment (2).[4]NeonTubeDirectionalR (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3)
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[0]RailingCurveF
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[1]NeonTubeDirectionalL
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[1]NeonTubeDirectionalL.[0]BakedBloom
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[1]NeonTubeDirectionalL.[1]BoxLight
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[2]NeonTubeDirectionalR
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[2]NeonTubeDirectionalR.[0]BakedBloom
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[2]NeonTubeDirectionalR.[1]BoxLight
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[3]NeonTubeDirectionalL (1)
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[3]NeonTubeDirectionalL (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[3]NeonTubeDirectionalL (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[4]NeonTubeDirectionalR (1)
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[4]NeonTubeDirectionalR (1).[0]BakedBloom
+BillieEnvironment.[0]Environment.[34]LightRailingSegment (3).[4]NeonTubeDirectionalR (1).[1]BoxLight
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4)
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4).[0]BaseL
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4).[1]BaseR
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[35]TunnelRotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5)
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5).[0]BaseL
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5).[1]BaseR
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[36]TunnelRotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6)
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6).[0]BaseL
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6).[1]BaseR
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[37]TunnelRotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7)
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7).[0]BaseL
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7).[1]BaseR
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[38]TunnelRotatingLasersPair (7).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8)
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8).[0]BaseL
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8).[1]BaseR
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[39]TunnelRotatingLasersPair (8).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[4]FakeMirrorSettings
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9)
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9).[0]BaseL
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9).[1]BaseR
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[40]TunnelRotatingLasersPair (9).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10)
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10).[0]BaseL
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10).[1]BaseR
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[41]TunnelRotatingLasersPair (10).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11)
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11).[0]BaseL
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11).[1]BaseR
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[42]TunnelRotatingLasersPair (11).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12)
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12).[0]BaseL
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12).[1]BaseR
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[43]TunnelRotatingLasersPair (12).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13)
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13).[0]BaseL
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13).[1]BaseR
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[44]TunnelRotatingLasersPair (13).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14)
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14).[0]BaseL
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14).[0]BaseL.[0]Laser
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14).[0]BaseL.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14).[1]BaseR
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14).[1]BaseR.[0]Laser
+BillieEnvironment.[0]Environment.[45]TunnelRotatingLasersPair (14).[1]BaseR.[0]Laser.[0]BakedBloom
+BillieEnvironment.[0]Environment.[46]BottomPairLasers
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[0]PillarL
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[1]PillarR
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[46]BottomPairLasers.[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1)
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[0]PillarL
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[1]PillarR
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[47]BottomPairLasers (1).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2)
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[0]PillarL
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[1]PillarR
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[48]BottomPairLasers (2).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3)
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[0]PillarL
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[1]PillarR
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[49]BottomPairLasers (3).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[5]BSRealtimeLightmapping
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4)
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[0]PillarL
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[1]PillarR
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[50]BottomPairLasers (4).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5)
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[0]PillarL
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[1]PillarR
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[51]BottomPairLasers (5).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6)
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[0]PillarL
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[1]PillarR
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[52]BottomPairLasers (6).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7)
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[0]PillarL
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[1]PillarR
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[53]BottomPairLasers (7).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8)
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[0]PillarL
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[0]PillarL.[0]RotationBaseL
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[0]PillarL.[0]RotationBaseL.[0]LaserLH
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[0]PillarL.[0]RotationBaseL.[0]LaserLH.[1]BoxLight
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[1]PillarR
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[1]PillarR.[0]RotationBaseR
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[1]PillarR.[0]RotationBaseR.[0]LaserRH
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[1]PillarR.[0]RotationBaseR.[0]LaserRH.[1]BoxLight
+BillieEnvironment.[0]Environment.[55]====== EDITOR ONLY ======
+BillieEnvironment.[0]Environment.[6]BakedReflectionProbe
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[0]1
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[1]2
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[2]3
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[3]4
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[4]5
+BillieEnvironment.[0]Environment.[8]CoreLighting
+BillieEnvironment.[0]Environment.[8]CoreLighting.[0]LightManager
+BillieEnvironment.[0]Environment.[9]LightWithIdManager
