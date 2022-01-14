@@ -15,6 +15,9 @@ const _notes = difficulty._notes;
 const _environment = _customData._environment;
 const _customEvents = _customData._customEvents;
 
+let filterednotes
+let filteredwalls
+
 _obstacles.forEach(wall => {
 	if (!wall._customData) {
 		wall._customData = {}
