@@ -12,26 +12,24 @@ Using [this tool](https://regex101.com/) helps with learning Regex a lot faster.
 With that out of the way, here is all the important stuff:
 
 Characters: <br>
-`.` - any character <br>
-`[a-z]` - single character from a to z <br>
-`[a-z0-9A-Z]` - single character from a to z, 0 to 9 and A to Z <br>
-`[:blank:]` - any blank character (space and tab) <br>
-`abcd` - matches directly to the string fed to it
+- `.` - any character <br>
+- `[a-z]` - single character from a to z <br>
+- `[a-z0-9A-Z]` - single character from a to z, 0 to 9 and A to Z <br>
+- `[:blank:]` - any blank character (space and tab) <br>
+- `abcd` - matches directly to the string fed to it
 
 
 Amount modifiers: <br>
-`*` - 0 or more characters <br>
-`+` - 1 or more characters  <br>
-`{1,3}` - 1 to 3 characters <br>
-
-OR:
-`(a|b)` - matches both "a" or "b"
+- `*` - 0 or more characters <br>
+- `+` - 1 or more characters  <br>
+- `{1,3}` - 1 to 3 characters <br>
+- OR: `(a|b)` - matches both "a" or "b"
 
 Examples: <br>
-`[0-9]+,[0-9]+` - one or more digits followed by a comma followed by one or more digits (412,66 would match, 5a,2 would not) <br>
-`[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}` - Poor-man's ipv4 regex (matches 4 groups of [0-9]{1,3} separated by dots). <br>
-`ba+d` - matches "bad", "baad", "baaad" etc. <br>
-`b(a|e)d` - matches "bad" and "bed"
+- `[0-9]+,[0-9]+` - one or more digits followed by a comma followed by one or more digits (412,66 would match, 5a,2 would not) <br>
+- `[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}` - Poor-man's ipv4 regex (matches 4 groups of [0-9]{1,3} separated by dots). <br>
+- `ba+d` - matches "bad", "baad", "baaad" etc. <br>
+- `b(a|e)d` - matches "bad" and "bed"
 
 These are just **examples** of special characters, amounts or clauses. You **will** need the [documentation](https://www.boost.org/doc/libs/1_31_0/libs/regex/doc/syntax.html) to make the best use of Boost Regex.
 
@@ -45,3 +43,8 @@ _environment.push(
     }
 )
 ```
+If you check the logs you can see that IDs start with something like `environmentName.[0]Environment` or `GameCore`.<br>
+This part of the ID is unnecessary and you can get rid of it.<br>
+Examples:<br>
+- `TimbalandEnvironment\\.\\[\\d*\\]Environment\\.\\[\\d*\\]GlowLineL$` => `GlowLineL$`<br>
+- `GameCore\\.\\[1\\]PairLaserTrackLaneRing\\(Clone\\)` => `\\[1\\]PairLaserTrackLaneRing\\(Clone\\)`
