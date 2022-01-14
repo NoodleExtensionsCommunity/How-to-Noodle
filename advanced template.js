@@ -1,6 +1,6 @@
 "use strict";
 
-import fs from "fs"
+const fs = require("fs");
 
 const INPUT = "YOUR ORIGINAL DIFFICULTY (eg. HardStandard.dat)"
 const OUTPUT = "WHERE NOODLE WILL BE WRITTEN TO (eg. ExpertStandard.dat)"
