@@ -43,8 +43,10 @@ _environment.push(
     }
 )
 ```
-If you check the logs you can see that IDs start with something like `environmentName.[0]Environment` or `GameCore`.<br>
-This part of the ID is unnecessary and you can get rid of it.<br>
+
+Long regexes are more specific, but in certain situations at the cost of performance.<br>
+In the following cases where the prefix is common but the last part is unique, it is much better for performance to only specify the unique portion of the string.
+
 Examples:<br>
 - `TimbalandEnvironment\\.\\[\\d*\\]Environment\\.\\[\\d*\\]GlowLineL$` => `GlowLineL$`<br>
 - `GameCore\\.\\[1\\]PairLaserTrackLaneRing\\(Clone\\)` => `\\[1\\]PairLaserTrackLaneRing\\(Clone\\)`
