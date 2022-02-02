@@ -13,9 +13,9 @@ Here are some examples of these scripts:
 - [Totally Balloon's le monke maps](https://github.com/Infinit3/le-monke-maps)
 - [TzurS11's NoodleScript](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) 
 # Credits
-- Discovered#0001 - for teaching me functions
-- Lone#5260 - for helping being a resource regarding some lookup methods <!-- This needs to be reworded, no clue what it's supposed to mean -->
-- Raine#1111- for helping with Regex
-- Reaxt#0001 - for the original noodle script
-- Sands#4600 - for originally teaching me about noodle
+- [Discovered](https://discordapp.com/users/849055689971204137) - for teaching me functions
+- [Lone](https://discordapp.com/users/756274889492660315) - for helping being a resource regarding some lookup methods <!-- This needs to be reworded, no clue what it's supposed to mean -->
+- [Raine](https://discordapp.com/users/938534719430197310) - for helping with Regex
+- [Reaxt](https://discordapp.com/users/163052863038291970) - for the original noodle script
+- [Sands](https://discordapp.com/users/936371481263370270) - for originally teaching me about noodle
 - [Noodle Extensions Community](https://discord.gg/DVB6kvGVpa) - for being a great place to take inspiration from
