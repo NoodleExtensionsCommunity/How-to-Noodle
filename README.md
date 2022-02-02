@@ -5,7 +5,7 @@
 # How to Noodle
 This repository will help explain how to make a noodle map in Beat Saber, with some basics described and a provided script included.
 # Getting Started
-This repository uses a [Wiki](https://github.com/StormPacer/How-to-Noodle/wiki) to make things more organized. Have fun!
+This repository uses a [**Wiki**](https://github.com/StormPacer/How-to-Noodle/wiki) to make things more organized. Have fun!
 # Map Scripts
 Some mappers leave their scripts on the internet and thus allowing other mappers to take a look and understand how things were made.
 Here are some examples of these scripts:
