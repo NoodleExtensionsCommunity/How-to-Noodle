@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WHAT HOW to noodle.png" width="750"/>
+  <img src="Images\WHAT HOW to noodle.png" alt="WHAT HOW to noodle" width="750"/>
 </p>
 
 # How to Noodle
