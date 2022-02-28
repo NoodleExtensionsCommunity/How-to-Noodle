@@ -10,6 +10,7 @@ This repository uses a [**Wiki**](https://github.com/StormPacer/How-to-Noodle/wi
 Some mappers leave their scripts on the internet and thus allowing other mappers to take a look and understand how things were made.
 Here are some examples of these scripts:
 - [StormPacer's Noodle Maps](https://github.com/StormPacer/Noodle-Maps)
+- [Swifter's Map Scripts](https://github.com/Swifter1243/MapScripts)
 - [Totally Balloon's le monke maps](https://github.com/Infinit3/le-monke-maps)
 - [TzurS11's NoodleScript](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) 
 # Credits
