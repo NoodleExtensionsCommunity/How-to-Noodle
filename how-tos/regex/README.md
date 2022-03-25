@@ -27,7 +27,7 @@ Amount modifiers: <br>
 
 Examples: <br>
 - `[0-9]+,[0-9]+` - one or more digits followed by a comma followed by one or more digits (412,66 would match, 5a,2 would not) <br>
-- `[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}` - Poor-man's ipv4 regex (matches 4 groups of [0-9]{1,3} separated by dots). <br>
+- `([0-9]{1,3}\.){3}[0-9]{1,3}` - Poor-man's ipv4 regex (matches 4 groups of [0-9]{1,3} separated by dots). <br>
 - `ba+d` - matches "bad", "baad", "baaad" etc. <br>
 - `b(a|e)d` - matches "bad" and "bed"
 
