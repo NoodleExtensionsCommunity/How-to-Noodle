@@ -1,173 +1,176 @@
 FitBeatEnvironment.[0]Environment
 FitBeatEnvironment.[0]Environment.[0]DecoratorContext
-FitBeatEnvironment.[0]Environment.[1]====== STATIC ======
-FitBeatEnvironment.[0]Environment.[10]PanelsLightsTrackLaneRings
-FitBeatEnvironment.[0]Environment.[11]BigCenterLightsTrackLaneRings
-FitBeatEnvironment.[0]Environment.[12]BigSmokePS
-FitBeatEnvironment.[0]Environment.[13]CoreLighting
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[0]LightManager
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[1]LightWrapper0
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[2]LightWrapper1
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[3]DirectionalLight
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[4]DirectionalLight
-FitBeatEnvironment.[0]Environment.[13]CoreLighting.[5]DirectionalLight
-FitBeatEnvironment.[0]Environment.[14]LightEffects
-FitBeatEnvironment.[0]Environment.[15]LightWithIdManager
-FitBeatEnvironment.[0]Environment.[16]FrontLights
-FitBeatEnvironment.[0]Environment.[16]FrontLights.[0]NeonTube
-FitBeatEnvironment.[0]Environment.[16]FrontLights.[0]NeonTube.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[16]FrontLights.[0]NeonTube.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[16]FrontLights.[1]NeonTube (1)
-FitBeatEnvironment.[0]Environment.[16]FrontLights.[1]NeonTube (1).[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[16]FrontLights.[1]NeonTube (1).[1]BoxLight
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[0]BaseL
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[1]BaseR
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[17]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1)
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[0]BaseL
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[1]BaseR
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2)
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[0]BaseL
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[1]BaseR
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[0]Mirror
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[1]Feet
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[2]Construction
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[3]RectangleFakeGlow
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[4]Frame
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[5]SaberBurnMarksParticles
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[6]SaberBurnMarksArea
-FitBeatEnvironment.[0]Environment.[2]PlayersPlace.[7]Collider
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3)
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[0]BaseL
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[1]BaseR
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4)
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[0]BaseL
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[1]BaseR
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5)
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[0]BaseL
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[1]BaseR
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (5).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6)
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[0]BaseL
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[1]BaseR
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (6).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7)
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[0]BaseL
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[0]BaseL.[0]Laser
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[0]BaseL.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[0]BaseL.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[1]BaseR
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[1]BaseR.[0]Laser
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[1]BaseR.[0]Laser.[0]BakedBloom
-FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (7).[1]BaseR.[0]Laser.[1]BoxLight
-FitBeatEnvironment.[0]Environment.[25]GradientBackground
-FitBeatEnvironment.[0]Environment.[26]BakedReflectionProbe
-FitBeatEnvironment.[0]Environment.[27]BSBakedLightingLightWithIds
-FitBeatEnvironment.[0]Environment.[28]FakeMirrorSettings
-FitBeatEnvironment.[0]Environment.[29]BakedReflectionProbeInstaller
-FitBeatEnvironment.[0]Environment.[3]TrackMirror
-FitBeatEnvironment.[0]Environment.[3]TrackMirror.[0]TrackMirrorSetDepth
-FitBeatEnvironment.[0]Environment.[4]TrackConstruction
-FitBeatEnvironment.[0]Environment.[5]====== DYNAMIC ======
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[0]BG
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[5]Laser
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
-FitBeatEnvironment.[0]Environment.[6]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
-FitBeatEnvironment.[0]Environment.[7]DustPS
-FitBeatEnvironment.[0]Environment.[8]====== LIGHTS ======
-FitBeatEnvironment.[0]Environment.[9]Spectrograms
-FitBeatEnvironment.[0]Environment.[9]Spectrograms.[0]Spectrogram1
-FitBeatEnvironment.[0]Environment.[9]Spectrograms.[1]Spectrogram0
-FitBeatEnvironment.[0]Environment.[9]Spectrograms.[2]Spectrogram1
-FitBeatEnvironment.[0]Environment.[9]Spectrograms.[3]Spectrogram0
+FitBeatEnvironment.[0]Environment.[1]SceneSetup
+FitBeatEnvironment.[0]Environment.[10]Spectrograms
+FitBeatEnvironment.[0]Environment.[10]Spectrograms.[0]Spectrogram1
+FitBeatEnvironment.[0]Environment.[10]Spectrograms.[1]Spectrogram0
+FitBeatEnvironment.[0]Environment.[10]Spectrograms.[2]Spectrogram1
+FitBeatEnvironment.[0]Environment.[10]Spectrograms.[3]Spectrogram0
+FitBeatEnvironment.[0]Environment.[11]PanelsLightsTrackLaneRings
+FitBeatEnvironment.[0]Environment.[12]BigCenterLightsTrackLaneRings
+FitBeatEnvironment.[0]Environment.[13]BigSmokePS
+FitBeatEnvironment.[0]Environment.[14]CoreLighting
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[0]LightManager
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[1]LightWrapper0
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[2]LightWrapper1
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[3]DirectionalLight
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[4]DirectionalLight
+FitBeatEnvironment.[0]Environment.[14]CoreLighting.[5]DirectionalLight
+FitBeatEnvironment.[0]Environment.[15]LightEffects
+FitBeatEnvironment.[0]Environment.[16]LightWithIdManager
+FitBeatEnvironment.[0]Environment.[17]FrontLights
+FitBeatEnvironment.[0]Environment.[17]FrontLights.[0]NeonTube
+FitBeatEnvironment.[0]Environment.[17]FrontLights.[0]NeonTube.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[17]FrontLights.[0]NeonTube.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[17]FrontLights.[1]NeonTube (1)
+FitBeatEnvironment.[0]Environment.[17]FrontLights.[1]NeonTube (1).[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[17]FrontLights.[1]NeonTube (1).[1]BoxLight
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[0]BaseL
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[1]BaseR
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[18]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1)
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[0]BaseL
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[1]BaseR
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[19]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[2]====== STATIC ======
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2)
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[0]BaseL
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[1]BaseR
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[20]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3)
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[0]BaseL
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[1]BaseR
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[21]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4)
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[0]BaseL
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[1]BaseR
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[22]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5)
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[0]BaseL
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[1]BaseR
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[23]RotatingLasersPair (5).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6)
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[0]BaseL
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[1]BaseR
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[24]RotatingLasersPair (6).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7)
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[0]BaseL
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[0]BaseL.[0]Laser
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[0]BaseL.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[0]BaseL.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[1]BaseR
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[1]BaseR.[0]Laser
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[1]BaseR.[0]Laser.[0]BakedBloom
+FitBeatEnvironment.[0]Environment.[25]RotatingLasersPair (7).[1]BaseR.[0]Laser.[1]BoxLight
+FitBeatEnvironment.[0]Environment.[26]GradientBackground
+FitBeatEnvironment.[0]Environment.[27]BakedReflectionProbe
+FitBeatEnvironment.[0]Environment.[28]BSBakedLightingLightWithIds
+FitBeatEnvironment.[0]Environment.[29]FakeMirrorSettings
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[0]Mirror
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[1]Feet
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[2]Construction
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[3]RectangleFakeGlow
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksArea
+FitBeatEnvironment.[0]Environment.[3]PlayersPlace.[6]Collider
+FitBeatEnvironment.[0]Environment.[30]BakedReflectionProbeInstaller
+FitBeatEnvironment.[0]Environment.[4]TrackMirror
+FitBeatEnvironment.[0]Environment.[4]TrackMirror.[0]TrackMirrorSetDepth
+FitBeatEnvironment.[0]Environment.[5]TrackConstruction
+FitBeatEnvironment.[0]Environment.[6]====== DYNAMIC ======
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[0]BG
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+FitBeatEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
+FitBeatEnvironment.[0]Environment.[8]DustPS
+FitBeatEnvironment.[0]Environment.[9]====== LIGHTS ======
+FitBeatEnvironment.[1]CinemaPlaybackController
+FitBeatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+FitBeatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
 GameCore.[1]PanelLightTrackLaneRing(Clone)
 GameCore.[1]PanelLightTrackLaneRing(Clone).[0]Ring
 GameCore.[1]PanelLightTrackLaneRing(Clone).[1]Neon

@@ -8,11 +8,10 @@ InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[0]Mirror
 InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[1]Feet
 InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[2]Construction
 InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[3]RectangleFakeGlow
-InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[4]Frame
-InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[5]SaberBurnMarksParticles
-InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[6]SaberBurnMarksArea
-InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[7]Collider
+InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[4]SaberBurnMarksParticles
+InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[5]SaberBurnMarksArea
+InterscopeEnvironment.[0]Environment.[12]PlayersPlace.[6]Collider
 InterscopeEnvironment.[0]Environment.[13]Floor
 InterscopeEnvironment.[0]Environment.[13]Floor.[0]FloorDepthWrite
 InterscopeEnvironment.[0]Environment.[14]RearPillar
@@ -102,6 +101,9 @@ InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[0]ComboPane
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -116,6 +118,17 @@ InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[0]Multipli
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+InterscopeEnvironment.[0]Environment.[37]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
 InterscopeEnvironment.[0]Environment.[38]Car1
 InterscopeEnvironment.[0]Environment.[38]Car1.[0]FloorCollider
 InterscopeEnvironment.[0]Environment.[38]Car1.[1]RearWheels
@@ -246,8 +259,11 @@ InterscopeEnvironment.[0]Environment.[6]LightWithIdManager
 InterscopeEnvironment.[0]Environment.[7]BSRealtimeLightmapping
 InterscopeEnvironment.[0]Environment.[8]====== STATIC ======
 InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds
-InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[0]1
-InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[1]2
-InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[2]3
-InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[3]4
-InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[4]5
+InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[0]A
+InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[1]B
+InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[2]C
+InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[3]D
+InterscopeEnvironment.[0]Environment.[9]LightmapLightsWithIds.[4]E
+InterscopeEnvironment.[1]CinemaPlaybackController
+InterscopeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+InterscopeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

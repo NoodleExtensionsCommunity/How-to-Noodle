@@ -1,420 +1,437 @@
 KDAEnvironment.[0]Environment
 KDAEnvironment.[0]Environment.[0]DecoratorContext
-KDAEnvironment.[0]Environment.[1]====== STATIC ======
-KDAEnvironment.[0]Environment.[10]DustPS
-KDAEnvironment.[0]Environment.[100]GlowLine (32)
-KDAEnvironment.[0]Environment.[100]GlowLine (32).[0]BakedBloom
-KDAEnvironment.[0]Environment.[100]GlowLine (32).[1]BoxLight
-KDAEnvironment.[0]Environment.[101]GlowLine (30)
-KDAEnvironment.[0]Environment.[101]GlowLine (30).[0]BakedBloom
-KDAEnvironment.[0]Environment.[101]GlowLine (30).[1]BoxLight
-KDAEnvironment.[0]Environment.[102]GlowLine (57)
-KDAEnvironment.[0]Environment.[102]GlowLine (57).[0]BakedBloom
-KDAEnvironment.[0]Environment.[102]GlowLine (57).[1]BoxLight
-KDAEnvironment.[0]Environment.[103]GlowLine (38)
-KDAEnvironment.[0]Environment.[103]GlowLine (38).[0]BakedBloom
-KDAEnvironment.[0]Environment.[103]GlowLine (38).[1]BoxLight
-KDAEnvironment.[0]Environment.[104]GlowLine (20)
-KDAEnvironment.[0]Environment.[104]GlowLine (20).[0]BakedBloom
-KDAEnvironment.[0]Environment.[104]GlowLine (20).[1]BoxLight
-KDAEnvironment.[0]Environment.[105]GlowLine
-KDAEnvironment.[0]Environment.[105]GlowLine.[0]BakedBloom
-KDAEnvironment.[0]Environment.[105]GlowLine.[1]BoxLight
-KDAEnvironment.[0]Environment.[106]GlowLine (56)
-KDAEnvironment.[0]Environment.[106]GlowLine (56).[0]BakedBloom
-KDAEnvironment.[0]Environment.[106]GlowLine (56).[1]BoxLight
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[0]BaseL
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[1]BaseR
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[107]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1)
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[0]BaseL
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[1]BaseR
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[108]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2)
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[0]BaseL
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[1]BaseR
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[109]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[11]====== LIGHTS ======
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3)
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[0]BaseL
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[1]BaseR
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[110]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4)
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[0]BaseL
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[1]BaseR
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[111]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5)
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[0]BaseL
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[1]BaseR
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[112]RotatingLasersPair (5).[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6)
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[0]BaseL
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[0]BaseL.[0]Laser
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[0]BaseL.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[1]BaseR
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[1]BaseR.[0]Laser
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
-KDAEnvironment.[0]Environment.[113]RotatingLasersPair (6).[1]BaseR.[0]Laser.[1]BoxLight
-KDAEnvironment.[0]Environment.[114]BakedReflectionProbe
-KDAEnvironment.[0]Environment.[115]BSBakedLightingLightWithIds
-KDAEnvironment.[0]Environment.[116]FakeMirrorSettings
-KDAEnvironment.[0]Environment.[117]BakedReflectionProbeInstaller
-KDAEnvironment.[0]Environment.[12]LightWithIdManager
-KDAEnvironment.[0]Environment.[13]LightEffects
-KDAEnvironment.[0]Environment.[14]CoreLighting
-KDAEnvironment.[0]Environment.[14]CoreLighting.[0]LightManager
-KDAEnvironment.[0]Environment.[14]CoreLighting.[1]DirectionalLight
-KDAEnvironment.[0]Environment.[14]CoreLighting.[2]DirectionalLight
-KDAEnvironment.[0]Environment.[14]CoreLighting.[3]DirectionalLight
-KDAEnvironment.[0]Environment.[14]CoreLighting.[4]DirectionalLight
-KDAEnvironment.[0]Environment.[14]CoreLighting.[5]DirectionalLight
-KDAEnvironment.[0]Environment.[15]FrontLights
-KDAEnvironment.[0]Environment.[15]FrontLights.[0]NeonTube
-KDAEnvironment.[0]Environment.[15]FrontLights.[0]NeonTube.[0]BakedBloom
-KDAEnvironment.[0]Environment.[15]FrontLights.[0]NeonTube.[1]BoxLight
-KDAEnvironment.[0]Environment.[15]FrontLights.[1]NeonTube (1)
-KDAEnvironment.[0]Environment.[15]FrontLights.[1]NeonTube (1).[0]BakedBloom
-KDAEnvironment.[0]Environment.[15]FrontLights.[1]NeonTube (1).[1]BoxLight
-KDAEnvironment.[0]Environment.[16]GlowLineLVisible
-KDAEnvironment.[0]Environment.[16]GlowLineLVisible.[0]BakedBloom
-KDAEnvironment.[0]Environment.[16]GlowLineLVisible.[1]BoxLight
-KDAEnvironment.[0]Environment.[17]GlowLineRVisible
-KDAEnvironment.[0]Environment.[17]GlowLineRVisible.[0]BakedBloom
-KDAEnvironment.[0]Environment.[17]GlowLineRVisible.[1]BoxLight
-KDAEnvironment.[0]Environment.[18]GlowTopLine
-KDAEnvironment.[0]Environment.[18]GlowTopLine.[0]BakedBloom
-KDAEnvironment.[0]Environment.[18]GlowTopLine.[1]BoxLight
-KDAEnvironment.[0]Environment.[19]GlowTopLine (1)
-KDAEnvironment.[0]Environment.[19]GlowTopLine (1).[0]BakedBloom
-KDAEnvironment.[0]Environment.[19]GlowTopLine (1).[1]BoxLight
-KDAEnvironment.[0]Environment.[2]TentacleLeft
-KDAEnvironment.[0]Environment.[2]TentacleLeft.[0]Crystal
-KDAEnvironment.[0]Environment.[2]TentacleLeft.[0]Crystal.[0]Glow
-KDAEnvironment.[0]Environment.[2]TentacleLeft.[1]Spear
-KDAEnvironment.[0]Environment.[2]TentacleLeft.[2]Trail
-KDAEnvironment.[0]Environment.[20]GlowTopLine (2)
-KDAEnvironment.[0]Environment.[20]GlowTopLine (2).[0]BakedBloom
-KDAEnvironment.[0]Environment.[20]GlowTopLine (2).[1]BoxLight
-KDAEnvironment.[0]Environment.[21]GlowTopLine (3)
-KDAEnvironment.[0]Environment.[21]GlowTopLine (3).[0]BakedBloom
-KDAEnvironment.[0]Environment.[21]GlowTopLine (3).[1]BoxLight
-KDAEnvironment.[0]Environment.[22]GlowTopLine (4)
-KDAEnvironment.[0]Environment.[22]GlowTopLine (4).[0]BakedBloom
-KDAEnvironment.[0]Environment.[22]GlowTopLine (4).[1]BoxLight
-KDAEnvironment.[0]Environment.[23]GlowLineFarL
-KDAEnvironment.[0]Environment.[24]GlowLineFarR
-KDAEnvironment.[0]Environment.[25]Laser (2)
-KDAEnvironment.[0]Environment.[25]Laser (2).[0]BakedBloom
-KDAEnvironment.[0]Environment.[25]Laser (2).[1]BoxLight
-KDAEnvironment.[0]Environment.[26]Laser (3)
-KDAEnvironment.[0]Environment.[26]Laser (3).[0]BakedBloom
-KDAEnvironment.[0]Environment.[26]Laser (3).[1]BoxLight
-KDAEnvironment.[0]Environment.[27]Laser (4)
-KDAEnvironment.[0]Environment.[27]Laser (4).[0]BakedBloom
-KDAEnvironment.[0]Environment.[27]Laser (4).[1]BoxLight
-KDAEnvironment.[0]Environment.[28]Laser (7)
-KDAEnvironment.[0]Environment.[28]Laser (7).[0]BakedBloom
-KDAEnvironment.[0]Environment.[28]Laser (7).[1]BoxLight
-KDAEnvironment.[0]Environment.[29]Laser (8)
-KDAEnvironment.[0]Environment.[29]Laser (8).[0]BakedBloom
-KDAEnvironment.[0]Environment.[29]Laser (8).[1]BoxLight
-KDAEnvironment.[0]Environment.[3]TentacleRight
-KDAEnvironment.[0]Environment.[3]TentacleRight.[0]Crystal
-KDAEnvironment.[0]Environment.[3]TentacleRight.[0]Crystal.[0]Glow
-KDAEnvironment.[0]Environment.[3]TentacleRight.[1]Spear
-KDAEnvironment.[0]Environment.[3]TentacleRight.[2]Trail
-KDAEnvironment.[0]Environment.[30]Laser (9)
-KDAEnvironment.[0]Environment.[30]Laser (9).[0]BakedBloom
-KDAEnvironment.[0]Environment.[30]Laser (9).[1]BoxLight
-KDAEnvironment.[0]Environment.[31]GlowLine (2)
-KDAEnvironment.[0]Environment.[31]GlowLine (2).[0]BakedBloom
-KDAEnvironment.[0]Environment.[31]GlowLine (2).[1]BoxLight
-KDAEnvironment.[0]Environment.[32]GlowLine (34)
-KDAEnvironment.[0]Environment.[32]GlowLine (34).[0]BakedBloom
-KDAEnvironment.[0]Environment.[32]GlowLine (34).[1]BoxLight
-KDAEnvironment.[0]Environment.[33]GlowLine (36)
-KDAEnvironment.[0]Environment.[33]GlowLine (36).[0]BakedBloom
-KDAEnvironment.[0]Environment.[33]GlowLine (36).[1]BoxLight
-KDAEnvironment.[0]Environment.[34]GlowLine (48)
-KDAEnvironment.[0]Environment.[34]GlowLine (48).[0]BakedBloom
-KDAEnvironment.[0]Environment.[34]GlowLine (48).[1]BoxLight
-KDAEnvironment.[0]Environment.[35]GlowLine (68)
-KDAEnvironment.[0]Environment.[35]GlowLine (68).[0]BakedBloom
-KDAEnvironment.[0]Environment.[35]GlowLine (68).[1]BoxLight
-KDAEnvironment.[0]Environment.[36]GlowLine (27)
-KDAEnvironment.[0]Environment.[36]GlowLine (27).[0]BakedBloom
-KDAEnvironment.[0]Environment.[36]GlowLine (27).[1]BoxLight
-KDAEnvironment.[0]Environment.[37]GlowLine (53)
-KDAEnvironment.[0]Environment.[37]GlowLine (53).[0]BakedBloom
-KDAEnvironment.[0]Environment.[37]GlowLine (53).[1]BoxLight
-KDAEnvironment.[0]Environment.[38]GlowLine (62)
-KDAEnvironment.[0]Environment.[38]GlowLine (62).[0]BakedBloom
-KDAEnvironment.[0]Environment.[38]GlowLine (62).[1]BoxLight
-KDAEnvironment.[0]Environment.[39]GlowLine (65)
-KDAEnvironment.[0]Environment.[39]GlowLine (65).[0]BakedBloom
-KDAEnvironment.[0]Environment.[39]GlowLine (65).[1]BoxLight
-KDAEnvironment.[0]Environment.[4]Construction
-KDAEnvironment.[0]Environment.[40]GlowLine (71)
-KDAEnvironment.[0]Environment.[40]GlowLine (71).[0]BakedBloom
-KDAEnvironment.[0]Environment.[40]GlowLine (71).[1]BoxLight
-KDAEnvironment.[0]Environment.[41]GlowLine (72)
-KDAEnvironment.[0]Environment.[41]GlowLine (72).[0]BakedBloom
-KDAEnvironment.[0]Environment.[41]GlowLine (72).[1]BoxLight
-KDAEnvironment.[0]Environment.[42]GlowLine (42)
-KDAEnvironment.[0]Environment.[42]GlowLine (42).[0]BakedBloom
-KDAEnvironment.[0]Environment.[42]GlowLine (42).[1]BoxLight
-KDAEnvironment.[0]Environment.[43]GlowLine (51)
-KDAEnvironment.[0]Environment.[43]GlowLine (51).[0]BakedBloom
-KDAEnvironment.[0]Environment.[43]GlowLine (51).[1]BoxLight
-KDAEnvironment.[0]Environment.[44]GlowLine (8)
-KDAEnvironment.[0]Environment.[44]GlowLine (8).[0]BakedBloom
-KDAEnvironment.[0]Environment.[44]GlowLine (8).[1]BoxLight
-KDAEnvironment.[0]Environment.[45]GlowLine (24)
-KDAEnvironment.[0]Environment.[45]GlowLine (24).[0]BakedBloom
-KDAEnvironment.[0]Environment.[45]GlowLine (24).[1]BoxLight
-KDAEnvironment.[0]Environment.[46]GlowLine (10)
-KDAEnvironment.[0]Environment.[46]GlowLine (10).[0]BakedBloom
-KDAEnvironment.[0]Environment.[46]GlowLine (10).[1]BoxLight
-KDAEnvironment.[0]Environment.[47]GlowLine (60)
-KDAEnvironment.[0]Environment.[47]GlowLine (60).[0]BakedBloom
-KDAEnvironment.[0]Environment.[47]GlowLine (60).[1]BoxLight
-KDAEnvironment.[0]Environment.[48]GlowLine (76)
-KDAEnvironment.[0]Environment.[48]GlowLine (76).[0]BakedBloom
-KDAEnvironment.[0]Environment.[48]GlowLine (76).[1]BoxLight
-KDAEnvironment.[0]Environment.[49]GlowLine (50)
-KDAEnvironment.[0]Environment.[49]GlowLine (50).[0]BakedBloom
-KDAEnvironment.[0]Environment.[49]GlowLine (50).[1]BoxLight
-KDAEnvironment.[0]Environment.[5]FloorMirror
-KDAEnvironment.[0]Environment.[5]FloorMirror.[0]FloorMirrorSetDepth
-KDAEnvironment.[0]Environment.[50]GlowLine (21)
-KDAEnvironment.[0]Environment.[50]GlowLine (21).[0]BakedBloom
-KDAEnvironment.[0]Environment.[50]GlowLine (21).[1]BoxLight
-KDAEnvironment.[0]Environment.[51]GlowLine (58)
-KDAEnvironment.[0]Environment.[51]GlowLine (58).[0]BakedBloom
-KDAEnvironment.[0]Environment.[51]GlowLine (58).[1]BoxLight
-KDAEnvironment.[0]Environment.[52]GlowLine (66)
-KDAEnvironment.[0]Environment.[52]GlowLine (66).[0]BakedBloom
-KDAEnvironment.[0]Environment.[52]GlowLine (66).[1]BoxLight
-KDAEnvironment.[0]Environment.[53]GlowLine (9)
-KDAEnvironment.[0]Environment.[53]GlowLine (9).[0]BakedBloom
-KDAEnvironment.[0]Environment.[53]GlowLine (9).[1]BoxLight
-KDAEnvironment.[0]Environment.[54]GlowLine (7)
-KDAEnvironment.[0]Environment.[54]GlowLine (7).[0]BakedBloom
-KDAEnvironment.[0]Environment.[54]GlowLine (7).[1]BoxLight
-KDAEnvironment.[0]Environment.[55]GlowLine (29)
-KDAEnvironment.[0]Environment.[55]GlowLine (29).[0]BakedBloom
-KDAEnvironment.[0]Environment.[55]GlowLine (29).[1]BoxLight
-KDAEnvironment.[0]Environment.[56]GlowLine (5)
-KDAEnvironment.[0]Environment.[56]GlowLine (5).[0]BakedBloom
-KDAEnvironment.[0]Environment.[56]GlowLine (5).[1]BoxLight
-KDAEnvironment.[0]Environment.[57]GlowLine (44)
-KDAEnvironment.[0]Environment.[57]GlowLine (44).[0]BakedBloom
-KDAEnvironment.[0]Environment.[57]GlowLine (44).[1]BoxLight
-KDAEnvironment.[0]Environment.[58]GlowLine (33)
-KDAEnvironment.[0]Environment.[58]GlowLine (33).[0]BakedBloom
-KDAEnvironment.[0]Environment.[58]GlowLine (33).[1]BoxLight
-KDAEnvironment.[0]Environment.[59]GlowLine (55)
-KDAEnvironment.[0]Environment.[59]GlowLine (55).[0]BakedBloom
-KDAEnvironment.[0]Environment.[59]GlowLine (55).[1]BoxLight
-KDAEnvironment.[0]Environment.[6]PlayersPlace
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[4]Frame
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[6]SaberBurnMarksArea
-KDAEnvironment.[0]Environment.[6]PlayersPlace.[7]Collider
-KDAEnvironment.[0]Environment.[60]GlowLine (16)
-KDAEnvironment.[0]Environment.[60]GlowLine (16).[0]BakedBloom
-KDAEnvironment.[0]Environment.[60]GlowLine (16).[1]BoxLight
-KDAEnvironment.[0]Environment.[61]GlowLine (3)
-KDAEnvironment.[0]Environment.[61]GlowLine (3).[0]BakedBloom
-KDAEnvironment.[0]Environment.[61]GlowLine (3).[1]BoxLight
-KDAEnvironment.[0]Environment.[62]GlowLine (47)
-KDAEnvironment.[0]Environment.[62]GlowLine (47).[0]BakedBloom
-KDAEnvironment.[0]Environment.[62]GlowLine (47).[1]BoxLight
-KDAEnvironment.[0]Environment.[63]GlowLine (35)
-KDAEnvironment.[0]Environment.[63]GlowLine (35).[0]BakedBloom
-KDAEnvironment.[0]Environment.[63]GlowLine (35).[1]BoxLight
-KDAEnvironment.[0]Environment.[64]GlowLine (46)
-KDAEnvironment.[0]Environment.[64]GlowLine (46).[0]BakedBloom
-KDAEnvironment.[0]Environment.[64]GlowLine (46).[1]BoxLight
-KDAEnvironment.[0]Environment.[65]GlowLine (59)
-KDAEnvironment.[0]Environment.[65]GlowLine (59).[0]BakedBloom
-KDAEnvironment.[0]Environment.[65]GlowLine (59).[1]BoxLight
-KDAEnvironment.[0]Environment.[66]GlowLine (64)
-KDAEnvironment.[0]Environment.[66]GlowLine (64).[0]BakedBloom
-KDAEnvironment.[0]Environment.[66]GlowLine (64).[1]BoxLight
-KDAEnvironment.[0]Environment.[67]GlowLine (39)
-KDAEnvironment.[0]Environment.[67]GlowLine (39).[0]BakedBloom
-KDAEnvironment.[0]Environment.[67]GlowLine (39).[1]BoxLight
-KDAEnvironment.[0]Environment.[68]GlowLine (73)
-KDAEnvironment.[0]Environment.[68]GlowLine (73).[0]BakedBloom
-KDAEnvironment.[0]Environment.[68]GlowLine (73).[1]BoxLight
-KDAEnvironment.[0]Environment.[69]GlowLine (54)
-KDAEnvironment.[0]Environment.[69]GlowLine (54).[0]BakedBloom
-KDAEnvironment.[0]Environment.[69]GlowLine (54).[1]BoxLight
-KDAEnvironment.[0]Environment.[7]====== DYNAMIC ======
-KDAEnvironment.[0]Environment.[70]GlowLine (25)
-KDAEnvironment.[0]Environment.[70]GlowLine (25).[0]BakedBloom
-KDAEnvironment.[0]Environment.[70]GlowLine (25).[1]BoxLight
-KDAEnvironment.[0]Environment.[71]GlowLine (15)
-KDAEnvironment.[0]Environment.[71]GlowLine (15).[0]BakedBloom
-KDAEnvironment.[0]Environment.[71]GlowLine (15).[1]BoxLight
-KDAEnvironment.[0]Environment.[72]GlowLine (14)
-KDAEnvironment.[0]Environment.[72]GlowLine (14).[0]BakedBloom
-KDAEnvironment.[0]Environment.[72]GlowLine (14).[1]BoxLight
-KDAEnvironment.[0]Environment.[73]GlowLine (23)
-KDAEnvironment.[0]Environment.[73]GlowLine (23).[0]BakedBloom
-KDAEnvironment.[0]Environment.[73]GlowLine (23).[1]BoxLight
-KDAEnvironment.[0]Environment.[74]GlowLine (49)
-KDAEnvironment.[0]Environment.[74]GlowLine (49).[0]BakedBloom
-KDAEnvironment.[0]Environment.[74]GlowLine (49).[1]BoxLight
-KDAEnvironment.[0]Environment.[75]GlowLine (19)
-KDAEnvironment.[0]Environment.[75]GlowLine (19).[0]BakedBloom
-KDAEnvironment.[0]Environment.[75]GlowLine (19).[1]BoxLight
-KDAEnvironment.[0]Environment.[76]GlowLine (63)
-KDAEnvironment.[0]Environment.[76]GlowLine (63).[0]BakedBloom
-KDAEnvironment.[0]Environment.[76]GlowLine (63).[1]BoxLight
-KDAEnvironment.[0]Environment.[77]GlowLine (41)
-KDAEnvironment.[0]Environment.[77]GlowLine (41).[0]BakedBloom
-KDAEnvironment.[0]Environment.[77]GlowLine (41).[1]BoxLight
-KDAEnvironment.[0]Environment.[78]GlowLine (67)
-KDAEnvironment.[0]Environment.[78]GlowLine (67).[0]BakedBloom
-KDAEnvironment.[0]Environment.[78]GlowLine (67).[1]BoxLight
-KDAEnvironment.[0]Environment.[79]GlowLine (37)
-KDAEnvironment.[0]Environment.[79]GlowLine (37).[0]BakedBloom
-KDAEnvironment.[0]Environment.[79]GlowLine (37).[1]BoxLight
-KDAEnvironment.[0]Environment.[8]BasicGameHUD
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[0]BG
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[1]BarBG
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[5]Laser
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[0]BG
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[1]Top
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[0]BG
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[1]Top
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
-KDAEnvironment.[0]Environment.[8]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
-KDAEnvironment.[0]Environment.[80]GlowLine (17)
-KDAEnvironment.[0]Environment.[80]GlowLine (17).[0]BakedBloom
-KDAEnvironment.[0]Environment.[80]GlowLine (17).[1]BoxLight
-KDAEnvironment.[0]Environment.[81]GlowLine (69)
-KDAEnvironment.[0]Environment.[81]GlowLine (69).[0]BakedBloom
-KDAEnvironment.[0]Environment.[81]GlowLine (69).[1]BoxLight
-KDAEnvironment.[0]Environment.[82]GlowLine (11)
-KDAEnvironment.[0]Environment.[82]GlowLine (11).[0]BakedBloom
-KDAEnvironment.[0]Environment.[82]GlowLine (11).[1]BoxLight
-KDAEnvironment.[0]Environment.[83]GlowLine (52)
-KDAEnvironment.[0]Environment.[83]GlowLine (52).[0]BakedBloom
-KDAEnvironment.[0]Environment.[83]GlowLine (52).[1]BoxLight
-KDAEnvironment.[0]Environment.[84]GlowLine (6)
-KDAEnvironment.[0]Environment.[84]GlowLine (6).[0]BakedBloom
-KDAEnvironment.[0]Environment.[84]GlowLine (6).[1]BoxLight
-KDAEnvironment.[0]Environment.[85]GlowLine (45)
-KDAEnvironment.[0]Environment.[85]GlowLine (45).[0]BakedBloom
-KDAEnvironment.[0]Environment.[85]GlowLine (45).[1]BoxLight
-KDAEnvironment.[0]Environment.[86]GlowLine (22)
-KDAEnvironment.[0]Environment.[86]GlowLine (22).[0]BakedBloom
-KDAEnvironment.[0]Environment.[86]GlowLine (22).[1]BoxLight
-KDAEnvironment.[0]Environment.[87]GlowLine (28)
-KDAEnvironment.[0]Environment.[87]GlowLine (28).[0]BakedBloom
-KDAEnvironment.[0]Environment.[87]GlowLine (28).[1]BoxLight
-KDAEnvironment.[0]Environment.[88]GlowLine (43)
-KDAEnvironment.[0]Environment.[88]GlowLine (43).[0]BakedBloom
-KDAEnvironment.[0]Environment.[88]GlowLine (43).[1]BoxLight
-KDAEnvironment.[0]Environment.[89]GlowLine (74)
-KDAEnvironment.[0]Environment.[89]GlowLine (74).[0]BakedBloom
-KDAEnvironment.[0]Environment.[89]GlowLine (74).[1]BoxLight
-KDAEnvironment.[0]Environment.[9]BigSmokePS
-KDAEnvironment.[0]Environment.[90]GlowLine (4)
-KDAEnvironment.[0]Environment.[90]GlowLine (4).[0]BakedBloom
-KDAEnvironment.[0]Environment.[90]GlowLine (4).[1]BoxLight
-KDAEnvironment.[0]Environment.[91]GlowLine (31)
-KDAEnvironment.[0]Environment.[91]GlowLine (31).[0]BakedBloom
-KDAEnvironment.[0]Environment.[91]GlowLine (31).[1]BoxLight
-KDAEnvironment.[0]Environment.[92]GlowLine (18)
-KDAEnvironment.[0]Environment.[92]GlowLine (18).[0]BakedBloom
-KDAEnvironment.[0]Environment.[92]GlowLine (18).[1]BoxLight
-KDAEnvironment.[0]Environment.[93]GlowLine (1)
-KDAEnvironment.[0]Environment.[93]GlowLine (1).[0]BakedBloom
-KDAEnvironment.[0]Environment.[93]GlowLine (1).[1]BoxLight
-KDAEnvironment.[0]Environment.[94]GlowLine (40)
-KDAEnvironment.[0]Environment.[94]GlowLine (40).[0]BakedBloom
-KDAEnvironment.[0]Environment.[94]GlowLine (40).[1]BoxLight
-KDAEnvironment.[0]Environment.[95]GlowLine (12)
-KDAEnvironment.[0]Environment.[95]GlowLine (12).[0]BakedBloom
-KDAEnvironment.[0]Environment.[95]GlowLine (12).[1]BoxLight
-KDAEnvironment.[0]Environment.[96]GlowLine (70)
-KDAEnvironment.[0]Environment.[96]GlowLine (70).[0]BakedBloom
-KDAEnvironment.[0]Environment.[96]GlowLine (70).[1]BoxLight
-KDAEnvironment.[0]Environment.[97]GlowLine (13)
-KDAEnvironment.[0]Environment.[97]GlowLine (13).[0]BakedBloom
-KDAEnvironment.[0]Environment.[97]GlowLine (13).[1]BoxLight
-KDAEnvironment.[0]Environment.[98]GlowLine (61)
-KDAEnvironment.[0]Environment.[98]GlowLine (61).[0]BakedBloom
-KDAEnvironment.[0]Environment.[98]GlowLine (61).[1]BoxLight
-KDAEnvironment.[0]Environment.[99]GlowLine (75)
-KDAEnvironment.[0]Environment.[99]GlowLine (75).[0]BakedBloom
-KDAEnvironment.[0]Environment.[99]GlowLine (75).[1]BoxLight
+KDAEnvironment.[0]Environment.[1]SceneSetup
+KDAEnvironment.[0]Environment.[10]BigSmokePS
+KDAEnvironment.[0]Environment.[100]GlowLine (75)
+KDAEnvironment.[0]Environment.[100]GlowLine (75).[0]BakedBloom
+KDAEnvironment.[0]Environment.[100]GlowLine (75).[1]BoxLight
+KDAEnvironment.[0]Environment.[101]GlowLine (32)
+KDAEnvironment.[0]Environment.[101]GlowLine (32).[0]BakedBloom
+KDAEnvironment.[0]Environment.[101]GlowLine (32).[1]BoxLight
+KDAEnvironment.[0]Environment.[102]GlowLine (30)
+KDAEnvironment.[0]Environment.[102]GlowLine (30).[0]BakedBloom
+KDAEnvironment.[0]Environment.[102]GlowLine (30).[1]BoxLight
+KDAEnvironment.[0]Environment.[103]GlowLine (57)
+KDAEnvironment.[0]Environment.[103]GlowLine (57).[0]BakedBloom
+KDAEnvironment.[0]Environment.[103]GlowLine (57).[1]BoxLight
+KDAEnvironment.[0]Environment.[104]GlowLine (38)
+KDAEnvironment.[0]Environment.[104]GlowLine (38).[0]BakedBloom
+KDAEnvironment.[0]Environment.[104]GlowLine (38).[1]BoxLight
+KDAEnvironment.[0]Environment.[105]GlowLine (20)
+KDAEnvironment.[0]Environment.[105]GlowLine (20).[0]BakedBloom
+KDAEnvironment.[0]Environment.[105]GlowLine (20).[1]BoxLight
+KDAEnvironment.[0]Environment.[106]GlowLine
+KDAEnvironment.[0]Environment.[106]GlowLine.[0]BakedBloom
+KDAEnvironment.[0]Environment.[106]GlowLine.[1]BoxLight
+KDAEnvironment.[0]Environment.[107]GlowLine (56)
+KDAEnvironment.[0]Environment.[107]GlowLine (56).[0]BakedBloom
+KDAEnvironment.[0]Environment.[107]GlowLine (56).[1]BoxLight
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[0]BaseL
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[1]BaseR
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[108]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1)
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[0]BaseL
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[1]BaseR
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[109]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[11]DustPS
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2)
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[0]BaseL
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[1]BaseR
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[110]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3)
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[0]BaseL
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[1]BaseR
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[111]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4)
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[0]BaseL
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[1]BaseR
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[112]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5)
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[0]BaseL
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[1]BaseR
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[113]RotatingLasersPair (5).[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6)
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[0]BaseL
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[0]BaseL.[0]Laser
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[0]BaseL.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[0]BaseL.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[1]BaseR
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[1]BaseR.[0]Laser
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[1]BaseR.[0]Laser.[0]BakedBloom
+KDAEnvironment.[0]Environment.[114]RotatingLasersPair (6).[1]BaseR.[0]Laser.[1]BoxLight
+KDAEnvironment.[0]Environment.[115]BakedReflectionProbe
+KDAEnvironment.[0]Environment.[116]BSBakedLightingLightWithIds
+KDAEnvironment.[0]Environment.[117]FakeMirrorSettings
+KDAEnvironment.[0]Environment.[118]BakedReflectionProbeInstaller
+KDAEnvironment.[0]Environment.[12]====== LIGHTS ======
+KDAEnvironment.[0]Environment.[13]LightWithIdManager
+KDAEnvironment.[0]Environment.[14]LightEffects
+KDAEnvironment.[0]Environment.[15]CoreLighting
+KDAEnvironment.[0]Environment.[15]CoreLighting.[0]LightManager
+KDAEnvironment.[0]Environment.[15]CoreLighting.[1]DirectionalLight
+KDAEnvironment.[0]Environment.[15]CoreLighting.[2]DirectionalLight
+KDAEnvironment.[0]Environment.[15]CoreLighting.[3]DirectionalLight
+KDAEnvironment.[0]Environment.[15]CoreLighting.[4]DirectionalLight
+KDAEnvironment.[0]Environment.[15]CoreLighting.[5]DirectionalLight
+KDAEnvironment.[0]Environment.[16]FrontLights
+KDAEnvironment.[0]Environment.[16]FrontLights.[0]NeonTube
+KDAEnvironment.[0]Environment.[16]FrontLights.[0]NeonTube.[0]BakedBloom
+KDAEnvironment.[0]Environment.[16]FrontLights.[0]NeonTube.[1]BoxLight
+KDAEnvironment.[0]Environment.[16]FrontLights.[1]NeonTube (1)
+KDAEnvironment.[0]Environment.[16]FrontLights.[1]NeonTube (1).[0]BakedBloom
+KDAEnvironment.[0]Environment.[16]FrontLights.[1]NeonTube (1).[1]BoxLight
+KDAEnvironment.[0]Environment.[17]GlowLineLVisible
+KDAEnvironment.[0]Environment.[17]GlowLineLVisible.[0]BakedBloom
+KDAEnvironment.[0]Environment.[17]GlowLineLVisible.[1]BoxLight
+KDAEnvironment.[0]Environment.[18]GlowLineRVisible
+KDAEnvironment.[0]Environment.[18]GlowLineRVisible.[0]BakedBloom
+KDAEnvironment.[0]Environment.[18]GlowLineRVisible.[1]BoxLight
+KDAEnvironment.[0]Environment.[19]GlowTopLine
+KDAEnvironment.[0]Environment.[19]GlowTopLine.[0]BakedBloom
+KDAEnvironment.[0]Environment.[19]GlowTopLine.[1]BoxLight
+KDAEnvironment.[0]Environment.[2]====== STATIC ======
+KDAEnvironment.[0]Environment.[20]GlowTopLine (1)
+KDAEnvironment.[0]Environment.[20]GlowTopLine (1).[0]BakedBloom
+KDAEnvironment.[0]Environment.[20]GlowTopLine (1).[1]BoxLight
+KDAEnvironment.[0]Environment.[21]GlowTopLine (2)
+KDAEnvironment.[0]Environment.[21]GlowTopLine (2).[0]BakedBloom
+KDAEnvironment.[0]Environment.[21]GlowTopLine (2).[1]BoxLight
+KDAEnvironment.[0]Environment.[22]GlowTopLine (3)
+KDAEnvironment.[0]Environment.[22]GlowTopLine (3).[0]BakedBloom
+KDAEnvironment.[0]Environment.[22]GlowTopLine (3).[1]BoxLight
+KDAEnvironment.[0]Environment.[23]GlowTopLine (4)
+KDAEnvironment.[0]Environment.[23]GlowTopLine (4).[0]BakedBloom
+KDAEnvironment.[0]Environment.[23]GlowTopLine (4).[1]BoxLight
+KDAEnvironment.[0]Environment.[24]GlowLineFarL
+KDAEnvironment.[0]Environment.[25]GlowLineFarR
+KDAEnvironment.[0]Environment.[26]Laser (2)
+KDAEnvironment.[0]Environment.[26]Laser (2).[0]BakedBloom
+KDAEnvironment.[0]Environment.[26]Laser (2).[1]BoxLight
+KDAEnvironment.[0]Environment.[27]Laser (3)
+KDAEnvironment.[0]Environment.[27]Laser (3).[0]BakedBloom
+KDAEnvironment.[0]Environment.[27]Laser (3).[1]BoxLight
+KDAEnvironment.[0]Environment.[28]Laser (4)
+KDAEnvironment.[0]Environment.[28]Laser (4).[0]BakedBloom
+KDAEnvironment.[0]Environment.[28]Laser (4).[1]BoxLight
+KDAEnvironment.[0]Environment.[29]Laser (7)
+KDAEnvironment.[0]Environment.[29]Laser (7).[0]BakedBloom
+KDAEnvironment.[0]Environment.[29]Laser (7).[1]BoxLight
+KDAEnvironment.[0]Environment.[3]TentacleLeft
+KDAEnvironment.[0]Environment.[3]TentacleLeft.[0]Crystal
+KDAEnvironment.[0]Environment.[3]TentacleLeft.[0]Crystal.[0]Glow
+KDAEnvironment.[0]Environment.[3]TentacleLeft.[1]Spear
+KDAEnvironment.[0]Environment.[3]TentacleLeft.[2]Trail
+KDAEnvironment.[0]Environment.[30]Laser (8)
+KDAEnvironment.[0]Environment.[30]Laser (8).[0]BakedBloom
+KDAEnvironment.[0]Environment.[30]Laser (8).[1]BoxLight
+KDAEnvironment.[0]Environment.[31]Laser (9)
+KDAEnvironment.[0]Environment.[31]Laser (9).[0]BakedBloom
+KDAEnvironment.[0]Environment.[31]Laser (9).[1]BoxLight
+KDAEnvironment.[0]Environment.[32]GlowLine (2)
+KDAEnvironment.[0]Environment.[32]GlowLine (2).[0]BakedBloom
+KDAEnvironment.[0]Environment.[32]GlowLine (2).[1]BoxLight
+KDAEnvironment.[0]Environment.[33]GlowLine (34)
+KDAEnvironment.[0]Environment.[33]GlowLine (34).[0]BakedBloom
+KDAEnvironment.[0]Environment.[33]GlowLine (34).[1]BoxLight
+KDAEnvironment.[0]Environment.[34]GlowLine (36)
+KDAEnvironment.[0]Environment.[34]GlowLine (36).[0]BakedBloom
+KDAEnvironment.[0]Environment.[34]GlowLine (36).[1]BoxLight
+KDAEnvironment.[0]Environment.[35]GlowLine (48)
+KDAEnvironment.[0]Environment.[35]GlowLine (48).[0]BakedBloom
+KDAEnvironment.[0]Environment.[35]GlowLine (48).[1]BoxLight
+KDAEnvironment.[0]Environment.[36]GlowLine (68)
+KDAEnvironment.[0]Environment.[36]GlowLine (68).[0]BakedBloom
+KDAEnvironment.[0]Environment.[36]GlowLine (68).[1]BoxLight
+KDAEnvironment.[0]Environment.[37]GlowLine (27)
+KDAEnvironment.[0]Environment.[37]GlowLine (27).[0]BakedBloom
+KDAEnvironment.[0]Environment.[37]GlowLine (27).[1]BoxLight
+KDAEnvironment.[0]Environment.[38]GlowLine (53)
+KDAEnvironment.[0]Environment.[38]GlowLine (53).[0]BakedBloom
+KDAEnvironment.[0]Environment.[38]GlowLine (53).[1]BoxLight
+KDAEnvironment.[0]Environment.[39]GlowLine (62)
+KDAEnvironment.[0]Environment.[39]GlowLine (62).[0]BakedBloom
+KDAEnvironment.[0]Environment.[39]GlowLine (62).[1]BoxLight
+KDAEnvironment.[0]Environment.[4]TentacleRight
+KDAEnvironment.[0]Environment.[4]TentacleRight.[0]Crystal
+KDAEnvironment.[0]Environment.[4]TentacleRight.[0]Crystal.[0]Glow
+KDAEnvironment.[0]Environment.[4]TentacleRight.[1]Spear
+KDAEnvironment.[0]Environment.[4]TentacleRight.[2]Trail
+KDAEnvironment.[0]Environment.[40]GlowLine (65)
+KDAEnvironment.[0]Environment.[40]GlowLine (65).[0]BakedBloom
+KDAEnvironment.[0]Environment.[40]GlowLine (65).[1]BoxLight
+KDAEnvironment.[0]Environment.[41]GlowLine (71)
+KDAEnvironment.[0]Environment.[41]GlowLine (71).[0]BakedBloom
+KDAEnvironment.[0]Environment.[41]GlowLine (71).[1]BoxLight
+KDAEnvironment.[0]Environment.[42]GlowLine (72)
+KDAEnvironment.[0]Environment.[42]GlowLine (72).[0]BakedBloom
+KDAEnvironment.[0]Environment.[42]GlowLine (72).[1]BoxLight
+KDAEnvironment.[0]Environment.[43]GlowLine (42)
+KDAEnvironment.[0]Environment.[43]GlowLine (42).[0]BakedBloom
+KDAEnvironment.[0]Environment.[43]GlowLine (42).[1]BoxLight
+KDAEnvironment.[0]Environment.[44]GlowLine (51)
+KDAEnvironment.[0]Environment.[44]GlowLine (51).[0]BakedBloom
+KDAEnvironment.[0]Environment.[44]GlowLine (51).[1]BoxLight
+KDAEnvironment.[0]Environment.[45]GlowLine (8)
+KDAEnvironment.[0]Environment.[45]GlowLine (8).[0]BakedBloom
+KDAEnvironment.[0]Environment.[45]GlowLine (8).[1]BoxLight
+KDAEnvironment.[0]Environment.[46]GlowLine (24)
+KDAEnvironment.[0]Environment.[46]GlowLine (24).[0]BakedBloom
+KDAEnvironment.[0]Environment.[46]GlowLine (24).[1]BoxLight
+KDAEnvironment.[0]Environment.[47]GlowLine (10)
+KDAEnvironment.[0]Environment.[47]GlowLine (10).[0]BakedBloom
+KDAEnvironment.[0]Environment.[47]GlowLine (10).[1]BoxLight
+KDAEnvironment.[0]Environment.[48]GlowLine (60)
+KDAEnvironment.[0]Environment.[48]GlowLine (60).[0]BakedBloom
+KDAEnvironment.[0]Environment.[48]GlowLine (60).[1]BoxLight
+KDAEnvironment.[0]Environment.[49]GlowLine (76)
+KDAEnvironment.[0]Environment.[49]GlowLine (76).[0]BakedBloom
+KDAEnvironment.[0]Environment.[49]GlowLine (76).[1]BoxLight
+KDAEnvironment.[0]Environment.[5]Construction
+KDAEnvironment.[0]Environment.[50]GlowLine (50)
+KDAEnvironment.[0]Environment.[50]GlowLine (50).[0]BakedBloom
+KDAEnvironment.[0]Environment.[50]GlowLine (50).[1]BoxLight
+KDAEnvironment.[0]Environment.[51]GlowLine (21)
+KDAEnvironment.[0]Environment.[51]GlowLine (21).[0]BakedBloom
+KDAEnvironment.[0]Environment.[51]GlowLine (21).[1]BoxLight
+KDAEnvironment.[0]Environment.[52]GlowLine (58)
+KDAEnvironment.[0]Environment.[52]GlowLine (58).[0]BakedBloom
+KDAEnvironment.[0]Environment.[52]GlowLine (58).[1]BoxLight
+KDAEnvironment.[0]Environment.[53]GlowLine (66)
+KDAEnvironment.[0]Environment.[53]GlowLine (66).[0]BakedBloom
+KDAEnvironment.[0]Environment.[53]GlowLine (66).[1]BoxLight
+KDAEnvironment.[0]Environment.[54]GlowLine (9)
+KDAEnvironment.[0]Environment.[54]GlowLine (9).[0]BakedBloom
+KDAEnvironment.[0]Environment.[54]GlowLine (9).[1]BoxLight
+KDAEnvironment.[0]Environment.[55]GlowLine (7)
+KDAEnvironment.[0]Environment.[55]GlowLine (7).[0]BakedBloom
+KDAEnvironment.[0]Environment.[55]GlowLine (7).[1]BoxLight
+KDAEnvironment.[0]Environment.[56]GlowLine (29)
+KDAEnvironment.[0]Environment.[56]GlowLine (29).[0]BakedBloom
+KDAEnvironment.[0]Environment.[56]GlowLine (29).[1]BoxLight
+KDAEnvironment.[0]Environment.[57]GlowLine (5)
+KDAEnvironment.[0]Environment.[57]GlowLine (5).[0]BakedBloom
+KDAEnvironment.[0]Environment.[57]GlowLine (5).[1]BoxLight
+KDAEnvironment.[0]Environment.[58]GlowLine (44)
+KDAEnvironment.[0]Environment.[58]GlowLine (44).[0]BakedBloom
+KDAEnvironment.[0]Environment.[58]GlowLine (44).[1]BoxLight
+KDAEnvironment.[0]Environment.[59]GlowLine (33)
+KDAEnvironment.[0]Environment.[59]GlowLine (33).[0]BakedBloom
+KDAEnvironment.[0]Environment.[59]GlowLine (33).[1]BoxLight
+KDAEnvironment.[0]Environment.[6]FloorMirror
+KDAEnvironment.[0]Environment.[6]FloorMirror.[0]FloorMirrorSetDepth
+KDAEnvironment.[0]Environment.[60]GlowLine (55)
+KDAEnvironment.[0]Environment.[60]GlowLine (55).[0]BakedBloom
+KDAEnvironment.[0]Environment.[60]GlowLine (55).[1]BoxLight
+KDAEnvironment.[0]Environment.[61]GlowLine (16)
+KDAEnvironment.[0]Environment.[61]GlowLine (16).[0]BakedBloom
+KDAEnvironment.[0]Environment.[61]GlowLine (16).[1]BoxLight
+KDAEnvironment.[0]Environment.[62]GlowLine (3)
+KDAEnvironment.[0]Environment.[62]GlowLine (3).[0]BakedBloom
+KDAEnvironment.[0]Environment.[62]GlowLine (3).[1]BoxLight
+KDAEnvironment.[0]Environment.[63]GlowLine (47)
+KDAEnvironment.[0]Environment.[63]GlowLine (47).[0]BakedBloom
+KDAEnvironment.[0]Environment.[63]GlowLine (47).[1]BoxLight
+KDAEnvironment.[0]Environment.[64]GlowLine (35)
+KDAEnvironment.[0]Environment.[64]GlowLine (35).[0]BakedBloom
+KDAEnvironment.[0]Environment.[64]GlowLine (35).[1]BoxLight
+KDAEnvironment.[0]Environment.[65]GlowLine (46)
+KDAEnvironment.[0]Environment.[65]GlowLine (46).[0]BakedBloom
+KDAEnvironment.[0]Environment.[65]GlowLine (46).[1]BoxLight
+KDAEnvironment.[0]Environment.[66]GlowLine (59)
+KDAEnvironment.[0]Environment.[66]GlowLine (59).[0]BakedBloom
+KDAEnvironment.[0]Environment.[66]GlowLine (59).[1]BoxLight
+KDAEnvironment.[0]Environment.[67]GlowLine (64)
+KDAEnvironment.[0]Environment.[67]GlowLine (64).[0]BakedBloom
+KDAEnvironment.[0]Environment.[67]GlowLine (64).[1]BoxLight
+KDAEnvironment.[0]Environment.[68]GlowLine (39)
+KDAEnvironment.[0]Environment.[68]GlowLine (39).[0]BakedBloom
+KDAEnvironment.[0]Environment.[68]GlowLine (39).[1]BoxLight
+KDAEnvironment.[0]Environment.[69]GlowLine (73)
+KDAEnvironment.[0]Environment.[69]GlowLine (73).[0]BakedBloom
+KDAEnvironment.[0]Environment.[69]GlowLine (73).[1]BoxLight
+KDAEnvironment.[0]Environment.[7]PlayersPlace
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[0]Mirror
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[1]Feet
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[2]Construction
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[3]RectangleFakeGlow
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[4]SaberBurnMarksParticles
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[5]SaberBurnMarksArea
+KDAEnvironment.[0]Environment.[7]PlayersPlace.[6]Collider
+KDAEnvironment.[0]Environment.[70]GlowLine (54)
+KDAEnvironment.[0]Environment.[70]GlowLine (54).[0]BakedBloom
+KDAEnvironment.[0]Environment.[70]GlowLine (54).[1]BoxLight
+KDAEnvironment.[0]Environment.[71]GlowLine (25)
+KDAEnvironment.[0]Environment.[71]GlowLine (25).[0]BakedBloom
+KDAEnvironment.[0]Environment.[71]GlowLine (25).[1]BoxLight
+KDAEnvironment.[0]Environment.[72]GlowLine (15)
+KDAEnvironment.[0]Environment.[72]GlowLine (15).[0]BakedBloom
+KDAEnvironment.[0]Environment.[72]GlowLine (15).[1]BoxLight
+KDAEnvironment.[0]Environment.[73]GlowLine (14)
+KDAEnvironment.[0]Environment.[73]GlowLine (14).[0]BakedBloom
+KDAEnvironment.[0]Environment.[73]GlowLine (14).[1]BoxLight
+KDAEnvironment.[0]Environment.[74]GlowLine (23)
+KDAEnvironment.[0]Environment.[74]GlowLine (23).[0]BakedBloom
+KDAEnvironment.[0]Environment.[74]GlowLine (23).[1]BoxLight
+KDAEnvironment.[0]Environment.[75]GlowLine (49)
+KDAEnvironment.[0]Environment.[75]GlowLine (49).[0]BakedBloom
+KDAEnvironment.[0]Environment.[75]GlowLine (49).[1]BoxLight
+KDAEnvironment.[0]Environment.[76]GlowLine (19)
+KDAEnvironment.[0]Environment.[76]GlowLine (19).[0]BakedBloom
+KDAEnvironment.[0]Environment.[76]GlowLine (19).[1]BoxLight
+KDAEnvironment.[0]Environment.[77]GlowLine (63)
+KDAEnvironment.[0]Environment.[77]GlowLine (63).[0]BakedBloom
+KDAEnvironment.[0]Environment.[77]GlowLine (63).[1]BoxLight
+KDAEnvironment.[0]Environment.[78]GlowLine (41)
+KDAEnvironment.[0]Environment.[78]GlowLine (41).[0]BakedBloom
+KDAEnvironment.[0]Environment.[78]GlowLine (41).[1]BoxLight
+KDAEnvironment.[0]Environment.[79]GlowLine (67)
+KDAEnvironment.[0]Environment.[79]GlowLine (67).[0]BakedBloom
+KDAEnvironment.[0]Environment.[79]GlowLine (67).[1]BoxLight
+KDAEnvironment.[0]Environment.[8]====== DYNAMIC ======
+KDAEnvironment.[0]Environment.[80]GlowLine (37)
+KDAEnvironment.[0]Environment.[80]GlowLine (37).[0]BakedBloom
+KDAEnvironment.[0]Environment.[80]GlowLine (37).[1]BoxLight
+KDAEnvironment.[0]Environment.[81]GlowLine (17)
+KDAEnvironment.[0]Environment.[81]GlowLine (17).[0]BakedBloom
+KDAEnvironment.[0]Environment.[81]GlowLine (17).[1]BoxLight
+KDAEnvironment.[0]Environment.[82]GlowLine (69)
+KDAEnvironment.[0]Environment.[82]GlowLine (69).[0]BakedBloom
+KDAEnvironment.[0]Environment.[82]GlowLine (69).[1]BoxLight
+KDAEnvironment.[0]Environment.[83]GlowLine (11)
+KDAEnvironment.[0]Environment.[83]GlowLine (11).[0]BakedBloom
+KDAEnvironment.[0]Environment.[83]GlowLine (11).[1]BoxLight
+KDAEnvironment.[0]Environment.[84]GlowLine (52)
+KDAEnvironment.[0]Environment.[84]GlowLine (52).[0]BakedBloom
+KDAEnvironment.[0]Environment.[84]GlowLine (52).[1]BoxLight
+KDAEnvironment.[0]Environment.[85]GlowLine (6)
+KDAEnvironment.[0]Environment.[85]GlowLine (6).[0]BakedBloom
+KDAEnvironment.[0]Environment.[85]GlowLine (6).[1]BoxLight
+KDAEnvironment.[0]Environment.[86]GlowLine (45)
+KDAEnvironment.[0]Environment.[86]GlowLine (45).[0]BakedBloom
+KDAEnvironment.[0]Environment.[86]GlowLine (45).[1]BoxLight
+KDAEnvironment.[0]Environment.[87]GlowLine (22)
+KDAEnvironment.[0]Environment.[87]GlowLine (22).[0]BakedBloom
+KDAEnvironment.[0]Environment.[87]GlowLine (22).[1]BoxLight
+KDAEnvironment.[0]Environment.[88]GlowLine (28)
+KDAEnvironment.[0]Environment.[88]GlowLine (28).[0]BakedBloom
+KDAEnvironment.[0]Environment.[88]GlowLine (28).[1]BoxLight
+KDAEnvironment.[0]Environment.[89]GlowLine (43)
+KDAEnvironment.[0]Environment.[89]GlowLine (43).[0]BakedBloom
+KDAEnvironment.[0]Environment.[89]GlowLine (43).[1]BoxLight
+KDAEnvironment.[0]Environment.[9]BasicGameHUD
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[0]BG
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[1]BarBG
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[5]Laser
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[0]BG
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[1]Top
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[0]BG
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[1]Top
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+KDAEnvironment.[0]Environment.[90]GlowLine (74)
+KDAEnvironment.[0]Environment.[90]GlowLine (74).[0]BakedBloom
+KDAEnvironment.[0]Environment.[90]GlowLine (74).[1]BoxLight
+KDAEnvironment.[0]Environment.[91]GlowLine (4)
+KDAEnvironment.[0]Environment.[91]GlowLine (4).[0]BakedBloom
+KDAEnvironment.[0]Environment.[91]GlowLine (4).[1]BoxLight
+KDAEnvironment.[0]Environment.[92]GlowLine (31)
+KDAEnvironment.[0]Environment.[92]GlowLine (31).[0]BakedBloom
+KDAEnvironment.[0]Environment.[92]GlowLine (31).[1]BoxLight
+KDAEnvironment.[0]Environment.[93]GlowLine (18)
+KDAEnvironment.[0]Environment.[93]GlowLine (18).[0]BakedBloom
+KDAEnvironment.[0]Environment.[93]GlowLine (18).[1]BoxLight
+KDAEnvironment.[0]Environment.[94]GlowLine (1)
+KDAEnvironment.[0]Environment.[94]GlowLine (1).[0]BakedBloom
+KDAEnvironment.[0]Environment.[94]GlowLine (1).[1]BoxLight
+KDAEnvironment.[0]Environment.[95]GlowLine (40)
+KDAEnvironment.[0]Environment.[95]GlowLine (40).[0]BakedBloom
+KDAEnvironment.[0]Environment.[95]GlowLine (40).[1]BoxLight
+KDAEnvironment.[0]Environment.[96]GlowLine (12)
+KDAEnvironment.[0]Environment.[96]GlowLine (12).[0]BakedBloom
+KDAEnvironment.[0]Environment.[96]GlowLine (12).[1]BoxLight
+KDAEnvironment.[0]Environment.[97]GlowLine (70)
+KDAEnvironment.[0]Environment.[97]GlowLine (70).[0]BakedBloom
+KDAEnvironment.[0]Environment.[97]GlowLine (70).[1]BoxLight
+KDAEnvironment.[0]Environment.[98]GlowLine (13)
+KDAEnvironment.[0]Environment.[98]GlowLine (13).[0]BakedBloom
+KDAEnvironment.[0]Environment.[98]GlowLine (13).[1]BoxLight
+KDAEnvironment.[0]Environment.[99]GlowLine (61)
+KDAEnvironment.[0]Environment.[99]GlowLine (61).[0]BakedBloom
+KDAEnvironment.[0]Environment.[99]GlowLine (61).[1]BoxLight
+KDAEnvironment.[1]CinemaPlaybackController
+KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

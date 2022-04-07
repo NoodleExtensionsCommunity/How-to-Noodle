@@ -1,236 +1,253 @@
 DefaultEnvironment.[0]Environment
 DefaultEnvironment.[0]Environment.[0]DecoratorContext
-DefaultEnvironment.[0]Environment.[1]FakeMirrorObjectsInstaller
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1)
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[0]Mesh
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[1]NeonTubeDirectional
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[1]NeonTubeDirectional.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[1]NeonTubeDirectional.[1]BoxLight
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[2]NeonTubeDirectional (1)
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[2]NeonTubeDirectional (1).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[2]NeonTubeDirectional (1).[1]BoxLight
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[3]NeonTube (2)
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[3]NeonTube (2).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[10]NearBuildingRight (1).[3]NeonTube (2).[1]BoxLight
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2)
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[0]Mesh
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[1]NeonTubeDirectional
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[1]NeonTubeDirectional.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[1]NeonTubeDirectional.[1]BoxLight
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[2]NeonTubeDirectional (1)
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[1]BoxLight
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[3]NeonTube (2)
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[3]NeonTube (2).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[11]NearBuildingLeft (2).[3]NeonTube (2).[1]BoxLight
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2)
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[0]Mesh
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[1]NeonTubeDirectional
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[1]NeonTubeDirectional.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[1]NeonTubeDirectional.[1]BoxLight
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[2]NeonTubeDirectional (1)
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[2]NeonTubeDirectional (1).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[2]NeonTubeDirectional (1).[1]BoxLight
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[3]NeonTube (2)
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[12]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
-DefaultEnvironment.[0]Environment.[13]====== DYNAMIC ======
-DefaultEnvironment.[0]Environment.[14]BackColumns
-DefaultEnvironment.[0]Environment.[14]BackColumns.[0]BackColumnNeon
-DefaultEnvironment.[0]Environment.[14]BackColumns.[0]BackColumnNeon.[0]BoxLight
-DefaultEnvironment.[0]Environment.[14]BackColumns.[0]BackColumnNeon.[1]BakedBloom
-DefaultEnvironment.[0]Environment.[14]BackColumns.[1]BackColumnNeon
-DefaultEnvironment.[0]Environment.[14]BackColumns.[1]BackColumnNeon.[0]BoxLight
-DefaultEnvironment.[0]Environment.[14]BackColumns.[1]BackColumnNeon.[1]BakedBloom
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[0]BG
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[1]BarBG
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[5]Laser
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[0]BG
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[1]Top
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[0]BG
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[1]Top
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
-DefaultEnvironment.[0]Environment.[15]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
-DefaultEnvironment.[0]Environment.[16]BigSmokePS
-DefaultEnvironment.[0]Environment.[17]SmallTrackLaneRings
-DefaultEnvironment.[0]Environment.[18]BigTrackLaneRings
-DefaultEnvironment.[0]Environment.[19]Spectrograms
-DefaultEnvironment.[0]Environment.[19]Spectrograms.[0]Spectrogram
-DefaultEnvironment.[0]Environment.[19]Spectrograms.[0]Spectrogram.[0]Spectrogram0
-DefaultEnvironment.[0]Environment.[19]Spectrograms.[0]Spectrogram.[1]Spectrogram1
-DefaultEnvironment.[0]Environment.[19]Spectrograms.[1]Spectrogram
-DefaultEnvironment.[0]Environment.[19]Spectrograms.[1]Spectrogram.[0]Spectrogram0
-DefaultEnvironment.[0]Environment.[19]Spectrograms.[1]Spectrogram.[1]Spectrogram1
-DefaultEnvironment.[0]Environment.[2]FakeMirrorSettings
-DefaultEnvironment.[0]Environment.[20]DustPS
-DefaultEnvironment.[0]Environment.[21]====== LIGHTS ======
-DefaultEnvironment.[0]Environment.[22]GradientBackground
-DefaultEnvironment.[0]Environment.[23]LightEffects
-DefaultEnvironment.[0]Environment.[24]LightWithIdManager
-DefaultEnvironment.[0]Environment.[25]CoreLighting
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[0]LightManager
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[1]LightWrapper0
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[2]LightWrapper1
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[3]DirectionalLight
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[4]DirectionalLight
-DefaultEnvironment.[0]Environment.[25]CoreLighting.[5]DirectionalLight
-DefaultEnvironment.[0]Environment.[26]FrontLights
-DefaultEnvironment.[0]Environment.[26]FrontLights.[0]NeonTube
-DefaultEnvironment.[0]Environment.[26]FrontLights.[0]NeonTube.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[26]FrontLights.[0]NeonTube.[1]BoxLight
-DefaultEnvironment.[0]Environment.[26]FrontLights.[1]NeonTube (1)
-DefaultEnvironment.[0]Environment.[26]FrontLights.[1]NeonTube (1).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[26]FrontLights.[1]NeonTube (1).[1]BoxLight
-DefaultEnvironment.[0]Environment.[27]DoubleColorLaserR
-DefaultEnvironment.[0]Environment.[27]DoubleColorLaserR.[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[27]DoubleColorLaserR.[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[27]DoubleColorLaserR.[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[27]DoubleColorLaserR.[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[28]DoubleColorLaserL
-DefaultEnvironment.[0]Environment.[28]DoubleColorLaserL.[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[28]DoubleColorLaserL.[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[28]DoubleColorLaserL.[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[28]DoubleColorLaserL.[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[29]DoubleColorLaserR (1)
-DefaultEnvironment.[0]Environment.[29]DoubleColorLaserR (1).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[29]DoubleColorLaserR (1).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[29]DoubleColorLaserR (1).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[29]DoubleColorLaserR (1).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[3]LightmapLightWithIds
-DefaultEnvironment.[0]Environment.[30]DoubleColorLaserL (1)
-DefaultEnvironment.[0]Environment.[30]DoubleColorLaserL (1).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[30]DoubleColorLaserL (1).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[30]DoubleColorLaserL (1).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[30]DoubleColorLaserL (1).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[31]DoubleColorLaserR (2)
-DefaultEnvironment.[0]Environment.[31]DoubleColorLaserR (2).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[31]DoubleColorLaserR (2).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[31]DoubleColorLaserR (2).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[31]DoubleColorLaserR (2).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[32]DoubleColorLaserL (2)
-DefaultEnvironment.[0]Environment.[32]DoubleColorLaserL (2).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[32]DoubleColorLaserL (2).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[32]DoubleColorLaserL (2).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[32]DoubleColorLaserL (2).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[33]DoubleColorLaserR (3)
-DefaultEnvironment.[0]Environment.[33]DoubleColorLaserR (3).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[33]DoubleColorLaserR (3).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[33]DoubleColorLaserR (3).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[33]DoubleColorLaserR (3).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[34]DoubleColorLaserL (3)
-DefaultEnvironment.[0]Environment.[34]DoubleColorLaserL (3).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[34]DoubleColorLaserL (3).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[34]DoubleColorLaserL (3).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[34]DoubleColorLaserL (3).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[35]DoubleColorLaserR (4)
-DefaultEnvironment.[0]Environment.[35]DoubleColorLaserR (4).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[35]DoubleColorLaserR (4).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[35]DoubleColorLaserR (4).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[35]DoubleColorLaserR (4).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[36]DoubleColorLaserL (4)
-DefaultEnvironment.[0]Environment.[36]DoubleColorLaserL (4).[0]TopBoxLight
-DefaultEnvironment.[0]Environment.[36]DoubleColorLaserL (4).[1]TopBakedBloom
-DefaultEnvironment.[0]Environment.[36]DoubleColorLaserL (4).[2]BottomBoxLight
-DefaultEnvironment.[0]Environment.[36]DoubleColorLaserL (4).[3]BottomBakedBloom
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[0]BaseL
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[0]BaseL.[0]Laser
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[1]BaseR
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[1]BaseR.[0]Laser
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[37]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1)
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[0]BaseL
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[0]BaseL.[0]Laser
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[1]BaseR
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[1]BaseR.[0]Laser
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[38]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2)
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[0]BaseL
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[0]BaseL.[0]Laser
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[1]BaseR
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[1]BaseR.[0]Laser
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[4]BakedReflectionProbe
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3)
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[0]BaseL
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[0]BaseL.[0]Laser
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[1]BaseR
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[1]BaseR.[0]Laser
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
-DefaultEnvironment.[0]Environment.[41]NeonTubeL
-DefaultEnvironment.[0]Environment.[41]NeonTubeL.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[41]NeonTubeL.[1]BoxLight
-DefaultEnvironment.[0]Environment.[42]NeonTubeR
-DefaultEnvironment.[0]Environment.[42]NeonTubeR.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[42]NeonTubeR.[1]BoxLight
-DefaultEnvironment.[0]Environment.[5]====== STATIC ======
-DefaultEnvironment.[0]Environment.[6]PlayersPlace
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[4]Frame
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[6]SaberBurnMarksArea
-DefaultEnvironment.[0]Environment.[6]PlayersPlace.[7]Collider
-DefaultEnvironment.[0]Environment.[7]TrackMirror
-DefaultEnvironment.[0]Environment.[7]TrackMirror.[0]SetDepthOnly
-DefaultEnvironment.[0]Environment.[8]TrackConstruction
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1)
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[0]Mesh
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[1]NeonTubeDirectional
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[1]NeonTubeDirectional.[0]BakedBloom
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[1]NeonTubeDirectional.[1]BoxLight
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[2]NeonTubeDirectional (1)
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[1]BoxLight
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[3]NeonTube (2)
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[3]NeonTube (2).[0]BakedBloom
-DefaultEnvironment.[0]Environment.[9]NearBuildingLeft (1).[3]NeonTube (2).[1]BoxLight
+DefaultEnvironment.[0]Environment.[1]SceneSetup
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1)
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[0]Mesh
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[1]NeonTubeDirectional
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[1]NeonTubeDirectional.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[1]NeonTubeDirectional.[1]BoxLight
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[2]NeonTubeDirectional (1)
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[1]BoxLight
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[3]NeonTube (2)
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[3]NeonTube (2).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[10]NearBuildingLeft (1).[3]NeonTube (2).[1]BoxLight
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1)
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[0]Mesh
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[1]NeonTubeDirectional
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[1]NeonTubeDirectional.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[1]NeonTubeDirectional.[1]BoxLight
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[2]NeonTubeDirectional (1)
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[2]NeonTubeDirectional (1).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[2]NeonTubeDirectional (1).[1]BoxLight
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[3]NeonTube (2)
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[3]NeonTube (2).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[11]NearBuildingRight (1).[3]NeonTube (2).[1]BoxLight
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2)
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[0]Mesh
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[1]NeonTubeDirectional
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[1]NeonTubeDirectional.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[1]NeonTubeDirectional.[1]BoxLight
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[2]NeonTubeDirectional (1)
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[1]BoxLight
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[3]NeonTube (2)
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[3]NeonTube (2).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[12]NearBuildingLeft (2).[3]NeonTube (2).[1]BoxLight
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2)
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[0]Mesh
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[1]NeonTubeDirectional
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[1]NeonTubeDirectional.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[1]NeonTubeDirectional.[1]BoxLight
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[2]NeonTubeDirectional (1)
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[2]NeonTubeDirectional (1).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[2]NeonTubeDirectional (1).[1]BoxLight
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[3]NeonTube (2)
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[13]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
+DefaultEnvironment.[0]Environment.[14]====== DYNAMIC ======
+DefaultEnvironment.[0]Environment.[15]BackColumns
+DefaultEnvironment.[0]Environment.[15]BackColumns.[0]BackColumnNeon
+DefaultEnvironment.[0]Environment.[15]BackColumns.[0]BackColumnNeon.[0]BoxLight
+DefaultEnvironment.[0]Environment.[15]BackColumns.[0]BackColumnNeon.[1]BakedBloom
+DefaultEnvironment.[0]Environment.[15]BackColumns.[1]BackColumnNeon
+DefaultEnvironment.[0]Environment.[15]BackColumns.[1]BackColumnNeon.[0]BoxLight
+DefaultEnvironment.[0]Environment.[15]BackColumns.[1]BackColumnNeon.[1]BakedBloom
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[0]BG
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[1]BarBG
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[5]Laser
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[0]BG
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[1]Top
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[0]BG
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[1]Top
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+DefaultEnvironment.[0]Environment.[17]BigSmokePS
+DefaultEnvironment.[0]Environment.[18]SmallTrackLaneRings
+DefaultEnvironment.[0]Environment.[19]BigTrackLaneRings
+DefaultEnvironment.[0]Environment.[2]FakeMirrorObjectsInstaller
+DefaultEnvironment.[0]Environment.[20]Spectrograms
+DefaultEnvironment.[0]Environment.[20]Spectrograms.[0]Spectrogram
+DefaultEnvironment.[0]Environment.[20]Spectrograms.[0]Spectrogram.[0]Spectrogram0
+DefaultEnvironment.[0]Environment.[20]Spectrograms.[0]Spectrogram.[1]Spectrogram1
+DefaultEnvironment.[0]Environment.[20]Spectrograms.[1]Spectrogram
+DefaultEnvironment.[0]Environment.[20]Spectrograms.[1]Spectrogram.[0]Spectrogram0
+DefaultEnvironment.[0]Environment.[20]Spectrograms.[1]Spectrogram.[1]Spectrogram1
+DefaultEnvironment.[0]Environment.[21]DustPS
+DefaultEnvironment.[0]Environment.[22]====== LIGHTS ======
+DefaultEnvironment.[0]Environment.[23]GradientBackground
+DefaultEnvironment.[0]Environment.[24]LightEffects
+DefaultEnvironment.[0]Environment.[25]LightWithIdManager
+DefaultEnvironment.[0]Environment.[26]CoreLighting
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[0]LightManager
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[1]LightWrapper0
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[2]LightWrapper1
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[3]DirectionalLight
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[4]DirectionalLight
+DefaultEnvironment.[0]Environment.[26]CoreLighting.[5]DirectionalLight
+DefaultEnvironment.[0]Environment.[27]FrontLights
+DefaultEnvironment.[0]Environment.[27]FrontLights.[0]NeonTube
+DefaultEnvironment.[0]Environment.[27]FrontLights.[0]NeonTube.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[27]FrontLights.[0]NeonTube.[1]BoxLight
+DefaultEnvironment.[0]Environment.[27]FrontLights.[1]NeonTube (1)
+DefaultEnvironment.[0]Environment.[27]FrontLights.[1]NeonTube (1).[0]BakedBloom
+DefaultEnvironment.[0]Environment.[27]FrontLights.[1]NeonTube (1).[1]BoxLight
+DefaultEnvironment.[0]Environment.[28]DoubleColorLaserR
+DefaultEnvironment.[0]Environment.[28]DoubleColorLaserR.[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[28]DoubleColorLaserR.[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[28]DoubleColorLaserR.[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[28]DoubleColorLaserR.[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[29]DoubleColorLaserL
+DefaultEnvironment.[0]Environment.[29]DoubleColorLaserL.[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[29]DoubleColorLaserL.[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[29]DoubleColorLaserL.[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[29]DoubleColorLaserL.[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[3]FakeMirrorSettings
+DefaultEnvironment.[0]Environment.[30]DoubleColorLaserR (1)
+DefaultEnvironment.[0]Environment.[30]DoubleColorLaserR (1).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[30]DoubleColorLaserR (1).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[30]DoubleColorLaserR (1).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[30]DoubleColorLaserR (1).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[31]DoubleColorLaserL (1)
+DefaultEnvironment.[0]Environment.[31]DoubleColorLaserL (1).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[31]DoubleColorLaserL (1).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[31]DoubleColorLaserL (1).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[31]DoubleColorLaserL (1).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[32]DoubleColorLaserR (2)
+DefaultEnvironment.[0]Environment.[32]DoubleColorLaserR (2).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[32]DoubleColorLaserR (2).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[32]DoubleColorLaserR (2).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[32]DoubleColorLaserR (2).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[33]DoubleColorLaserL (2)
+DefaultEnvironment.[0]Environment.[33]DoubleColorLaserL (2).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[33]DoubleColorLaserL (2).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[33]DoubleColorLaserL (2).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[33]DoubleColorLaserL (2).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[34]DoubleColorLaserR (3)
+DefaultEnvironment.[0]Environment.[34]DoubleColorLaserR (3).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[34]DoubleColorLaserR (3).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[34]DoubleColorLaserR (3).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[34]DoubleColorLaserR (3).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[35]DoubleColorLaserL (3)
+DefaultEnvironment.[0]Environment.[35]DoubleColorLaserL (3).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[35]DoubleColorLaserL (3).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[35]DoubleColorLaserL (3).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[35]DoubleColorLaserL (3).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[36]DoubleColorLaserR (4)
+DefaultEnvironment.[0]Environment.[36]DoubleColorLaserR (4).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[36]DoubleColorLaserR (4).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[36]DoubleColorLaserR (4).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[36]DoubleColorLaserR (4).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[37]DoubleColorLaserL (4)
+DefaultEnvironment.[0]Environment.[37]DoubleColorLaserL (4).[0]TopBoxLight
+DefaultEnvironment.[0]Environment.[37]DoubleColorLaserL (4).[1]TopBakedBloom
+DefaultEnvironment.[0]Environment.[37]DoubleColorLaserL (4).[2]BottomBoxLight
+DefaultEnvironment.[0]Environment.[37]DoubleColorLaserL (4).[3]BottomBakedBloom
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[0]BaseL
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[0]BaseL.[0]Laser
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[1]BaseR
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[1]BaseR.[0]Laser
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[38]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1)
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[0]BaseL
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[0]BaseL.[0]Laser
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[1]BaseR
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[1]BaseR.[0]Laser
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[39]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[4]LightmapLightWithIds
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2)
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[0]BaseL
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[0]BaseL.[0]Laser
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[1]BaseR
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[1]BaseR.[0]Laser
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[40]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3)
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[0]BaseL
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[0]BaseL.[0]Laser
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[1]BaseR
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[1]BaseR.[0]Laser
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[41]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
+DefaultEnvironment.[0]Environment.[42]NeonTubeL
+DefaultEnvironment.[0]Environment.[42]NeonTubeL.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[42]NeonTubeL.[1]BoxLight
+DefaultEnvironment.[0]Environment.[43]NeonTubeR
+DefaultEnvironment.[0]Environment.[43]NeonTubeR.[0]BakedBloom
+DefaultEnvironment.[0]Environment.[43]NeonTubeR.[1]BoxLight
+DefaultEnvironment.[0]Environment.[5]BakedReflectionProbe
+DefaultEnvironment.[0]Environment.[6]====== STATIC ======
+DefaultEnvironment.[0]Environment.[7]PlayersPlace
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[0]Mirror
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[1]Feet
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[2]Construction
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[3]RectangleFakeGlow
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[4]SaberBurnMarksParticles
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[5]SaberBurnMarksArea
+DefaultEnvironment.[0]Environment.[7]PlayersPlace.[6]Collider
+DefaultEnvironment.[0]Environment.[8]TrackMirror
+DefaultEnvironment.[0]Environment.[8]TrackMirror.[0]SetDepthOnly
+DefaultEnvironment.[0]Environment.[9]TrackConstruction
+DefaultEnvironment.[1]CinemaPlaybackController
+DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
 GameCore.[1]SmallTrackLaneRing(Clone)
 GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
 GameCore.[10]SmallTrackLaneRing(Clone)

@@ -7,11 +7,10 @@ LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[0]Mirror
 LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[1]Feet
 LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[2]Construction
 LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[3]RectangleFakeGlow
-LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[4]Frame
-LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles
-LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[6]SaberBurnMarksArea
-LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[7]Collider
+LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[4]SaberBurnMarksParticles
+LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksArea
+LinkinParkEnvironment.[0]Environment.[11]PlayersPlace.[6]Collider
 LinkinParkEnvironment.[0]Environment.[12]TrackMirror
 LinkinParkEnvironment.[0]Environment.[12]TrackMirror.[0]TrackMirrorSetDepth
 LinkinParkEnvironment.[0]Environment.[13]TrackConstruction
@@ -73,6 +72,9 @@ LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[0]ComboPane
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -87,6 +89,17 @@ LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[0]Multipli
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+LinkinParkEnvironment.[0]Environment.[29]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
 LinkinParkEnvironment.[0]Environment.[3]FakeMirrorSettings
 LinkinParkEnvironment.[0]Environment.[30]Spectrograms
 LinkinParkEnvironment.[0]Environment.[30]Spectrograms.[0]TunnelSpectrogram
@@ -316,3 +329,6 @@ LinkinParkEnvironment.[0]Environment.[69]LaserTop (7).[1]BakedBloom
 LinkinParkEnvironment.[0]Environment.[7]BSBakedLightingLightWithIds
 LinkinParkEnvironment.[0]Environment.[8]BakedReflectionProbe
 LinkinParkEnvironment.[0]Environment.[9]====== STATIC ======
+LinkinParkEnvironment.[1]CinemaPlaybackController
+LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

@@ -273,11 +273,10 @@ GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[0]Mirror
 GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[1]Feet
 GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[2]Construction
 GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[3]RectangleFakeGlow
-GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[4]Frame
-GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksParticles
-GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[6]SaberBurnMarksArea
-GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[7]Collider
+GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles
+GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksArea
+GreenDayEnvironment.[0]Environment.[3]PlayersPlace.[6]Collider
 GreenDayEnvironment.[0]Environment.[30]GlowLineL (20)
 GreenDayEnvironment.[0]Environment.[30]GlowLineL (20).[0]BakedBloom
 GreenDayEnvironment.[0]Environment.[30]GlowLineL (20).[1]BoxLight
@@ -383,6 +382,9 @@ GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -397,5 +399,19 @@ GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierC
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+GreenDayEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
 GreenDayEnvironment.[0]Environment.[8]Logo
 GreenDayEnvironment.[0]Environment.[9]BigSmokePS
+GreenDayEnvironment.[1]CinemaPlaybackController
+GreenDayEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+GreenDayEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

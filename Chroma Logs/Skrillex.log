@@ -394,6 +394,9 @@ SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[0]BG
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[1]Top
@@ -410,6 +413,17 @@ SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierC
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
 SkrillexEnvironment.[0]Environment.[12]DustPS
 SkrillexEnvironment.[0]Environment.[13]BigSmokePS
 SkrillexEnvironment.[0]Environment.[14]====== LIGHTS ======
@@ -851,9 +865,11 @@ SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[0]Mirror
 SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[1]Feet
 SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[2]Construction
 SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[3]RectangleFakeGlow
-SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[4]Frame
-SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[5]SaberBurnMarksParticles
-SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[6]SaberBurnMarksArea
-SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[7]Collider
+SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[4]SaberBurnMarksParticles
+SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[5]SaberBurnMarksArea
+SkrillexEnvironment.[0]Environment.[8]PlayersPlace.[6]Collider
 SkrillexEnvironment.[0]Environment.[9]====== DYNAMIC ======
+SkrillexEnvironment.[1]CinemaPlaybackController
+SkrillexEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+SkrillexEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

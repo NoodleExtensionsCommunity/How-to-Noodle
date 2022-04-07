@@ -1,348 +1,170 @@
-GameCore.[1]LightsTrackLaneRing(Clone)
-GameCore.[1]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[1]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[1]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[1]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[1]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[1]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[1]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[1]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[1]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[1]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[1]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[1]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[10]LightsTrackLaneRing(Clone)
-GameCore.[10]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[10]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[10]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[10]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[10]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[10]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[10]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[10]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[10]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[10]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[10]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[10]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[11]LightsTrackLaneRing(Clone)
-GameCore.[11]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[11]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[11]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[11]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[11]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[11]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[11]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[11]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[11]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[11]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[11]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[11]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[12]LightsTrackLaneRing(Clone)
-GameCore.[12]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[12]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[12]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[12]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[12]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[12]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[12]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[12]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[12]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[12]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[12]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[12]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[13]LightsTrackLaneRing(Clone)
-GameCore.[13]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[13]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[13]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[13]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[13]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[13]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[13]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[13]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[13]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[13]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[13]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[13]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[14]LightsTrackLaneRing(Clone)
-GameCore.[14]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[14]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[14]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[14]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[14]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[14]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[14]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[14]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[14]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[14]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[14]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[14]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[15]LightsTrackLaneRing(Clone)
-GameCore.[15]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[15]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[15]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[15]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[15]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[15]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[15]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[15]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[15]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[15]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[15]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[15]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[2]LightsTrackLaneRing(Clone)
-GameCore.[2]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[2]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[2]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[2]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[2]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[2]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[2]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[2]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[2]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[2]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[2]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[2]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[3]LightsTrackLaneRing(Clone)
-GameCore.[3]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[3]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[3]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[3]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[3]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[3]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[3]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[3]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[3]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[3]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[3]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[3]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[4]LightsTrackLaneRing(Clone)
-GameCore.[4]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[4]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[4]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[4]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[4]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[4]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[4]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[4]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[4]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[4]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[4]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[4]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[5]LightsTrackLaneRing(Clone)
-GameCore.[5]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[5]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[5]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[5]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[5]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[5]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[5]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[5]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[5]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[5]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[5]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[5]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[6]LightsTrackLaneRing(Clone)
-GameCore.[6]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[6]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[6]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[6]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[6]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[6]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[6]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[6]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[6]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[6]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[6]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[6]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[7]LightsTrackLaneRing(Clone)
-GameCore.[7]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[7]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[7]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[7]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[7]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[7]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[7]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[7]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[7]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[7]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[7]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[7]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[8]LightsTrackLaneRing(Clone)
-GameCore.[8]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[8]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[8]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[8]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[8]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[8]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[8]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[8]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[8]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[8]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[8]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[8]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
-GameCore.[9]LightsTrackLaneRing(Clone)
-GameCore.[9]LightsTrackLaneRing(Clone).[0]Laser
-GameCore.[9]LightsTrackLaneRing(Clone).[0]Laser.[0]BakedBloom
-GameCore.[9]LightsTrackLaneRing(Clone).[0]Laser.[1]BoxLight
-GameCore.[9]LightsTrackLaneRing(Clone).[1]Laser (1)
-GameCore.[9]LightsTrackLaneRing(Clone).[1]Laser (1).[0]BakedBloom
-GameCore.[9]LightsTrackLaneRing(Clone).[1]Laser (1).[1]BoxLight
-GameCore.[9]LightsTrackLaneRing(Clone).[2]Laser (2)
-GameCore.[9]LightsTrackLaneRing(Clone).[2]Laser (2).[0]BakedBloom
-GameCore.[9]LightsTrackLaneRing(Clone).[2]Laser (2).[1]BoxLight
-GameCore.[9]LightsTrackLaneRing(Clone).[3]Laser (3)
-GameCore.[9]LightsTrackLaneRing(Clone).[3]Laser (3).[0]BakedBloom
-GameCore.[9]LightsTrackLaneRing(Clone).[3]Laser (3).[1]BoxLight
 OriginsEnvironment.[0]Environment
 OriginsEnvironment.[0]Environment.[0]DecoratorContext
-OriginsEnvironment.[0]Environment.[1]BSBakedLightingLightWithIds
-OriginsEnvironment.[0]Environment.[10]====== DYNAMIC ======
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[0]BG
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[5]Laser
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
-OriginsEnvironment.[0]Environment.[11]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
-OriginsEnvironment.[0]Environment.[12]BigSmokePS
-OriginsEnvironment.[0]Environment.[13]Spectrograms
-OriginsEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram
-OriginsEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram.[0]Spectrogram0
-OriginsEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram.[1]Spectrogram1
-OriginsEnvironment.[0]Environment.[13]Spectrograms.[1]Spectrogram
-OriginsEnvironment.[0]Environment.[13]Spectrograms.[1]Spectrogram.[0]Spectrogram0
-OriginsEnvironment.[0]Environment.[13]Spectrograms.[1]Spectrogram.[1]Spectrogram1
-OriginsEnvironment.[0]Environment.[14]DustPS
-OriginsEnvironment.[0]Environment.[15]====== LIGHTS ======
-OriginsEnvironment.[0]Environment.[16]BigLightsTrackLaneRings
-OriginsEnvironment.[0]Environment.[17]SidePSR
-OriginsEnvironment.[0]Environment.[18]SidePSL
-OriginsEnvironment.[0]Environment.[19]LightWithIdManager
-OriginsEnvironment.[0]Environment.[2]BakedReflectionProbe
-OriginsEnvironment.[0]Environment.[20]CoreLighting
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[0]LightManager
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[1]LightWrapper0
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[2]LightWrapper1
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[3]DirectionalLight
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[4]DirectionalLight
-OriginsEnvironment.[0]Environment.[20]CoreLighting.[5]DirectionalLight
-OriginsEnvironment.[0]Environment.[21]LightEffects
-OriginsEnvironment.[0]Environment.[22]FrontLights
-OriginsEnvironment.[0]Environment.[22]FrontLights.[0]NeonTube
-OriginsEnvironment.[0]Environment.[22]FrontLights.[0]NeonTube.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[22]FrontLights.[0]NeonTube.[1]BoxLight
-OriginsEnvironment.[0]Environment.[22]FrontLights.[1]NeonTube (1)
-OriginsEnvironment.[0]Environment.[22]FrontLights.[1]NeonTube (1).[0]BakedBloom
-OriginsEnvironment.[0]Environment.[22]FrontLights.[1]NeonTube (1).[1]BoxLight
-OriginsEnvironment.[0]Environment.[23]LightAreaL
-OriginsEnvironment.[0]Environment.[24]LightAreaR
-OriginsEnvironment.[0]Environment.[25]GradientBackground
-OriginsEnvironment.[0]Environment.[26]NeonTube
-OriginsEnvironment.[0]Environment.[26]NeonTube.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[26]NeonTube.[1]BoxLight
-OriginsEnvironment.[0]Environment.[27]NeonTube (1)
-OriginsEnvironment.[0]Environment.[27]NeonTube (1).[0]BakedBloom
-OriginsEnvironment.[0]Environment.[27]NeonTube (1).[1]BoxLight
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[0]BaseL
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[0]BaseL.[0]Laser
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[1]BaseR
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[1]BaseR.[0]Laser
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[28]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1)
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[0]BaseL
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[0]BaseL.[0]Laser
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[1]BaseR
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[1]BaseR.[0]Laser
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[29]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[3]BakedReflectionProbeInstaller
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2)
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[0]BaseL
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[0]BaseL.[0]Laser
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[1]BaseR
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[1]BaseR.[0]Laser
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3)
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[0]BaseL
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[0]BaseL.[0]Laser
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[1]BaseR
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[1]BaseR.[0]Laser
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4)
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[0]BaseL
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[0]BaseL.[0]Laser
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[1]BaseR
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[1]BaseR.[0]Laser
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[33]Laser
-OriginsEnvironment.[0]Environment.[33]Laser.[0]BakedBloom
-OriginsEnvironment.[0]Environment.[33]Laser.[1]BoxLight
-OriginsEnvironment.[0]Environment.[34]Laser (1)
-OriginsEnvironment.[0]Environment.[34]Laser (1).[0]BakedBloom
-OriginsEnvironment.[0]Environment.[34]Laser (1).[1]BoxLight
-OriginsEnvironment.[0]Environment.[35]Laser (2)
-OriginsEnvironment.[0]Environment.[35]Laser (2).[0]BakedBloom
-OriginsEnvironment.[0]Environment.[35]Laser (2).[1]BoxLight
-OriginsEnvironment.[0]Environment.[36]Laser (3)
-OriginsEnvironment.[0]Environment.[36]Laser (3).[0]BakedBloom
-OriginsEnvironment.[0]Environment.[36]Laser (3).[1]BoxLight
-OriginsEnvironment.[0]Environment.[4]FakeMirrorSettings
-OriginsEnvironment.[0]Environment.[5]====== STATIC ======
-OriginsEnvironment.[0]Environment.[6]Construction
-OriginsEnvironment.[0]Environment.[7]TrackConstruction
-OriginsEnvironment.[0]Environment.[8]PlayersPlace
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[0]Mirror
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[1]Feet
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[2]Construction
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[3]RectangleFakeGlow
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[4]Frame
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[5]SaberBurnMarksParticles
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[6]SaberBurnMarksArea
-OriginsEnvironment.[0]Environment.[8]PlayersPlace.[7]Collider
-OriginsEnvironment.[0]Environment.[9]TrackMirror
-OriginsEnvironment.[0]Environment.[9]TrackMirror.[0]SetDepthOnly
+OriginsEnvironment.[0]Environment.[1]SceneSetup
+OriginsEnvironment.[0]Environment.[10]TrackMirror
+OriginsEnvironment.[0]Environment.[10]TrackMirror.[0]SetDepthOnly
+OriginsEnvironment.[0]Environment.[11]====== DYNAMIC ======
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[0]BG
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+OriginsEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
+OriginsEnvironment.[0]Environment.[13]BigSmokePS
+OriginsEnvironment.[0]Environment.[14]Spectrograms
+OriginsEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram
+OriginsEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[0]Spectrogram0
+OriginsEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[1]Spectrogram1
+OriginsEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram
+OriginsEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[0]Spectrogram0
+OriginsEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[1]Spectrogram1
+OriginsEnvironment.[0]Environment.[15]DustPS
+OriginsEnvironment.[0]Environment.[16]====== LIGHTS ======
+OriginsEnvironment.[0]Environment.[17]BigLightsTrackLaneRings
+OriginsEnvironment.[0]Environment.[18]SidePSR
+OriginsEnvironment.[0]Environment.[19]SidePSL
+OriginsEnvironment.[0]Environment.[2]BSBakedLightingLightWithIds
+OriginsEnvironment.[0]Environment.[20]LightWithIdManager
+OriginsEnvironment.[0]Environment.[21]CoreLighting
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[0]LightManager
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[1]LightWrapper0
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[2]LightWrapper1
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[3]DirectionalLight
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[4]DirectionalLight
+OriginsEnvironment.[0]Environment.[21]CoreLighting.[5]DirectionalLight
+OriginsEnvironment.[0]Environment.[22]LightEffects
+OriginsEnvironment.[0]Environment.[23]FrontLights
+OriginsEnvironment.[0]Environment.[23]FrontLights.[0]NeonTube
+OriginsEnvironment.[0]Environment.[23]FrontLights.[0]NeonTube.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[23]FrontLights.[0]NeonTube.[1]BoxLight
+OriginsEnvironment.[0]Environment.[23]FrontLights.[1]NeonTube (1)
+OriginsEnvironment.[0]Environment.[23]FrontLights.[1]NeonTube (1).[0]BakedBloom
+OriginsEnvironment.[0]Environment.[23]FrontLights.[1]NeonTube (1).[1]BoxLight
+OriginsEnvironment.[0]Environment.[24]LightAreaL
+OriginsEnvironment.[0]Environment.[25]LightAreaR
+OriginsEnvironment.[0]Environment.[26]GradientBackground
+OriginsEnvironment.[0]Environment.[27]NeonTube
+OriginsEnvironment.[0]Environment.[27]NeonTube.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[27]NeonTube.[1]BoxLight
+OriginsEnvironment.[0]Environment.[28]NeonTube (1)
+OriginsEnvironment.[0]Environment.[28]NeonTube (1).[0]BakedBloom
+OriginsEnvironment.[0]Environment.[28]NeonTube (1).[1]BoxLight
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL.[0]Laser
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR.[0]Laser
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[3]BakedReflectionProbe
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1)
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR.[0]Laser
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2)
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL.[0]Laser
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR.[0]Laser
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3)
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL.[0]Laser
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR.[0]Laser
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4)
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[0]BaseL
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[0]BaseL.[0]Laser
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[0]BaseL.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[0]BaseL.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[1]BaseR
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[1]BaseR.[0]Laser
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[1]BaseR.[0]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[33]RotatingLasersPair (4).[1]BaseR.[0]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[34]Laser
+OriginsEnvironment.[0]Environment.[34]Laser.[0]BakedBloom
+OriginsEnvironment.[0]Environment.[34]Laser.[1]BoxLight
+OriginsEnvironment.[0]Environment.[35]Laser (1)
+OriginsEnvironment.[0]Environment.[35]Laser (1).[0]BakedBloom
+OriginsEnvironment.[0]Environment.[35]Laser (1).[1]BoxLight
+OriginsEnvironment.[0]Environment.[36]Laser (2)
+OriginsEnvironment.[0]Environment.[36]Laser (2).[0]BakedBloom
+OriginsEnvironment.[0]Environment.[36]Laser (2).[1]BoxLight
+OriginsEnvironment.[0]Environment.[37]Laser (3)
+OriginsEnvironment.[0]Environment.[37]Laser (3).[0]BakedBloom
+OriginsEnvironment.[0]Environment.[37]Laser (3).[1]BoxLight
+OriginsEnvironment.[0]Environment.[4]BakedReflectionProbeInstaller
+OriginsEnvironment.[0]Environment.[5]FakeMirrorSettings
+OriginsEnvironment.[0]Environment.[6]====== STATIC ======
+OriginsEnvironment.[0]Environment.[7]Construction
+OriginsEnvironment.[0]Environment.[8]TrackConstruction
+OriginsEnvironment.[0]Environment.[9]PlayersPlace
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[0]Mirror
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[1]Feet
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[2]Construction
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[3]RectangleFakeGlow
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[4]SaberBurnMarksParticles
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[5]SaberBurnMarksArea
+OriginsEnvironment.[0]Environment.[9]PlayersPlace.[6]Collider
+OriginsEnvironment.[1]CinemaPlaybackController
+OriginsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+OriginsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

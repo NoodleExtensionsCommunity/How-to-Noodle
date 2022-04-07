@@ -1,6 +1,6 @@
 RocketEnvironment.[0]Environment
 RocketEnvironment.[0]Environment.[0]DecoratorContext
-RocketEnvironment.[0]Environment.[1]SceneContext
+RocketEnvironment.[0]Environment.[1]SceneSetup
 RocketEnvironment.[0]Environment.[10]DustPS
 RocketEnvironment.[0]Environment.[11]====== LIGHTS ======
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD
@@ -23,6 +23,9 @@ RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -37,6 +40,17 @@ RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCa
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+RocketEnvironment.[0]Environment.[12]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
 RocketEnvironment.[0]Environment.[13]RocketArenaLight
 RocketEnvironment.[0]Environment.[14]BigSmokePS
 RocketEnvironment.[0]Environment.[15]RocketGateLight
@@ -210,13 +224,15 @@ RocketEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
 RocketEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
 RocketEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
 RocketEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
-RocketEnvironment.[0]Environment.[6]PlayersPlace.[4]Frame
-RocketEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles
-RocketEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-RocketEnvironment.[0]Environment.[6]PlayersPlace.[6]SaberBurnMarksArea
-RocketEnvironment.[0]Environment.[6]PlayersPlace.[7]Collider
+RocketEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles
+RocketEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+RocketEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksArea
+RocketEnvironment.[0]Environment.[6]PlayersPlace.[6]Collider
 RocketEnvironment.[0]Environment.[7]RocketCarL
 RocketEnvironment.[0]Environment.[7]RocketCarL.[0]Shadow
 RocketEnvironment.[0]Environment.[8]RocketCarR
 RocketEnvironment.[0]Environment.[8]RocketCarR.[0]Shadow
 RocketEnvironment.[0]Environment.[9]====== DYNAMIC ======
+RocketEnvironment.[1]CinemaPlaybackController
+RocketEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+RocketEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

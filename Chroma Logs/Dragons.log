@@ -1,6 +1,6 @@
 DragonsEnvironment.[0]Environment
 DragonsEnvironment.[0]Environment.[0]DecoratorContext
-DragonsEnvironment.[0]Environment.[1]SceneContext
+DragonsEnvironment.[0]Environment.[1]SceneSetup
 DragonsEnvironment.[0]Environment.[10]GlowLineL
 DragonsEnvironment.[0]Environment.[10]GlowLineL.[0]BoxLight
 DragonsEnvironment.[0]Environment.[10]GlowLineL.[1]BakedBloom
@@ -26,6 +26,9 @@ DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[0]BG
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[1]Top
@@ -42,6 +45,17 @@ DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCa
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
 DragonsEnvironment.[0]Environment.[12]Spectrograms
 DragonsEnvironment.[0]Environment.[12]Spectrograms.[0]Spectrogram
 DragonsEnvironment.[0]Environment.[12]Spectrograms.[0]Spectrogram.[0]Spectrogram0
@@ -104,11 +118,10 @@ DragonsEnvironment.[0]Environment.[3]PlayersPlace.[0]Mirror
 DragonsEnvironment.[0]Environment.[3]PlayersPlace.[1]Feet
 DragonsEnvironment.[0]Environment.[3]PlayersPlace.[2]Construction
 DragonsEnvironment.[0]Environment.[3]PlayersPlace.[3]RectangleFakeGlow
-DragonsEnvironment.[0]Environment.[3]PlayersPlace.[4]Frame
-DragonsEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksParticles
-DragonsEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-DragonsEnvironment.[0]Environment.[3]PlayersPlace.[6]SaberBurnMarksArea
-DragonsEnvironment.[0]Environment.[3]PlayersPlace.[7]Collider
+DragonsEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles
+DragonsEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+DragonsEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksArea
+DragonsEnvironment.[0]Environment.[3]PlayersPlace.[6]Collider
 DragonsEnvironment.[0]Environment.[30]RotatingLasersPair (1)
 DragonsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL
 DragonsEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser
@@ -156,6 +169,9 @@ DragonsEnvironment.[0]Environment.[6]HallConstruction
 DragonsEnvironment.[0]Environment.[7]Underground
 DragonsEnvironment.[0]Environment.[8]====== DYNAMIC ======
 DragonsEnvironment.[0]Environment.[9]====== LIGHTS ======
+DragonsEnvironment.[1]CinemaPlaybackController
+DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
 GameCore.[1]PanelsTrackLaneRing(Clone)
 GameCore.[1]PanelsTrackLaneRing(Clone).[0]Ring
 GameCore.[10]PanelsTrackLaneRing(Clone)

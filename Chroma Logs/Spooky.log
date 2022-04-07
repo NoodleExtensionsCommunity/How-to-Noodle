@@ -1,421 +1,439 @@
 HalloweenEnvironment.[0]Environment
 HalloweenEnvironment.[0]Environment.[0]DecoratorContext
-HalloweenEnvironment.[0]Environment.[1]FakeMirrorObjectsInstaller
-HalloweenEnvironment.[0]Environment.[10]Grave1
-HalloweenEnvironment.[0]Environment.[100]GroundStone (28)
-HalloweenEnvironment.[0]Environment.[101]GroundStone (29)
-HalloweenEnvironment.[0]Environment.[102]GroundStone (30)
-HalloweenEnvironment.[0]Environment.[103]GroundStone (31)
-HalloweenEnvironment.[0]Environment.[104]GroundStone (32)
-HalloweenEnvironment.[0]Environment.[105]GroundStone (33)
-HalloweenEnvironment.[0]Environment.[106]GroundStone (34)
-HalloweenEnvironment.[0]Environment.[107]GroundStone (35)
-HalloweenEnvironment.[0]Environment.[108]GroundStone (36)
-HalloweenEnvironment.[0]Environment.[109]GroundStone (38)
-HalloweenEnvironment.[0]Environment.[11]Fence
-HalloweenEnvironment.[0]Environment.[110]GroundStone (37)
-HalloweenEnvironment.[0]Environment.[111]GroundStone (39)
-HalloweenEnvironment.[0]Environment.[112]GroundStone (4)
-HalloweenEnvironment.[0]Environment.[113]GroundStone (40)
-HalloweenEnvironment.[0]Environment.[114]GroundStone (41)
-HalloweenEnvironment.[0]Environment.[115]GroundStone (42)
-HalloweenEnvironment.[0]Environment.[116]GroundStone (43)
-HalloweenEnvironment.[0]Environment.[117]GroundStone (44)
-HalloweenEnvironment.[0]Environment.[118]GroundStone (45)
-HalloweenEnvironment.[0]Environment.[119]GroundStone (46)
-HalloweenEnvironment.[0]Environment.[12]Grave
-HalloweenEnvironment.[0]Environment.[120]GroundStone (47)
-HalloweenEnvironment.[0]Environment.[121]GroundStone (48)
-HalloweenEnvironment.[0]Environment.[122]GroundStone (49)
-HalloweenEnvironment.[0]Environment.[123]GroundStone (50)
-HalloweenEnvironment.[0]Environment.[124]GroundStone (51)
-HalloweenEnvironment.[0]Environment.[125]GroundStone (54)
-HalloweenEnvironment.[0]Environment.[126]GroundStone (55)
-HalloweenEnvironment.[0]Environment.[127]GroundStone (56)
-HalloweenEnvironment.[0]Environment.[128]GroundStone (57)
-HalloweenEnvironment.[0]Environment.[129]GroundStone (58)
-HalloweenEnvironment.[0]Environment.[13]Fence (1)
-HalloweenEnvironment.[0]Environment.[130]GroundStone (59)
-HalloweenEnvironment.[0]Environment.[131]GroundStone (60)
-HalloweenEnvironment.[0]Environment.[132]GroundStone (61)
-HalloweenEnvironment.[0]Environment.[133]GroundStone (62)
-HalloweenEnvironment.[0]Environment.[134]GroundStone (63)
-HalloweenEnvironment.[0]Environment.[135]GroundStone (64)
-HalloweenEnvironment.[0]Environment.[136]GroundStone (65)
-HalloweenEnvironment.[0]Environment.[137]GroundStone (66)
-HalloweenEnvironment.[0]Environment.[138]GroundStone (67)
-HalloweenEnvironment.[0]Environment.[139]GroundStone (68)
-HalloweenEnvironment.[0]Environment.[14]Castle
-HalloweenEnvironment.[0]Environment.[140]GroundStone (69)
-HalloweenEnvironment.[0]Environment.[141]GroundStone (70)
-HalloweenEnvironment.[0]Environment.[142]GroundStone (71)
-HalloweenEnvironment.[0]Environment.[143]GroundStone (72)
-HalloweenEnvironment.[0]Environment.[144]GroundStone (73)
-HalloweenEnvironment.[0]Environment.[145]GroundStone (74)
-HalloweenEnvironment.[0]Environment.[146]GroundStone (77)
-HalloweenEnvironment.[0]Environment.[147]Tree1 (1)
-HalloweenEnvironment.[0]Environment.[148]Tree2 (1)
-HalloweenEnvironment.[0]Environment.[149]====== DYNAMIC ======
-HalloweenEnvironment.[0]Environment.[15]Castle (1)
-HalloweenEnvironment.[0]Environment.[150]Bats
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[0]BG
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[5]Laser
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
-HalloweenEnvironment.[0]Environment.[151]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
-HalloweenEnvironment.[0]Environment.[152]BigSmokePS
-HalloweenEnvironment.[0]Environment.[153]Crow (3)
-HalloweenEnvironment.[0]Environment.[153]Crow (3).[0]Crow
-HalloweenEnvironment.[0]Environment.[154]Crow (2)
-HalloweenEnvironment.[0]Environment.[154]Crow (2).[0]Crow
-HalloweenEnvironment.[0]Environment.[155]Crow
-HalloweenEnvironment.[0]Environment.[155]Crow.[0]Crow
-HalloweenEnvironment.[0]Environment.[156]Crow (1)
-HalloweenEnvironment.[0]Environment.[156]Crow (1).[0]Crow
-HalloweenEnvironment.[0]Environment.[157]ZombieHand (1)
-HalloweenEnvironment.[0]Environment.[157]ZombieHand (1).[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[158]ZombieHand (2)
-HalloweenEnvironment.[0]Environment.[158]ZombieHand (2).[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[159]ZombieHand (3)
-HalloweenEnvironment.[0]Environment.[159]ZombieHand (3).[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[16]Castle (2)
-HalloweenEnvironment.[0]Environment.[160]ZombieHand (4)
-HalloweenEnvironment.[0]Environment.[160]ZombieHand (4).[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[161]ZombieHand (5)
-HalloweenEnvironment.[0]Environment.[161]ZombieHand (5).[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[162]ZombieHand
-HalloweenEnvironment.[0]Environment.[162]ZombieHand.[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[163]ZombieHand (6)
-HalloweenEnvironment.[0]Environment.[163]ZombieHand (6).[0]ZombieHand
-HalloweenEnvironment.[0]Environment.[164]====== LIGHTS ======
-HalloweenEnvironment.[0]Environment.[165]CoreLighting
-HalloweenEnvironment.[0]Environment.[165]CoreLighting.[0]LightManager
-HalloweenEnvironment.[0]Environment.[165]CoreLighting.[1]Gate
-HalloweenEnvironment.[0]Environment.[165]CoreLighting.[2]Top
-HalloweenEnvironment.[0]Environment.[165]CoreLighting.[3]TopLeft
-HalloweenEnvironment.[0]Environment.[165]CoreLighting.[4]TopRight
-HalloweenEnvironment.[0]Environment.[165]CoreLighting.[5]Moon
-HalloweenEnvironment.[0]Environment.[166]NeonTubeL (1)
-HalloweenEnvironment.[0]Environment.[167]LightEffects
-HalloweenEnvironment.[0]Environment.[168]LightWithIdManager
-HalloweenEnvironment.[0]Environment.[169]NeonTubeR
-HalloweenEnvironment.[0]Environment.[169]NeonTubeR.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[169]NeonTubeR.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[17]Castle (3)
-HalloweenEnvironment.[0]Environment.[170]NeonTubeL
-HalloweenEnvironment.[0]Environment.[170]NeonTubeL.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[170]NeonTubeL.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[171]NeonTubeR (1)
-HalloweenEnvironment.[0]Environment.[172]GateLight
-HalloweenEnvironment.[0]Environment.[173]Moon
-HalloweenEnvironment.[0]Environment.[173]Moon.[0]NeonTube
-HalloweenEnvironment.[0]Environment.[173]Moon.[0]NeonTube.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[174]GlowLineL (7)
-HalloweenEnvironment.[0]Environment.[174]GlowLineL (7).[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[174]GlowLineL (7).[1]BoxLight
-HalloweenEnvironment.[0]Environment.[175]GlowLineL (6)
-HalloweenEnvironment.[0]Environment.[175]GlowLineL (6).[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[175]GlowLineL (6).[1]BoxLight
-HalloweenEnvironment.[0]Environment.[176]GlowLineL (8)
-HalloweenEnvironment.[0]Environment.[176]GlowLineL (8).[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[176]GlowLineL (8).[1]BoxLight
-HalloweenEnvironment.[0]Environment.[177]GlowLineL (9)
-HalloweenEnvironment.[0]Environment.[177]GlowLineL (9).[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[177]GlowLineL (9).[1]BoxLight
-HalloweenEnvironment.[0]Environment.[178]NeonTubeC
-HalloweenEnvironment.[0]Environment.[179]GroundFog
-HalloweenEnvironment.[0]Environment.[18]Tree3
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13)
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[0]BaseL
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[1]BaseR
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[180]RotatingLasersPair (13).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12)
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[0]BaseL
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[1]BaseR
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (12).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7)
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[0]BaseL
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[1]BaseR
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (7).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8)
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[0]BaseL
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[1]BaseR
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (8).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9)
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[0]BaseL
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[1]BaseR
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (9).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10)
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[0]BaseL
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[1]BaseR
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (10).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11)
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[0]BaseL
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[1]BaseR
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (11).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14)
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[0]BaseL
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[1]BaseR
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (14).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15)
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[0]BaseL
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[1]BaseR
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (15).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16)
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[0]BaseL
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[1]BaseR
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (16).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[19]Tree3 (1)
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17)
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[0]BaseL
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[1]BaseR
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (17).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18)
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[0]BaseL
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[1]BaseR
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (18).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19)
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[0]BaseL
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[1]BaseR
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (19).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20)
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[0]BaseL
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[1]BaseR
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (20).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21)
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[0]BaseL
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[1]BaseR
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (21).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22)
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[0]BaseL
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[1]BaseR
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (22).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23)
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[0]BaseL
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[0]BaseL.[0]Laser
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[0]BaseL.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[0]BaseL.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[1]BaseR
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[1]BaseR.[0]Laser
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[1]BaseR.[0]Laser.[0]BakedBloom
-HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (23).[1]BaseR.[0]Laser.[1]BoxLight
-HalloweenEnvironment.[0]Environment.[197]GroundStone (52)
-HalloweenEnvironment.[0]Environment.[198]GroundStone (53)
-HalloweenEnvironment.[0]Environment.[199]GroundStone (75)
-HalloweenEnvironment.[0]Environment.[2]FakeMirrorSettings
-HalloweenEnvironment.[0]Environment.[20]Tree3 (2)
-HalloweenEnvironment.[0]Environment.[200]GroundStone (76)
-HalloweenEnvironment.[0]Environment.[201]GroundStone (78)
-HalloweenEnvironment.[0]Environment.[202]GroundStone (79)
-HalloweenEnvironment.[0]Environment.[203]GroundStone (80)
-HalloweenEnvironment.[0]Environment.[204]GroundStone (81)
-HalloweenEnvironment.[0]Environment.[205]GroundStone (82)
-HalloweenEnvironment.[0]Environment.[206]GroundStone (83)
-HalloweenEnvironment.[0]Environment.[207]GroundStone (84)
-HalloweenEnvironment.[0]Environment.[208]GroundStone (85)
-HalloweenEnvironment.[0]Environment.[209]GroundStone (86)
-HalloweenEnvironment.[0]Environment.[21]Tree3 (3)
-HalloweenEnvironment.[0]Environment.[210]GroundStone (87)
-HalloweenEnvironment.[0]Environment.[211]GroundStone (88)
-HalloweenEnvironment.[0]Environment.[212]GroundStone (89)
-HalloweenEnvironment.[0]Environment.[213]GroundStone (90)
-HalloweenEnvironment.[0]Environment.[214]GroundStone (91)
-HalloweenEnvironment.[0]Environment.[22]Tree2 (3)
-HalloweenEnvironment.[0]Environment.[23]Tree2 (2)
-HalloweenEnvironment.[0]Environment.[24]Tree2
-HalloweenEnvironment.[0]Environment.[25]Fence (2)
-HalloweenEnvironment.[0]Environment.[26]Fence (3)
-HalloweenEnvironment.[0]Environment.[27]Fence
-HalloweenEnvironment.[0]Environment.[28]Tree5
-HalloweenEnvironment.[0]Environment.[29]TombStone (2)
-HalloweenEnvironment.[0]Environment.[3]LightmapLightWithIds
-HalloweenEnvironment.[0]Environment.[30]TombStone (3)
-HalloweenEnvironment.[0]Environment.[31]TombStone (4)
-HalloweenEnvironment.[0]Environment.[32]TombStone (5)
-HalloweenEnvironment.[0]Environment.[33]TombStone (6)
-HalloweenEnvironment.[0]Environment.[34]TombStone (7)
-HalloweenEnvironment.[0]Environment.[35]TombStone (8)
-HalloweenEnvironment.[0]Environment.[36]TombStone (9)
-HalloweenEnvironment.[0]Environment.[37]TombStone (11)
-HalloweenEnvironment.[0]Environment.[38]TombStone (12)
-HalloweenEnvironment.[0]Environment.[39]TombStone (13)
-HalloweenEnvironment.[0]Environment.[4]BakedReflectionProbe
-HalloweenEnvironment.[0]Environment.[40]TombStone (14)
-HalloweenEnvironment.[0]Environment.[41]TombStone (15)
-HalloweenEnvironment.[0]Environment.[42]TombStone (16)
-HalloweenEnvironment.[0]Environment.[43]TombStone (17)
-HalloweenEnvironment.[0]Environment.[44]TombStone (18)
-HalloweenEnvironment.[0]Environment.[45]TombStone (19)
-HalloweenEnvironment.[0]Environment.[46]TombStone (20)
-HalloweenEnvironment.[0]Environment.[47]TombStone (21)
-HalloweenEnvironment.[0]Environment.[48]TombStone (22)
-HalloweenEnvironment.[0]Environment.[49]TombStone (24)
-HalloweenEnvironment.[0]Environment.[5]====== STATIC ======
-HalloweenEnvironment.[0]Environment.[50]Fence (4)
-HalloweenEnvironment.[0]Environment.[51]Fence (5)
-HalloweenEnvironment.[0]Environment.[52]Fence (6)
-HalloweenEnvironment.[0]Environment.[53]Fence (7)
-HalloweenEnvironment.[0]Environment.[54]Fence (8)
-HalloweenEnvironment.[0]Environment.[55]Fence (9)
-HalloweenEnvironment.[0]Environment.[56]Fence (10)
-HalloweenEnvironment.[0]Environment.[57]Fence (11)
-HalloweenEnvironment.[0]Environment.[58]Fence (12)
-HalloweenEnvironment.[0]Environment.[59]Fence (13)
-HalloweenEnvironment.[0]Environment.[6]PlayersPlace
-HalloweenEnvironment.[0]Environment.[6]PlayersPlace.[0]Feet
-HalloweenEnvironment.[0]Environment.[6]PlayersPlace.[1]SaberBurnMarksParticles
-HalloweenEnvironment.[0]Environment.[6]PlayersPlace.[1]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-HalloweenEnvironment.[0]Environment.[6]PlayersPlace.[2]SaberBurnMarksArea
-HalloweenEnvironment.[0]Environment.[6]PlayersPlace.[3]Collider
-HalloweenEnvironment.[0]Environment.[60]Fence (14)
-HalloweenEnvironment.[0]Environment.[61]Fence (15)
-HalloweenEnvironment.[0]Environment.[62]Fence (16)
-HalloweenEnvironment.[0]Environment.[63]Fence (17)
-HalloweenEnvironment.[0]Environment.[64]Fence (18)
-HalloweenEnvironment.[0]Environment.[65]Fence (19)
-HalloweenEnvironment.[0]Environment.[66]Fence (20)
-HalloweenEnvironment.[0]Environment.[67]Fence (21)
-HalloweenEnvironment.[0]Environment.[68]Fence (22)
-HalloweenEnvironment.[0]Environment.[69]Fence (23)
-HalloweenEnvironment.[0]Environment.[7]Ground
-HalloweenEnvironment.[0]Environment.[70]Grave0 (2)
-HalloweenEnvironment.[0]Environment.[71]Grave1 (1)
-HalloweenEnvironment.[0]Environment.[72]Grave
-HalloweenEnvironment.[0]Environment.[73]Fence (24)
-HalloweenEnvironment.[0]Environment.[74]GroundStone (1)
-HalloweenEnvironment.[0]Environment.[75]GroundStone (2)
-HalloweenEnvironment.[0]Environment.[76]GroundStone (3)
-HalloweenEnvironment.[0]Environment.[77]GroundStone (5)
-HalloweenEnvironment.[0]Environment.[78]GroundStone (6)
-HalloweenEnvironment.[0]Environment.[79]GroundStone (7)
-HalloweenEnvironment.[0]Environment.[8]Grave0
-HalloweenEnvironment.[0]Environment.[80]GroundStone (8)
-HalloweenEnvironment.[0]Environment.[81]GroundStone (9)
-HalloweenEnvironment.[0]Environment.[82]GroundStone (10)
-HalloweenEnvironment.[0]Environment.[83]GroundStone (11)
-HalloweenEnvironment.[0]Environment.[84]GroundStone (12)
-HalloweenEnvironment.[0]Environment.[85]GroundStone (13)
-HalloweenEnvironment.[0]Environment.[86]GroundStone (14)
-HalloweenEnvironment.[0]Environment.[87]GroundStone (15)
-HalloweenEnvironment.[0]Environment.[88]GroundStone (16)
-HalloweenEnvironment.[0]Environment.[89]GroundStone (17)
-HalloweenEnvironment.[0]Environment.[9]Grave0 (1)
-HalloweenEnvironment.[0]Environment.[90]GroundStone (18)
-HalloweenEnvironment.[0]Environment.[91]GroundStone (19)
-HalloweenEnvironment.[0]Environment.[92]GroundStone (20)
-HalloweenEnvironment.[0]Environment.[93]GroundStone (21)
-HalloweenEnvironment.[0]Environment.[94]GroundStone (22)
-HalloweenEnvironment.[0]Environment.[95]GroundStone (23)
-HalloweenEnvironment.[0]Environment.[96]GroundStone (24)
-HalloweenEnvironment.[0]Environment.[97]GroundStone (25)
-HalloweenEnvironment.[0]Environment.[98]GroundStone (26)
-HalloweenEnvironment.[0]Environment.[99]GroundStone (27)
+HalloweenEnvironment.[0]Environment.[1]SceneSetup
+HalloweenEnvironment.[0]Environment.[10]Grave0 (1)
+HalloweenEnvironment.[0]Environment.[100]GroundStone (27)
+HalloweenEnvironment.[0]Environment.[101]GroundStone (28)
+HalloweenEnvironment.[0]Environment.[102]GroundStone (29)
+HalloweenEnvironment.[0]Environment.[103]GroundStone (30)
+HalloweenEnvironment.[0]Environment.[104]GroundStone (31)
+HalloweenEnvironment.[0]Environment.[105]GroundStone (32)
+HalloweenEnvironment.[0]Environment.[106]GroundStone (33)
+HalloweenEnvironment.[0]Environment.[107]GroundStone (34)
+HalloweenEnvironment.[0]Environment.[108]GroundStone (35)
+HalloweenEnvironment.[0]Environment.[109]GroundStone (36)
+HalloweenEnvironment.[0]Environment.[11]Grave1
+HalloweenEnvironment.[0]Environment.[110]GroundStone (38)
+HalloweenEnvironment.[0]Environment.[111]GroundStone (37)
+HalloweenEnvironment.[0]Environment.[112]GroundStone (39)
+HalloweenEnvironment.[0]Environment.[113]GroundStone (4)
+HalloweenEnvironment.[0]Environment.[114]GroundStone (40)
+HalloweenEnvironment.[0]Environment.[115]GroundStone (41)
+HalloweenEnvironment.[0]Environment.[116]GroundStone (42)
+HalloweenEnvironment.[0]Environment.[117]GroundStone (43)
+HalloweenEnvironment.[0]Environment.[118]GroundStone (44)
+HalloweenEnvironment.[0]Environment.[119]GroundStone (45)
+HalloweenEnvironment.[0]Environment.[12]Fence
+HalloweenEnvironment.[0]Environment.[120]GroundStone (46)
+HalloweenEnvironment.[0]Environment.[121]GroundStone (47)
+HalloweenEnvironment.[0]Environment.[122]GroundStone (48)
+HalloweenEnvironment.[0]Environment.[123]GroundStone (49)
+HalloweenEnvironment.[0]Environment.[124]GroundStone (50)
+HalloweenEnvironment.[0]Environment.[125]GroundStone (51)
+HalloweenEnvironment.[0]Environment.[126]GroundStone (54)
+HalloweenEnvironment.[0]Environment.[127]GroundStone (55)
+HalloweenEnvironment.[0]Environment.[128]GroundStone (56)
+HalloweenEnvironment.[0]Environment.[129]GroundStone (57)
+HalloweenEnvironment.[0]Environment.[13]Grave
+HalloweenEnvironment.[0]Environment.[130]GroundStone (58)
+HalloweenEnvironment.[0]Environment.[131]GroundStone (59)
+HalloweenEnvironment.[0]Environment.[132]GroundStone (60)
+HalloweenEnvironment.[0]Environment.[133]GroundStone (61)
+HalloweenEnvironment.[0]Environment.[134]GroundStone (62)
+HalloweenEnvironment.[0]Environment.[135]GroundStone (63)
+HalloweenEnvironment.[0]Environment.[136]GroundStone (64)
+HalloweenEnvironment.[0]Environment.[137]GroundStone (65)
+HalloweenEnvironment.[0]Environment.[138]GroundStone (66)
+HalloweenEnvironment.[0]Environment.[139]GroundStone (67)
+HalloweenEnvironment.[0]Environment.[14]Fence (1)
+HalloweenEnvironment.[0]Environment.[140]GroundStone (68)
+HalloweenEnvironment.[0]Environment.[141]GroundStone (69)
+HalloweenEnvironment.[0]Environment.[142]GroundStone (70)
+HalloweenEnvironment.[0]Environment.[143]GroundStone (71)
+HalloweenEnvironment.[0]Environment.[144]GroundStone (72)
+HalloweenEnvironment.[0]Environment.[145]GroundStone (73)
+HalloweenEnvironment.[0]Environment.[146]GroundStone (74)
+HalloweenEnvironment.[0]Environment.[147]GroundStone (77)
+HalloweenEnvironment.[0]Environment.[148]Tree1 (1)
+HalloweenEnvironment.[0]Environment.[149]Tree2 (1)
+HalloweenEnvironment.[0]Environment.[15]Castle
+HalloweenEnvironment.[0]Environment.[150]====== DYNAMIC ======
+HalloweenEnvironment.[0]Environment.[151]Bats
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[0]BG
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+HalloweenEnvironment.[0]Environment.[152]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
+HalloweenEnvironment.[0]Environment.[153]BigSmokePS
+HalloweenEnvironment.[0]Environment.[154]Crow (3)
+HalloweenEnvironment.[0]Environment.[154]Crow (3).[0]Crow
+HalloweenEnvironment.[0]Environment.[155]Crow (2)
+HalloweenEnvironment.[0]Environment.[155]Crow (2).[0]Crow
+HalloweenEnvironment.[0]Environment.[156]Crow
+HalloweenEnvironment.[0]Environment.[156]Crow.[0]Crow
+HalloweenEnvironment.[0]Environment.[157]Crow (1)
+HalloweenEnvironment.[0]Environment.[157]Crow (1).[0]Crow
+HalloweenEnvironment.[0]Environment.[158]ZombieHand (1)
+HalloweenEnvironment.[0]Environment.[158]ZombieHand (1).[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[159]ZombieHand (2)
+HalloweenEnvironment.[0]Environment.[159]ZombieHand (2).[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[16]Castle (1)
+HalloweenEnvironment.[0]Environment.[160]ZombieHand (3)
+HalloweenEnvironment.[0]Environment.[160]ZombieHand (3).[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[161]ZombieHand (4)
+HalloweenEnvironment.[0]Environment.[161]ZombieHand (4).[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[162]ZombieHand (5)
+HalloweenEnvironment.[0]Environment.[162]ZombieHand (5).[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[163]ZombieHand
+HalloweenEnvironment.[0]Environment.[163]ZombieHand.[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[164]ZombieHand (6)
+HalloweenEnvironment.[0]Environment.[164]ZombieHand (6).[0]ZombieHand
+HalloweenEnvironment.[0]Environment.[165]====== LIGHTS ======
+HalloweenEnvironment.[0]Environment.[166]CoreLighting
+HalloweenEnvironment.[0]Environment.[166]CoreLighting.[0]LightManager
+HalloweenEnvironment.[0]Environment.[166]CoreLighting.[1]Gate
+HalloweenEnvironment.[0]Environment.[166]CoreLighting.[2]Top
+HalloweenEnvironment.[0]Environment.[166]CoreLighting.[3]TopLeft
+HalloweenEnvironment.[0]Environment.[166]CoreLighting.[4]TopRight
+HalloweenEnvironment.[0]Environment.[166]CoreLighting.[5]Moon
+HalloweenEnvironment.[0]Environment.[167]NeonTubeL (1)
+HalloweenEnvironment.[0]Environment.[168]LightEffects
+HalloweenEnvironment.[0]Environment.[169]LightWithIdManager
+HalloweenEnvironment.[0]Environment.[17]Castle (2)
+HalloweenEnvironment.[0]Environment.[170]NeonTubeR
+HalloweenEnvironment.[0]Environment.[170]NeonTubeR.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[170]NeonTubeR.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[171]NeonTubeL
+HalloweenEnvironment.[0]Environment.[171]NeonTubeL.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[171]NeonTubeL.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[172]NeonTubeR (1)
+HalloweenEnvironment.[0]Environment.[173]GateLight
+HalloweenEnvironment.[0]Environment.[174]Moon
+HalloweenEnvironment.[0]Environment.[174]Moon.[0]NeonTube
+HalloweenEnvironment.[0]Environment.[174]Moon.[0]NeonTube.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[175]GlowLineL (7)
+HalloweenEnvironment.[0]Environment.[175]GlowLineL (7).[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[175]GlowLineL (7).[1]BoxLight
+HalloweenEnvironment.[0]Environment.[176]GlowLineL (6)
+HalloweenEnvironment.[0]Environment.[176]GlowLineL (6).[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[176]GlowLineL (6).[1]BoxLight
+HalloweenEnvironment.[0]Environment.[177]GlowLineL (8)
+HalloweenEnvironment.[0]Environment.[177]GlowLineL (8).[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[177]GlowLineL (8).[1]BoxLight
+HalloweenEnvironment.[0]Environment.[178]GlowLineL (9)
+HalloweenEnvironment.[0]Environment.[178]GlowLineL (9).[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[178]GlowLineL (9).[1]BoxLight
+HalloweenEnvironment.[0]Environment.[179]NeonTubeC
+HalloweenEnvironment.[0]Environment.[18]Castle (3)
+HalloweenEnvironment.[0]Environment.[180]GroundFog
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13)
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[0]BaseL
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[1]BaseR
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[181]RotatingLasersPair (13).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12)
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[0]BaseL
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[1]BaseR
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[182]RotatingLasersPair (12).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7)
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[0]BaseL
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[1]BaseR
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[183]RotatingLasersPair (7).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8)
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[0]BaseL
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[1]BaseR
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[184]RotatingLasersPair (8).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9)
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[0]BaseL
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[1]BaseR
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[185]RotatingLasersPair (9).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10)
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[0]BaseL
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[1]BaseR
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[186]RotatingLasersPair (10).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11)
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[0]BaseL
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[1]BaseR
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[187]RotatingLasersPair (11).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14)
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[0]BaseL
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[1]BaseR
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[188]RotatingLasersPair (14).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15)
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[0]BaseL
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[1]BaseR
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[189]RotatingLasersPair (15).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[19]Tree3
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16)
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[0]BaseL
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[1]BaseR
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[190]RotatingLasersPair (16).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17)
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[0]BaseL
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[1]BaseR
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[191]RotatingLasersPair (17).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18)
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[0]BaseL
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[1]BaseR
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[192]RotatingLasersPair (18).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19)
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[0]BaseL
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[1]BaseR
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[193]RotatingLasersPair (19).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20)
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[0]BaseL
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[1]BaseR
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[194]RotatingLasersPair (20).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21)
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[0]BaseL
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[1]BaseR
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[195]RotatingLasersPair (21).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22)
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[0]BaseL
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[1]BaseR
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[196]RotatingLasersPair (22).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23)
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[0]BaseL
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[0]BaseL.[0]Laser
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[0]BaseL.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[0]BaseL.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[1]BaseR
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[1]BaseR.[0]Laser
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[1]BaseR.[0]Laser.[0]BakedBloom
+HalloweenEnvironment.[0]Environment.[197]RotatingLasersPair (23).[1]BaseR.[0]Laser.[1]BoxLight
+HalloweenEnvironment.[0]Environment.[198]GroundStone (52)
+HalloweenEnvironment.[0]Environment.[199]GroundStone (53)
+HalloweenEnvironment.[0]Environment.[2]FakeMirrorObjectsInstaller
+HalloweenEnvironment.[0]Environment.[20]Tree3 (1)
+HalloweenEnvironment.[0]Environment.[200]GroundStone (75)
+HalloweenEnvironment.[0]Environment.[201]GroundStone (76)
+HalloweenEnvironment.[0]Environment.[202]GroundStone (78)
+HalloweenEnvironment.[0]Environment.[203]GroundStone (79)
+HalloweenEnvironment.[0]Environment.[204]GroundStone (80)
+HalloweenEnvironment.[0]Environment.[205]GroundStone (81)
+HalloweenEnvironment.[0]Environment.[206]GroundStone (82)
+HalloweenEnvironment.[0]Environment.[207]GroundStone (83)
+HalloweenEnvironment.[0]Environment.[208]GroundStone (84)
+HalloweenEnvironment.[0]Environment.[209]GroundStone (85)
+HalloweenEnvironment.[0]Environment.[21]Tree3 (2)
+HalloweenEnvironment.[0]Environment.[210]GroundStone (86)
+HalloweenEnvironment.[0]Environment.[211]GroundStone (87)
+HalloweenEnvironment.[0]Environment.[212]GroundStone (88)
+HalloweenEnvironment.[0]Environment.[213]GroundStone (89)
+HalloweenEnvironment.[0]Environment.[214]GroundStone (90)
+HalloweenEnvironment.[0]Environment.[215]GroundStone (91)
+HalloweenEnvironment.[0]Environment.[22]Tree3 (3)
+HalloweenEnvironment.[0]Environment.[23]Tree2 (3)
+HalloweenEnvironment.[0]Environment.[24]Tree2 (2)
+HalloweenEnvironment.[0]Environment.[25]Tree2
+HalloweenEnvironment.[0]Environment.[26]Fence (2)
+HalloweenEnvironment.[0]Environment.[27]Fence (3)
+HalloweenEnvironment.[0]Environment.[28]Fence
+HalloweenEnvironment.[0]Environment.[29]Tree5
+HalloweenEnvironment.[0]Environment.[3]FakeMirrorSettings
+HalloweenEnvironment.[0]Environment.[30]TombStone (2)
+HalloweenEnvironment.[0]Environment.[31]TombStone (3)
+HalloweenEnvironment.[0]Environment.[32]TombStone (4)
+HalloweenEnvironment.[0]Environment.[33]TombStone (5)
+HalloweenEnvironment.[0]Environment.[34]TombStone (6)
+HalloweenEnvironment.[0]Environment.[35]TombStone (7)
+HalloweenEnvironment.[0]Environment.[36]TombStone (8)
+HalloweenEnvironment.[0]Environment.[37]TombStone (9)
+HalloweenEnvironment.[0]Environment.[38]TombStone (11)
+HalloweenEnvironment.[0]Environment.[39]TombStone (12)
+HalloweenEnvironment.[0]Environment.[4]LightmapLightWithIds
+HalloweenEnvironment.[0]Environment.[40]TombStone (13)
+HalloweenEnvironment.[0]Environment.[41]TombStone (14)
+HalloweenEnvironment.[0]Environment.[42]TombStone (15)
+HalloweenEnvironment.[0]Environment.[43]TombStone (16)
+HalloweenEnvironment.[0]Environment.[44]TombStone (17)
+HalloweenEnvironment.[0]Environment.[45]TombStone (18)
+HalloweenEnvironment.[0]Environment.[46]TombStone (19)
+HalloweenEnvironment.[0]Environment.[47]TombStone (20)
+HalloweenEnvironment.[0]Environment.[48]TombStone (21)
+HalloweenEnvironment.[0]Environment.[49]TombStone (22)
+HalloweenEnvironment.[0]Environment.[5]BakedReflectionProbe
+HalloweenEnvironment.[0]Environment.[50]TombStone (24)
+HalloweenEnvironment.[0]Environment.[51]Fence (4)
+HalloweenEnvironment.[0]Environment.[52]Fence (5)
+HalloweenEnvironment.[0]Environment.[53]Fence (6)
+HalloweenEnvironment.[0]Environment.[54]Fence (7)
+HalloweenEnvironment.[0]Environment.[55]Fence (8)
+HalloweenEnvironment.[0]Environment.[56]Fence (9)
+HalloweenEnvironment.[0]Environment.[57]Fence (10)
+HalloweenEnvironment.[0]Environment.[58]Fence (11)
+HalloweenEnvironment.[0]Environment.[59]Fence (12)
+HalloweenEnvironment.[0]Environment.[6]====== STATIC ======
+HalloweenEnvironment.[0]Environment.[60]Fence (13)
+HalloweenEnvironment.[0]Environment.[61]Fence (14)
+HalloweenEnvironment.[0]Environment.[62]Fence (15)
+HalloweenEnvironment.[0]Environment.[63]Fence (16)
+HalloweenEnvironment.[0]Environment.[64]Fence (17)
+HalloweenEnvironment.[0]Environment.[65]Fence (18)
+HalloweenEnvironment.[0]Environment.[66]Fence (19)
+HalloweenEnvironment.[0]Environment.[67]Fence (20)
+HalloweenEnvironment.[0]Environment.[68]Fence (21)
+HalloweenEnvironment.[0]Environment.[69]Fence (22)
+HalloweenEnvironment.[0]Environment.[7]PlayersPlace
+HalloweenEnvironment.[0]Environment.[7]PlayersPlace.[0]Feet
+HalloweenEnvironment.[0]Environment.[7]PlayersPlace.[1]SaberBurnMarksParticles
+HalloweenEnvironment.[0]Environment.[7]PlayersPlace.[1]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+HalloweenEnvironment.[0]Environment.[7]PlayersPlace.[2]SaberBurnMarksArea
+HalloweenEnvironment.[0]Environment.[7]PlayersPlace.[3]Collider
+HalloweenEnvironment.[0]Environment.[70]Fence (23)
+HalloweenEnvironment.[0]Environment.[71]Grave0 (2)
+HalloweenEnvironment.[0]Environment.[72]Grave1 (1)
+HalloweenEnvironment.[0]Environment.[73]Grave
+HalloweenEnvironment.[0]Environment.[74]Fence (24)
+HalloweenEnvironment.[0]Environment.[75]GroundStone (1)
+HalloweenEnvironment.[0]Environment.[76]GroundStone (2)
+HalloweenEnvironment.[0]Environment.[77]GroundStone (3)
+HalloweenEnvironment.[0]Environment.[78]GroundStone (5)
+HalloweenEnvironment.[0]Environment.[79]GroundStone (6)
+HalloweenEnvironment.[0]Environment.[8]Ground
+HalloweenEnvironment.[0]Environment.[80]GroundStone (7)
+HalloweenEnvironment.[0]Environment.[81]GroundStone (8)
+HalloweenEnvironment.[0]Environment.[82]GroundStone (9)
+HalloweenEnvironment.[0]Environment.[83]GroundStone (10)
+HalloweenEnvironment.[0]Environment.[84]GroundStone (11)
+HalloweenEnvironment.[0]Environment.[85]GroundStone (12)
+HalloweenEnvironment.[0]Environment.[86]GroundStone (13)
+HalloweenEnvironment.[0]Environment.[87]GroundStone (14)
+HalloweenEnvironment.[0]Environment.[88]GroundStone (15)
+HalloweenEnvironment.[0]Environment.[89]GroundStone (16)
+HalloweenEnvironment.[0]Environment.[9]Grave0
+HalloweenEnvironment.[0]Environment.[90]GroundStone (17)
+HalloweenEnvironment.[0]Environment.[91]GroundStone (18)
+HalloweenEnvironment.[0]Environment.[92]GroundStone (19)
+HalloweenEnvironment.[0]Environment.[93]GroundStone (20)
+HalloweenEnvironment.[0]Environment.[94]GroundStone (21)
+HalloweenEnvironment.[0]Environment.[95]GroundStone (22)
+HalloweenEnvironment.[0]Environment.[96]GroundStone (23)
+HalloweenEnvironment.[0]Environment.[97]GroundStone (24)
+HalloweenEnvironment.[0]Environment.[98]GroundStone (25)
+HalloweenEnvironment.[0]Environment.[99]GroundStone (26)
+HalloweenEnvironment.[1]CinemaPlaybackController
+HalloweenEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+HalloweenEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

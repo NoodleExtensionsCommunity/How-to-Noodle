@@ -24,6 +24,9 @@ CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[0]BG
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[1]Top
@@ -40,6 +43,17 @@ CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierC
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
 CrabRaveEnvironment.[0]Environment.[12]MonstercatLogoL
 CrabRaveEnvironment.[0]Environment.[13]MonstercatLogoR
 CrabRaveEnvironment.[0]Environment.[14]Spectrograms
@@ -204,11 +218,10 @@ CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[0]Mirror
 CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[1]Feet
 CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[2]Construction
 CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[3]RectangleFakeGlow
-CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[4]Frame
-CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[5]SaberBurnMarksParticles
-CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[6]SaberBurnMarksArea
-CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[7]Collider
+CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[4]SaberBurnMarksParticles
+CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[5]SaberBurnMarksArea
+CrabRaveEnvironment.[0]Environment.[5]PlayersPlace.[6]Collider
 CrabRaveEnvironment.[0]Environment.[50]FakeMirrorSettings
 CrabRaveEnvironment.[0]Environment.[51]BakedReflectionProbeInstaller
 CrabRaveEnvironment.[0]Environment.[6]TrackMirror
@@ -216,6 +229,9 @@ CrabRaveEnvironment.[0]Environment.[6]TrackMirror.[0]TrackMirrorSetDepth
 CrabRaveEnvironment.[0]Environment.[7]VConstruction
 CrabRaveEnvironment.[0]Environment.[8]FarBuildings
 CrabRaveEnvironment.[0]Environment.[9]Construction
+CrabRaveEnvironment.[1]CinemaPlaybackController
+CrabRaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+CrabRaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
 GameCore.[1]SmallTrackLaneRing(Clone)
 GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
 GameCore.[10]SmallTrackLaneRing(Clone)

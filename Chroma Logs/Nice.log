@@ -1,411 +1,228 @@
-GameCore.[1]SmallTrackLaneRing(Clone)
-GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[10]SmallTrackLaneRing(Clone)
-GameCore.[10]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[11]SmallTrackLaneRing(Clone)
-GameCore.[11]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[12]SmallTrackLaneRing(Clone)
-GameCore.[12]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[13]SmallTrackLaneRing(Clone)
-GameCore.[13]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[14]SmallTrackLaneRing(Clone)
-GameCore.[14]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[15]SmallTrackLaneRing(Clone)
-GameCore.[15]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[16]SmallTrackLaneRing(Clone)
-GameCore.[16]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[17]SmallTrackLaneRing(Clone)
-GameCore.[17]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[18]SmallTrackLaneRing(Clone)
-GameCore.[18]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[19]SmallTrackLaneRing(Clone)
-GameCore.[19]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[2]SmallTrackLaneRing(Clone)
-GameCore.[2]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[20]SmallTrackLaneRing(Clone)
-GameCore.[20]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[21]SmallTrackLaneRing(Clone)
-GameCore.[21]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[22]SmallTrackLaneRing(Clone)
-GameCore.[22]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[23]SmallTrackLaneRing(Clone)
-GameCore.[23]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[24]SmallTrackLaneRing(Clone)
-GameCore.[24]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[25]SmallTrackLaneRing(Clone)
-GameCore.[25]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[26]SmallTrackLaneRing(Clone)
-GameCore.[26]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[27]SmallTrackLaneRing(Clone)
-GameCore.[27]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[28]SmallTrackLaneRing(Clone)
-GameCore.[28]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[29]SmallTrackLaneRing(Clone)
-GameCore.[29]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[3]SmallTrackLaneRing(Clone)
-GameCore.[3]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[30]SmallTrackLaneRing(Clone)
-GameCore.[30]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[31]BigTrackLaneRing(Clone)
-GameCore.[31]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[31]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[31]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[31]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[31]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[31]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[31]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[31]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[31]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[31]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[31]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[31]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[31]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[32]BigTrackLaneRing(Clone)
-GameCore.[32]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[32]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[32]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[32]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[32]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[32]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[32]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[32]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[32]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[32]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[32]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[32]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[32]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[33]BigTrackLaneRing(Clone)
-GameCore.[33]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[33]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[33]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[33]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[33]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[33]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[33]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[33]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[33]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[33]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[33]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[33]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[33]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[34]BigTrackLaneRing(Clone)
-GameCore.[34]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[34]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[34]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[34]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[34]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[34]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[34]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[34]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[34]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[34]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[34]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[34]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[34]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[35]BigTrackLaneRing(Clone)
-GameCore.[35]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[35]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[35]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[35]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[35]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[35]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[35]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[35]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[35]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[35]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[35]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[35]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[35]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[36]BigTrackLaneRing(Clone)
-GameCore.[36]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[36]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[36]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[36]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[36]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[36]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[36]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[36]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[36]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[36]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[36]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[36]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[36]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[37]BigTrackLaneRing(Clone)
-GameCore.[37]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[37]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[37]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[37]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[37]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[37]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[37]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[37]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[37]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[37]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[37]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[37]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[37]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[38]BigTrackLaneRing(Clone)
-GameCore.[38]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[38]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[38]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[38]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[38]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[38]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[38]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[38]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[38]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[38]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[38]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[38]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[38]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[39]BigTrackLaneRing(Clone)
-GameCore.[39]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[39]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[39]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[39]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[39]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[39]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[39]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[39]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[39]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[39]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[39]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[39]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[39]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[4]SmallTrackLaneRing(Clone)
-GameCore.[4]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[40]BigTrackLaneRing(Clone)
-GameCore.[40]BigTrackLaneRing(Clone).[0]Ring
-GameCore.[40]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
-GameCore.[40]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
-GameCore.[40]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
-GameCore.[40]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
-GameCore.[40]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
-GameCore.[40]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
-GameCore.[40]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
-GameCore.[40]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
-GameCore.[40]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
-GameCore.[40]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
-GameCore.[40]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
-GameCore.[40]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
-GameCore.[5]SmallTrackLaneRing(Clone)
-GameCore.[5]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[6]SmallTrackLaneRing(Clone)
-GameCore.[6]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[7]SmallTrackLaneRing(Clone)
-GameCore.[7]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[8]SmallTrackLaneRing(Clone)
-GameCore.[8]SmallTrackLaneRing(Clone).[0]Ring
-GameCore.[9]SmallTrackLaneRing(Clone)
-GameCore.[9]SmallTrackLaneRing(Clone).[0]Ring
 NiceEnvironment.[0]Environment
 NiceEnvironment.[0]Environment.[0]DecoratorContext
-NiceEnvironment.[0]Environment.[1]====== STATIC ======
-NiceEnvironment.[0]Environment.[10]SmallTrackLaneRings
-NiceEnvironment.[0]Environment.[11]BigTrackLaneRings
-NiceEnvironment.[0]Environment.[12]BigSmokePS
-NiceEnvironment.[0]Environment.[13]BasicGameHUD
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[0]BG
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[1]BarBG
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[5]Laser
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[0]BG
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[1]Top
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[0]BG
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[1]Top
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
-NiceEnvironment.[0]Environment.[13]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
-NiceEnvironment.[0]Environment.[14]Spectrograms
-NiceEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram
-NiceEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[0]Spectrogram0
-NiceEnvironment.[0]Environment.[14]Spectrograms.[0]Spectrogram.[1]Spectrogram1
-NiceEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram
-NiceEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[0]Spectrogram0
-NiceEnvironment.[0]Environment.[14]Spectrograms.[1]Spectrogram.[1]Spectrogram1
-NiceEnvironment.[0]Environment.[15]DustPS
-NiceEnvironment.[0]Environment.[16]====== LIGHTS ======
-NiceEnvironment.[0]Environment.[17]LightWithIdManager
-NiceEnvironment.[0]Environment.[18]CoreLighting
-NiceEnvironment.[0]Environment.[18]CoreLighting.[0]LightManager
-NiceEnvironment.[0]Environment.[18]CoreLighting.[1]LightWrapper0
-NiceEnvironment.[0]Environment.[18]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
-NiceEnvironment.[0]Environment.[18]CoreLighting.[2]LightWrapper1
-NiceEnvironment.[0]Environment.[18]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
-NiceEnvironment.[0]Environment.[18]CoreLighting.[3]DirectionalLight
-NiceEnvironment.[0]Environment.[18]CoreLighting.[4]DirectionalLight
-NiceEnvironment.[0]Environment.[18]CoreLighting.[5]DirectionalLight
-NiceEnvironment.[0]Environment.[19]LightEffects
-NiceEnvironment.[0]Environment.[2]Floor
-NiceEnvironment.[0]Environment.[20]FrontLights
-NiceEnvironment.[0]Environment.[20]FrontLights.[0]NeonTube
-NiceEnvironment.[0]Environment.[20]FrontLights.[0]NeonTube.[0]BakedBloom
-NiceEnvironment.[0]Environment.[20]FrontLights.[0]NeonTube.[1]BoxLight
-NiceEnvironment.[0]Environment.[20]FrontLights.[1]NeonTube (1)
-NiceEnvironment.[0]Environment.[20]FrontLights.[1]NeonTube (1).[0]BakedBloom
-NiceEnvironment.[0]Environment.[20]FrontLights.[1]NeonTube (1).[1]BoxLight
-NiceEnvironment.[0]Environment.[21]GlowLineL
-NiceEnvironment.[0]Environment.[21]GlowLineL.[0]BakedBloom
-NiceEnvironment.[0]Environment.[21]GlowLineL.[1]BoxLight
-NiceEnvironment.[0]Environment.[22]GlowLineR
-NiceEnvironment.[0]Environment.[22]GlowLineR.[0]BakedBloom
-NiceEnvironment.[0]Environment.[22]GlowLineR.[1]BoxLight
-NiceEnvironment.[0]Environment.[23]GlowLineFarL
-NiceEnvironment.[0]Environment.[23]GlowLineFarL.[0]BakedBloom
-NiceEnvironment.[0]Environment.[23]GlowLineFarL.[1]BoxLight
-NiceEnvironment.[0]Environment.[24]GlowLineFarR
-NiceEnvironment.[0]Environment.[24]GlowLineFarR.[0]BakedBloom
-NiceEnvironment.[0]Environment.[24]GlowLineFarR.[1]BoxLight
-NiceEnvironment.[0]Environment.[25]RotatingLaserLeft
-NiceEnvironment.[0]Environment.[25]RotatingLaserLeft.[0]BoxLight
-NiceEnvironment.[0]Environment.[25]RotatingLaserLeft.[1]BakedBloom
-NiceEnvironment.[0]Environment.[26]RotatingLaserRight
-NiceEnvironment.[0]Environment.[26]RotatingLaserRight.[0]BoxLight
-NiceEnvironment.[0]Environment.[26]RotatingLaserRight.[1]BakedBloom
-NiceEnvironment.[0]Environment.[27]RotatingLaserLeft (1)
-NiceEnvironment.[0]Environment.[27]RotatingLaserLeft (1).[0]BoxLight
-NiceEnvironment.[0]Environment.[27]RotatingLaserLeft (1).[1]BakedBloom
-NiceEnvironment.[0]Environment.[28]RotatingLaserRight (1)
-NiceEnvironment.[0]Environment.[28]RotatingLaserRight (1).[0]BoxLight
-NiceEnvironment.[0]Environment.[28]RotatingLaserRight (1).[1]BakedBloom
-NiceEnvironment.[0]Environment.[29]RotatingLaserLeft (2)
-NiceEnvironment.[0]Environment.[29]RotatingLaserLeft (2).[0]BoxLight
-NiceEnvironment.[0]Environment.[29]RotatingLaserLeft (2).[1]BakedBloom
-NiceEnvironment.[0]Environment.[3]BackColumns
-NiceEnvironment.[0]Environment.[3]BackColumns.[0]BackColumnNeon
-NiceEnvironment.[0]Environment.[3]BackColumns.[0]BackColumnNeon.[0]BoxLight
-NiceEnvironment.[0]Environment.[3]BackColumns.[0]BackColumnNeon.[1]BakedBloom
-NiceEnvironment.[0]Environment.[3]BackColumns.[1]BackColumnNeon
-NiceEnvironment.[0]Environment.[3]BackColumns.[1]BackColumnNeon.[0]BoxLight
-NiceEnvironment.[0]Environment.[3]BackColumns.[1]BackColumnNeon.[1]BakedBloom
-NiceEnvironment.[0]Environment.[30]RotatingLaserRight (2)
-NiceEnvironment.[0]Environment.[30]RotatingLaserRight (2).[0]BoxLight
-NiceEnvironment.[0]Environment.[30]RotatingLaserRight (2).[1]BakedBloom
-NiceEnvironment.[0]Environment.[31]RotatingLaserLeft (3)
-NiceEnvironment.[0]Environment.[31]RotatingLaserLeft (3).[0]BoxLight
-NiceEnvironment.[0]Environment.[31]RotatingLaserLeft (3).[1]BakedBloom
-NiceEnvironment.[0]Environment.[32]RotatingLaserRight (3)
-NiceEnvironment.[0]Environment.[32]RotatingLaserRight (3).[0]BoxLight
-NiceEnvironment.[0]Environment.[32]RotatingLaserRight (3).[1]BakedBloom
-NiceEnvironment.[0]Environment.[33]DoubleColorLaser
-NiceEnvironment.[0]Environment.[33]DoubleColorLaser.[0]TopBoxLight
-NiceEnvironment.[0]Environment.[33]DoubleColorLaser.[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[33]DoubleColorLaser.[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[33]DoubleColorLaser.[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[34]DoubleColorLaser (1)
-NiceEnvironment.[0]Environment.[34]DoubleColorLaser (1).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[34]DoubleColorLaser (1).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[34]DoubleColorLaser (1).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[34]DoubleColorLaser (1).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[35]DoubleColorLaser (2)
-NiceEnvironment.[0]Environment.[35]DoubleColorLaser (2).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[35]DoubleColorLaser (2).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[35]DoubleColorLaser (2).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[35]DoubleColorLaser (2).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[36]DoubleColorLaser (3)
-NiceEnvironment.[0]Environment.[36]DoubleColorLaser (3).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[36]DoubleColorLaser (3).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[36]DoubleColorLaser (3).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[36]DoubleColorLaser (3).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[37]DoubleColorLaser (4)
-NiceEnvironment.[0]Environment.[37]DoubleColorLaser (4).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[37]DoubleColorLaser (4).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[37]DoubleColorLaser (4).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[37]DoubleColorLaser (4).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[38]DoubleColorLaser (5)
-NiceEnvironment.[0]Environment.[38]DoubleColorLaser (5).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[38]DoubleColorLaser (5).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[38]DoubleColorLaser (5).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[38]DoubleColorLaser (5).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[39]DoubleColorLaser (6)
-NiceEnvironment.[0]Environment.[39]DoubleColorLaser (6).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[39]DoubleColorLaser (6).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[39]DoubleColorLaser (6).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[39]DoubleColorLaser (6).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[4]PlayersPlace
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[0]Mirror
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[1]Feet
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[2]Construction
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[3]RectangleFakeGlow
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[4]Frame
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[5]SaberBurnMarksParticles
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[6]SaberBurnMarksArea
-NiceEnvironment.[0]Environment.[4]PlayersPlace.[7]Collider
-NiceEnvironment.[0]Environment.[40]DoubleColorLaser (7)
-NiceEnvironment.[0]Environment.[40]DoubleColorLaser (7).[0]TopBoxLight
-NiceEnvironment.[0]Environment.[40]DoubleColorLaser (7).[1]TopBakedBloom
-NiceEnvironment.[0]Environment.[40]DoubleColorLaser (7).[2]BottomBoxLight
-NiceEnvironment.[0]Environment.[40]DoubleColorLaser (7).[3]BottomBakedBloom
-NiceEnvironment.[0]Environment.[41]GradientBackground
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1)
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[0]Mesh
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[1]NeonTubeDirectional
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[1]NeonTubeDirectional.[0]BakedBloom
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[1]NeonTubeDirectional.[1]BoxLight
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[2]NeonTubeDirectional (1)
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[2]NeonTubeDirectional (1).[0]BakedBloom
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[2]NeonTubeDirectional (1).[1]BoxLight
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[3]NeonTube (2)
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[3]NeonTube (2).[0]BakedBloom
-NiceEnvironment.[0]Environment.[5]NearBuildingRight (1).[3]NeonTube (2).[1]BoxLight
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1)
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[0]Mesh
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[1]NeonTubeDirectional
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[1]NeonTubeDirectional.[0]BakedBloom
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[1]NeonTubeDirectional.[1]BoxLight
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[2]NeonTubeDirectional (1)
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[0]BakedBloom
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[1]BoxLight
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[3]NeonTube (2)
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[3]NeonTube (2).[0]BakedBloom
-NiceEnvironment.[0]Environment.[6]NearBuildingLeft (1).[3]NeonTube (2).[1]BoxLight
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2)
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[0]Mesh
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional.[0]BakedBloom
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[1]NeonTubeDirectional.[1]BoxLight
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1)
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[0]BakedBloom
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[1]BoxLight
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2)
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2).[0]BakedBloom
-NiceEnvironment.[0]Environment.[7]NearBuildingLeft (2).[3]NeonTube (2).[1]BoxLight
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2)
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[0]Mesh
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional.[0]BakedBloom
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[1]NeonTubeDirectional.[1]BoxLight
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1)
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1).[0]BakedBloom
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[2]NeonTubeDirectional (1).[1]BoxLight
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2)
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
-NiceEnvironment.[0]Environment.[8]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
-NiceEnvironment.[0]Environment.[9]====== DYNAMIC ======
+NiceEnvironment.[0]Environment.[1]SceneSetup
+NiceEnvironment.[0]Environment.[10]====== DYNAMIC ======
+NiceEnvironment.[0]Environment.[11]SmallTrackLaneRings
+NiceEnvironment.[0]Environment.[12]BigTrackLaneRings
+NiceEnvironment.[0]Environment.[13]BigSmokePS
+NiceEnvironment.[0]Environment.[14]BasicGameHUD
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[0]BG
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[1]BarBG
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[5]Laser
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[0]BG
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[1]Top
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[0]BG
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[1]Top
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+NiceEnvironment.[0]Environment.[15]Spectrograms
+NiceEnvironment.[0]Environment.[15]Spectrograms.[0]Spectrogram
+NiceEnvironment.[0]Environment.[15]Spectrograms.[0]Spectrogram.[0]Spectrogram0
+NiceEnvironment.[0]Environment.[15]Spectrograms.[0]Spectrogram.[1]Spectrogram1
+NiceEnvironment.[0]Environment.[15]Spectrograms.[1]Spectrogram
+NiceEnvironment.[0]Environment.[15]Spectrograms.[1]Spectrogram.[0]Spectrogram0
+NiceEnvironment.[0]Environment.[15]Spectrograms.[1]Spectrogram.[1]Spectrogram1
+NiceEnvironment.[0]Environment.[16]DustPS
+NiceEnvironment.[0]Environment.[17]====== LIGHTS ======
+NiceEnvironment.[0]Environment.[18]LightWithIdManager
+NiceEnvironment.[0]Environment.[19]CoreLighting
+NiceEnvironment.[0]Environment.[19]CoreLighting.[0]LightManager
+NiceEnvironment.[0]Environment.[19]CoreLighting.[1]LightWrapper0
+NiceEnvironment.[0]Environment.[19]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+NiceEnvironment.[0]Environment.[19]CoreLighting.[2]LightWrapper1
+NiceEnvironment.[0]Environment.[19]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+NiceEnvironment.[0]Environment.[19]CoreLighting.[3]DirectionalLight
+NiceEnvironment.[0]Environment.[19]CoreLighting.[4]DirectionalLight
+NiceEnvironment.[0]Environment.[19]CoreLighting.[5]DirectionalLight
+NiceEnvironment.[0]Environment.[2]====== STATIC ======
+NiceEnvironment.[0]Environment.[20]LightEffects
+NiceEnvironment.[0]Environment.[21]FrontLights
+NiceEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube
+NiceEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube.[0]BakedBloom
+NiceEnvironment.[0]Environment.[21]FrontLights.[0]NeonTube.[1]BoxLight
+NiceEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1)
+NiceEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1).[0]BakedBloom
+NiceEnvironment.[0]Environment.[21]FrontLights.[1]NeonTube (1).[1]BoxLight
+NiceEnvironment.[0]Environment.[22]GlowLineL
+NiceEnvironment.[0]Environment.[22]GlowLineL.[0]BakedBloom
+NiceEnvironment.[0]Environment.[22]GlowLineL.[1]BoxLight
+NiceEnvironment.[0]Environment.[23]GlowLineR
+NiceEnvironment.[0]Environment.[23]GlowLineR.[0]BakedBloom
+NiceEnvironment.[0]Environment.[23]GlowLineR.[1]BoxLight
+NiceEnvironment.[0]Environment.[24]GlowLineFarL
+NiceEnvironment.[0]Environment.[24]GlowLineFarL.[0]BakedBloom
+NiceEnvironment.[0]Environment.[24]GlowLineFarL.[1]BoxLight
+NiceEnvironment.[0]Environment.[25]GlowLineFarR
+NiceEnvironment.[0]Environment.[25]GlowLineFarR.[0]BakedBloom
+NiceEnvironment.[0]Environment.[25]GlowLineFarR.[1]BoxLight
+NiceEnvironment.[0]Environment.[26]RotatingLaserLeft
+NiceEnvironment.[0]Environment.[26]RotatingLaserLeft.[0]BoxLight
+NiceEnvironment.[0]Environment.[26]RotatingLaserLeft.[1]BakedBloom
+NiceEnvironment.[0]Environment.[27]RotatingLaserRight
+NiceEnvironment.[0]Environment.[27]RotatingLaserRight.[0]BoxLight
+NiceEnvironment.[0]Environment.[27]RotatingLaserRight.[1]BakedBloom
+NiceEnvironment.[0]Environment.[28]RotatingLaserLeft (1)
+NiceEnvironment.[0]Environment.[28]RotatingLaserLeft (1).[0]BoxLight
+NiceEnvironment.[0]Environment.[28]RotatingLaserLeft (1).[1]BakedBloom
+NiceEnvironment.[0]Environment.[29]RotatingLaserRight (1)
+NiceEnvironment.[0]Environment.[29]RotatingLaserRight (1).[0]BoxLight
+NiceEnvironment.[0]Environment.[29]RotatingLaserRight (1).[1]BakedBloom
+NiceEnvironment.[0]Environment.[3]Floor
+NiceEnvironment.[0]Environment.[30]RotatingLaserLeft (2)
+NiceEnvironment.[0]Environment.[30]RotatingLaserLeft (2).[0]BoxLight
+NiceEnvironment.[0]Environment.[30]RotatingLaserLeft (2).[1]BakedBloom
+NiceEnvironment.[0]Environment.[31]RotatingLaserRight (2)
+NiceEnvironment.[0]Environment.[31]RotatingLaserRight (2).[0]BoxLight
+NiceEnvironment.[0]Environment.[31]RotatingLaserRight (2).[1]BakedBloom
+NiceEnvironment.[0]Environment.[32]RotatingLaserLeft (3)
+NiceEnvironment.[0]Environment.[32]RotatingLaserLeft (3).[0]BoxLight
+NiceEnvironment.[0]Environment.[32]RotatingLaserLeft (3).[1]BakedBloom
+NiceEnvironment.[0]Environment.[33]RotatingLaserRight (3)
+NiceEnvironment.[0]Environment.[33]RotatingLaserRight (3).[0]BoxLight
+NiceEnvironment.[0]Environment.[33]RotatingLaserRight (3).[1]BakedBloom
+NiceEnvironment.[0]Environment.[34]DoubleColorLaser
+NiceEnvironment.[0]Environment.[34]DoubleColorLaser.[0]TopBoxLight
+NiceEnvironment.[0]Environment.[34]DoubleColorLaser.[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[34]DoubleColorLaser.[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[34]DoubleColorLaser.[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[35]DoubleColorLaser (1)
+NiceEnvironment.[0]Environment.[35]DoubleColorLaser (1).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[35]DoubleColorLaser (1).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[35]DoubleColorLaser (1).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[35]DoubleColorLaser (1).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[36]DoubleColorLaser (2)
+NiceEnvironment.[0]Environment.[36]DoubleColorLaser (2).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[36]DoubleColorLaser (2).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[36]DoubleColorLaser (2).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[36]DoubleColorLaser (2).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[37]DoubleColorLaser (3)
+NiceEnvironment.[0]Environment.[37]DoubleColorLaser (3).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[37]DoubleColorLaser (3).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[37]DoubleColorLaser (3).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[37]DoubleColorLaser (3).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[38]DoubleColorLaser (4)
+NiceEnvironment.[0]Environment.[38]DoubleColorLaser (4).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[38]DoubleColorLaser (4).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[38]DoubleColorLaser (4).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[38]DoubleColorLaser (4).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[39]DoubleColorLaser (5)
+NiceEnvironment.[0]Environment.[39]DoubleColorLaser (5).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[39]DoubleColorLaser (5).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[39]DoubleColorLaser (5).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[39]DoubleColorLaser (5).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[4]BackColumns
+NiceEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon
+NiceEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[0]BoxLight
+NiceEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[1]BakedBloom
+NiceEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon
+NiceEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[0]BoxLight
+NiceEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[1]BakedBloom
+NiceEnvironment.[0]Environment.[40]DoubleColorLaser (6)
+NiceEnvironment.[0]Environment.[40]DoubleColorLaser (6).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[40]DoubleColorLaser (6).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[40]DoubleColorLaser (6).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[40]DoubleColorLaser (6).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[41]DoubleColorLaser (7)
+NiceEnvironment.[0]Environment.[41]DoubleColorLaser (7).[0]TopBoxLight
+NiceEnvironment.[0]Environment.[41]DoubleColorLaser (7).[1]TopBakedBloom
+NiceEnvironment.[0]Environment.[41]DoubleColorLaser (7).[2]BottomBoxLight
+NiceEnvironment.[0]Environment.[41]DoubleColorLaser (7).[3]BottomBakedBloom
+NiceEnvironment.[0]Environment.[42]GradientBackground
+NiceEnvironment.[0]Environment.[5]PlayersPlace
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[0]Mirror
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[1]Feet
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[2]Construction
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[3]RectangleFakeGlow
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[4]SaberBurnMarksParticles
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[5]SaberBurnMarksArea
+NiceEnvironment.[0]Environment.[5]PlayersPlace.[6]Collider
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1)
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[0]Mesh
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional.[0]BakedBloom
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[1]NeonTubeDirectional.[1]BoxLight
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1)
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1).[0]BakedBloom
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[2]NeonTubeDirectional (1).[1]BoxLight
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2)
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2).[0]BakedBloom
+NiceEnvironment.[0]Environment.[6]NearBuildingRight (1).[3]NeonTube (2).[1]BoxLight
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1)
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[0]Mesh
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[1]NeonTubeDirectional
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[1]NeonTubeDirectional.[0]BakedBloom
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[1]NeonTubeDirectional.[1]BoxLight
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[2]NeonTubeDirectional (1)
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[0]BakedBloom
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[2]NeonTubeDirectional (1).[1]BoxLight
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[3]NeonTube (2)
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[3]NeonTube (2).[0]BakedBloom
+NiceEnvironment.[0]Environment.[7]NearBuildingLeft (1).[3]NeonTube (2).[1]BoxLight
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2)
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[0]Mesh
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[1]NeonTubeDirectional
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[1]NeonTubeDirectional.[0]BakedBloom
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[1]NeonTubeDirectional.[1]BoxLight
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[2]NeonTubeDirectional (1)
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[0]BakedBloom
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[2]NeonTubeDirectional (1).[1]BoxLight
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[3]NeonTube (2)
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[3]NeonTube (2).[0]BakedBloom
+NiceEnvironment.[0]Environment.[8]NearBuildingLeft (2).[3]NeonTube (2).[1]BoxLight
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2)
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[0]Mesh
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[1]NeonTubeDirectional
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[1]NeonTubeDirectional.[0]BakedBloom
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[1]NeonTubeDirectional.[1]BoxLight
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[2]NeonTubeDirectional (1)
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[2]NeonTubeDirectional (1).[0]BakedBloom
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[2]NeonTubeDirectional (1).[1]BoxLight
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2)
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
+NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
+NiceEnvironment.[1]CinemaPlaybackController
+NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

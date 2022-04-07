@@ -63,11 +63,10 @@ GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[0]Mirror
 GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[1]Feet
 GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[2]Construction
 GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[3]RectangleFakeGlow
-GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[4]Frame
-GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksParticles
-GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[6]SaberBurnMarksArea
-GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[7]Collider
+GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles
+GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[5]SaberBurnMarksArea
+GreenDayGrenadeEnvironment.[0]Environment.[3]PlayersPlace.[6]Collider
 GreenDayGrenadeEnvironment.[0]Environment.[30]GlowLineL (20)
 GreenDayGrenadeEnvironment.[0]Environment.[30]GlowLineL (20).[0]BakedBloom
 GreenDayGrenadeEnvironment.[0]Environment.[30]GlowLineL (20).[1]BoxLight
@@ -173,6 +172,9 @@ GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]Combo
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -187,5 +189,19 @@ GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]Mult
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+GreenDayGrenadeEnvironment.[0]Environment.[7]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
 GreenDayGrenadeEnvironment.[0]Environment.[8]Logo
 GreenDayGrenadeEnvironment.[0]Environment.[9]BigSmokePS
+GreenDayGrenadeEnvironment.[1]CinemaPlaybackController
+GreenDayGrenadeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+GreenDayGrenadeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

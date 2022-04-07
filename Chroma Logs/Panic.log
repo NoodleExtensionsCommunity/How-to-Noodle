@@ -265,6 +265,9 @@ PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]C
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[0]BG
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[1]Top
@@ -281,6 +284,17 @@ PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[2]MultiplierCanv
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
 PanicEnvironment.[0]Environment.[13]Spectrograms
 PanicEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram
 PanicEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram.[0]Spectrogram0
@@ -407,11 +421,10 @@ PanicEnvironment.[0]Environment.[4]PlayersPlace.[0]Mirror
 PanicEnvironment.[0]Environment.[4]PlayersPlace.[1]Feet
 PanicEnvironment.[0]Environment.[4]PlayersPlace.[2]Construction
 PanicEnvironment.[0]Environment.[4]PlayersPlace.[3]RectangleFakeGlow
-PanicEnvironment.[0]Environment.[4]PlayersPlace.[4]Frame
-PanicEnvironment.[0]Environment.[4]PlayersPlace.[5]SaberBurnMarksParticles
-PanicEnvironment.[0]Environment.[4]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-PanicEnvironment.[0]Environment.[4]PlayersPlace.[6]SaberBurnMarksArea
-PanicEnvironment.[0]Environment.[4]PlayersPlace.[7]Collider
+PanicEnvironment.[0]Environment.[4]PlayersPlace.[4]SaberBurnMarksParticles
+PanicEnvironment.[0]Environment.[4]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+PanicEnvironment.[0]Environment.[4]PlayersPlace.[5]SaberBurnMarksArea
+PanicEnvironment.[0]Environment.[4]PlayersPlace.[6]Collider
 PanicEnvironment.[0]Environment.[40]FakeMirrorSettings
 PanicEnvironment.[0]Environment.[41]BakedReflectionProbeInstaller
 PanicEnvironment.[0]Environment.[5]Window
@@ -420,3 +433,6 @@ PanicEnvironment.[0]Environment.[7]BottomCones
 PanicEnvironment.[0]Environment.[8]TopCones
 PanicEnvironment.[0]Environment.[9]TrackMirror
 PanicEnvironment.[0]Environment.[9]TrackMirror.[0]TrackMirrorSetDepth
+PanicEnvironment.[1]CinemaPlaybackController
+PanicEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+PanicEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

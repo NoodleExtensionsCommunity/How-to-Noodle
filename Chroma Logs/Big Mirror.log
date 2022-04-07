@@ -1,219 +1,236 @@
 BigMirrorEnvironment.[0]Environment
 BigMirrorEnvironment.[0]Environment.[0]DecoratorContext
-BigMirrorEnvironment.[0]Environment.[1]====== STATIC ======
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms.[0]Spectrogram
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms.[0]Spectrogram.[0]Spectrogram0
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms.[0]Spectrogram.[1]Spectrogram1
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms.[1]Spectrogram
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms.[1]Spectrogram.[0]Spectrogram0
-BigMirrorEnvironment.[0]Environment.[10]Spectrograms.[1]Spectrogram.[1]Spectrogram1
-BigMirrorEnvironment.[0]Environment.[11]BigTrackLaneRings
-BigMirrorEnvironment.[0]Environment.[12]BigSmokePS
-BigMirrorEnvironment.[0]Environment.[13]DustPS
-BigMirrorEnvironment.[0]Environment.[14]====== LIGHTS ======
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[0]LightManager
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[1]LightWrapper0
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[2]LightWrapper1
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[3]DirectionalLight
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[4]DirectionalLight
-BigMirrorEnvironment.[0]Environment.[15]CoreLighting.[5]DirectionalLight
-BigMirrorEnvironment.[0]Environment.[16]LightWithIdManager
-BigMirrorEnvironment.[0]Environment.[17]LightEffects
-BigMirrorEnvironment.[0]Environment.[18]FrontLights
-BigMirrorEnvironment.[0]Environment.[18]FrontLights.[0]NeonTube
-BigMirrorEnvironment.[0]Environment.[18]FrontLights.[0]NeonTube.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[18]FrontLights.[0]NeonTube.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[18]FrontLights.[1]NeonTube (1)
-BigMirrorEnvironment.[0]Environment.[18]FrontLights.[1]NeonTube (1).[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[18]FrontLights.[1]NeonTube (1).[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[19]DoubleColorLaser
-BigMirrorEnvironment.[0]Environment.[19]DoubleColorLaser.[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[19]DoubleColorLaser.[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[19]DoubleColorLaser.[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[19]DoubleColorLaser.[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[2]Floor
-BigMirrorEnvironment.[0]Environment.[2]Floor.[0]FloorSetDepth
-BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser (4)
-BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser (4).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser (4).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser (4).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser (4).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (1)
-BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (1).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (1).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (1).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (1).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (2)
-BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (2).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (2).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (2).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (2).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (3)
-BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (3).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (3).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (3).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (3).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (5)
-BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (5).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (5).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (5).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (5).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (6)
-BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (6).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (6).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (6).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (6).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (8)
-BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (8).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (8).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (8).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (8).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (7)
-BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (7).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (7).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (7).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (7).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (9)
-BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (9).[0]TopBoxLight
-BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (9).[1]TopBakedBloom
-BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (9).[2]BottomBoxLight
-BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (9).[3]BottomBakedBloom
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL.[0]Laser
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR.[0]Laser
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[29]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[3]BackColumns
-BigMirrorEnvironment.[0]Environment.[3]BackColumns.[0]BackColumnNeon
-BigMirrorEnvironment.[0]Environment.[3]BackColumns.[0]BackColumnNeon.[0]BoxLight
-BigMirrorEnvironment.[0]Environment.[3]BackColumns.[0]BackColumnNeon.[1]BakedBloom
-BigMirrorEnvironment.[0]Environment.[3]BackColumns.[1]BackColumnNeon
-BigMirrorEnvironment.[0]Environment.[3]BackColumns.[1]BackColumnNeon.[0]BoxLight
-BigMirrorEnvironment.[0]Environment.[3]BackColumns.[1]BackColumnNeon.[1]BakedBloom
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1)
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR.[0]Laser
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2)
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL.[0]Laser
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR.[0]Laser
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3)
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL.[0]Laser
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR.[0]Laser
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[33]NeonTubeDirectionalL
-BigMirrorEnvironment.[0]Environment.[33]NeonTubeDirectionalL.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[33]NeonTubeDirectionalL.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[34]NeonTubeDirectionalFL
-BigMirrorEnvironment.[0]Environment.[34]NeonTubeDirectionalFL.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[34]NeonTubeDirectionalFL.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[35]NeonTubeDirectionalR
-BigMirrorEnvironment.[0]Environment.[35]NeonTubeDirectionalR.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[35]NeonTubeDirectionalR.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[36]NeonTubeDirectionalFR
-BigMirrorEnvironment.[0]Environment.[36]NeonTubeDirectionalFR.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[36]NeonTubeDirectionalFR.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[37]GradientBackground
-BigMirrorEnvironment.[0]Environment.[38]BakedReflectionProbe
-BigMirrorEnvironment.[0]Environment.[39]BSBakedLightingLightWithIds
-BigMirrorEnvironment.[0]Environment.[4]Construction
-BigMirrorEnvironment.[0]Environment.[40]FakeMirrorSettings
-BigMirrorEnvironment.[0]Environment.[41]BakedReflectionProbeInstaller
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[0]Mirror
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[1]Feet
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[2]Construction
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[3]RectangleFakeGlow
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[4]Frame
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[5]SaberBurnMarksParticles
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[6]SaberBurnMarksArea
-BigMirrorEnvironment.[0]Environment.[5]PlayersPlace.[7]Collider
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[0]Mesh
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[1]NeonTubeDirectional
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[1]NeonTubeDirectional.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[1]NeonTubeDirectional.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[2]NeonTubeDirectional (1)
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[2]NeonTubeDirectional (1).[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[2]NeonTubeDirectional (1).[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[3]NeonTube (2)
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[3]NeonTube (2).[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[6]NearBuildingLeft.[3]NeonTube (2).[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[0]Mesh
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[1]NeonTubeDirectional
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[1]NeonTubeDirectional.[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[1]NeonTubeDirectional.[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[2]NeonTubeDirectional (1)
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[2]NeonTubeDirectional (1).[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[2]NeonTubeDirectional (1).[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[3]NeonTube (2)
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[3]NeonTube (2).[0]BakedBloom
-BigMirrorEnvironment.[0]Environment.[7]NearBuildingRight.[3]NeonTube (2).[1]BoxLight
-BigMirrorEnvironment.[0]Environment.[8]====== DYNAMIC ======
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[0]BG
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[1]BarBG
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[5]Laser
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[0]BG
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[1]Top
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[0]BG
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[1]Top
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
-BigMirrorEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+BigMirrorEnvironment.[0]Environment.[1]SceneSetup
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[0]BG
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[1]BarBG
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[0]BG
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[1]Top
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[0]ComboText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[0]BG
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[1]Top
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[0]BGCircle
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[1]FGCircle
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[2]AnimationCircle
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[0]Spectrogram
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[0]Spectrogram.[0]Spectrogram0
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[0]Spectrogram.[1]Spectrogram1
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[1]Spectrogram
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[1]Spectrogram.[0]Spectrogram0
+BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[1]Spectrogram.[1]Spectrogram1
+BigMirrorEnvironment.[0]Environment.[12]BigTrackLaneRings
+BigMirrorEnvironment.[0]Environment.[13]BigSmokePS
+BigMirrorEnvironment.[0]Environment.[14]DustPS
+BigMirrorEnvironment.[0]Environment.[15]====== LIGHTS ======
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[0]LightManager
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[1]LightWrapper0
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[2]LightWrapper1
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[3]DirectionalLight
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[4]DirectionalLight
+BigMirrorEnvironment.[0]Environment.[16]CoreLighting.[5]DirectionalLight
+BigMirrorEnvironment.[0]Environment.[17]LightWithIdManager
+BigMirrorEnvironment.[0]Environment.[18]LightEffects
+BigMirrorEnvironment.[0]Environment.[19]FrontLights
+BigMirrorEnvironment.[0]Environment.[19]FrontLights.[0]NeonTube
+BigMirrorEnvironment.[0]Environment.[19]FrontLights.[0]NeonTube.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[19]FrontLights.[0]NeonTube.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[19]FrontLights.[1]NeonTube (1)
+BigMirrorEnvironment.[0]Environment.[19]FrontLights.[1]NeonTube (1).[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[19]FrontLights.[1]NeonTube (1).[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[2]====== STATIC ======
+BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser
+BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser.[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser.[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser.[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[20]DoubleColorLaser.[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (4)
+BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (4).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (4).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (4).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[21]DoubleColorLaser (4).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (1)
+BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (1).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (1).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (1).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[22]DoubleColorLaser (1).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (2)
+BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (2).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (2).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (2).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[23]DoubleColorLaser (2).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (3)
+BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (3).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (3).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (3).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[24]DoubleColorLaser (3).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (5)
+BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (5).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (5).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (5).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[25]DoubleColorLaser (5).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (6)
+BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (6).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (6).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (6).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[26]DoubleColorLaser (6).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (8)
+BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (8).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (8).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (8).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[27]DoubleColorLaser (8).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (7)
+BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (7).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (7).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (7).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[28]DoubleColorLaser (7).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[29]DoubleColorLaser (9)
+BigMirrorEnvironment.[0]Environment.[29]DoubleColorLaser (9).[0]TopBoxLight
+BigMirrorEnvironment.[0]Environment.[29]DoubleColorLaser (9).[1]TopBakedBloom
+BigMirrorEnvironment.[0]Environment.[29]DoubleColorLaser (9).[2]BottomBoxLight
+BigMirrorEnvironment.[0]Environment.[29]DoubleColorLaser (9).[3]BottomBakedBloom
+BigMirrorEnvironment.[0]Environment.[3]Floor
+BigMirrorEnvironment.[0]Environment.[3]Floor.[0]FloorSetDepth
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[0]BaseL
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[0]BaseL.[0]Laser
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[0]BaseL.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[0]BaseL.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[1]BaseR
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[1]BaseR.[0]Laser
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[1]BaseR.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[30]RotatingLasersPair.[1]BaseR.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1)
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[0]BaseL
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[0]BaseL.[0]Laser
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[0]BaseL.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[0]BaseL.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[1]BaseR
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[1]BaseR.[0]Laser
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[1]BaseR.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[31]RotatingLasersPair (1).[1]BaseR.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2)
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[0]BaseL
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[0]BaseL.[0]Laser
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[0]BaseL.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[0]BaseL.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[1]BaseR
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[1]BaseR.[0]Laser
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[1]BaseR.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[32]RotatingLasersPair (2).[1]BaseR.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3)
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[0]BaseL
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[0]BaseL.[0]Laser
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[0]BaseL.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[0]BaseL.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[1]BaseR
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[1]BaseR.[0]Laser
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[1]BaseR.[0]Laser.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[33]RotatingLasersPair (3).[1]BaseR.[0]Laser.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[34]NeonTubeDirectionalL
+BigMirrorEnvironment.[0]Environment.[34]NeonTubeDirectionalL.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[34]NeonTubeDirectionalL.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[35]NeonTubeDirectionalFL
+BigMirrorEnvironment.[0]Environment.[35]NeonTubeDirectionalFL.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[35]NeonTubeDirectionalFL.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[36]NeonTubeDirectionalR
+BigMirrorEnvironment.[0]Environment.[36]NeonTubeDirectionalR.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[36]NeonTubeDirectionalR.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[37]NeonTubeDirectionalFR
+BigMirrorEnvironment.[0]Environment.[37]NeonTubeDirectionalFR.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[37]NeonTubeDirectionalFR.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[38]GradientBackground
+BigMirrorEnvironment.[0]Environment.[39]BakedReflectionProbe
+BigMirrorEnvironment.[0]Environment.[4]BackColumns
+BigMirrorEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon
+BigMirrorEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[0]BoxLight
+BigMirrorEnvironment.[0]Environment.[4]BackColumns.[0]BackColumnNeon.[1]BakedBloom
+BigMirrorEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon
+BigMirrorEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[0]BoxLight
+BigMirrorEnvironment.[0]Environment.[4]BackColumns.[1]BackColumnNeon.[1]BakedBloom
+BigMirrorEnvironment.[0]Environment.[40]BSBakedLightingLightWithIds
+BigMirrorEnvironment.[0]Environment.[41]FakeMirrorSettings
+BigMirrorEnvironment.[0]Environment.[42]BakedReflectionProbeInstaller
+BigMirrorEnvironment.[0]Environment.[5]Construction
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksArea
+BigMirrorEnvironment.[0]Environment.[6]PlayersPlace.[6]Collider
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[0]Mesh
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[1]NeonTubeDirectional
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[1]NeonTubeDirectional.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[1]NeonTubeDirectional.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[2]NeonTubeDirectional (1)
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[2]NeonTubeDirectional (1).[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[2]NeonTubeDirectional (1).[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[3]NeonTube (2)
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[3]NeonTube (2).[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[7]NearBuildingLeft.[3]NeonTube (2).[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[0]Mesh
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[1]NeonTubeDirectional
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[1]NeonTubeDirectional.[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[1]NeonTubeDirectional.[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[2]NeonTubeDirectional (1)
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[2]NeonTubeDirectional (1).[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[2]NeonTubeDirectional (1).[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[3]NeonTube (2)
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[3]NeonTube (2).[0]BakedBloom
+BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[3]NeonTube (2).[1]BoxLight
+BigMirrorEnvironment.[0]Environment.[9]====== DYNAMIC ======
+BigMirrorEnvironment.[1]CinemaPlaybackController
+BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
 GameCore.[1]BigTrackLaneRing(Clone)
 GameCore.[1]BigTrackLaneRing(Clone).[0]Ring
 GameCore.[1]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional

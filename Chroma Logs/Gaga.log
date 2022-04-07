@@ -1,291 +1,294 @@
 GagaEnvironment.[0]Environment
 GagaEnvironment.[0]Environment.[0]DecoratorContext
-GagaEnvironment.[0]Environment.[1]EnvironmentBrandingManager
-GagaEnvironment.[0]Environment.[10]BackCube
-GagaEnvironment.[0]Environment.[11]TubeR
-GagaEnvironment.[0]Environment.[12]TubeL
-GagaEnvironment.[0]Environment.[13]TubeL (1)
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1)
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[0]RunwayLightL1
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[0]RunwayLightL1.[0]BakedBloom
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[0]RunwayLightL1.[1]BoxLight
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[1]RunwayLightL0
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[1]RunwayLightL0.[0]BakedBloom
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[1]RunwayLightL0.[1]BoxLight
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[2]RunwayLightR0
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[2]RunwayLightR0.[0]BakedBloom
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[2]RunwayLightR0.[1]BoxLight
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[3]RunwayLightR1
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[3]RunwayLightR1.[0]BakedBloom
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[3]RunwayLightR1.[1]BoxLight
-GagaEnvironment.[0]Environment.[14]RunwayPillarLow (1).[4]RunwayPier
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2)
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[0]RunwayLightL1
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[0]RunwayLightL1.[0]BakedBloom
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[0]RunwayLightL1.[1]BoxLight
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[1]RunwayLightL0
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[1]RunwayLightL0.[0]BakedBloom
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[1]RunwayLightL0.[1]BoxLight
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[2]RunwayLightR0
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[2]RunwayLightR0.[0]BakedBloom
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[2]RunwayLightR0.[1]BoxLight
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[3]RunwayLightR1
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[3]RunwayLightR1.[0]BakedBloom
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[3]RunwayLightR1.[1]BoxLight
-GagaEnvironment.[0]Environment.[15]RunwayPillarLow (2).[4]RunwayPier
-GagaEnvironment.[0]Environment.[16]RunwayPillar
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[0]RunwayLightL1
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[0]RunwayLightL1.[0]BakedBloom
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[0]RunwayLightL1.[1]BoxLight
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[1]RunwayLightL0
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[1]RunwayLightL0.[0]BakedBloom
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[1]RunwayLightL0.[1]BoxLight
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[2]RunwayLightR0
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[2]RunwayLightR0.[0]BakedBloom
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[2]RunwayLightR0.[1]BoxLight
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[3]RunwayLightR1
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[3]RunwayLightR1.[0]BakedBloom
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[3]RunwayLightR1.[1]BoxLight
-GagaEnvironment.[0]Environment.[16]RunwayPillar.[4]RunwayPier
-GagaEnvironment.[0]Environment.[17]Tower
-GagaEnvironment.[0]Environment.[18]Tower (3)
-GagaEnvironment.[0]Environment.[19]Tower (1)
-GagaEnvironment.[0]Environment.[2]BakedReflectionProbe
-GagaEnvironment.[0]Environment.[20]Tower (2)
-GagaEnvironment.[0]Environment.[21]====== DYNAMIC ======
-GagaEnvironment.[0]Environment.[22]Logo
-GagaEnvironment.[0]Environment.[22]Logo.[0]TeslaDiscColumn1LLightningTarget
-GagaEnvironment.[0]Environment.[22]Logo.[1]TeslaDiscColumn1RLightningTarget
-GagaEnvironment.[0]Environment.[22]Logo.[2]Logo
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[0]BG
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[5]Laser
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
-GagaEnvironment.[0]Environment.[23]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
-GagaEnvironment.[0]Environment.[24]====== LIGHTS ======
-GagaEnvironment.[0]Environment.[25]FloorLightTilesGridEffect
-GagaEnvironment.[0]Environment.[26]TeslaTower1L
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[0]DiskTop
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[0]DiskTop.[0]Disk
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[0]DiskTop.[1]GlowingCore
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[0]DiskTop.[2]FakeGlow
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[1]DiskUpper
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[1]DiskUpper.[0]Disk
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[1]DiskUpper.[1]GlowingCore
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[1]DiskUpper.[2]FakeGlow
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[2]DiskBottom
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[2]DiskBottom.[0]Disk
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[2]DiskBottom.[1]GlowingCore
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[2]DiskBottom.[2]FakeGlow
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc.[0]Disk
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc.[1]GlowingCore
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc.[2]FakeGlow
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc.[3]LightningWithTarget
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[3]DynamicTeslaDisc.[5]LightningTarget
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[4]BloomFog
-GagaEnvironment.[0]Environment.[26]TeslaTower1L.[5]Tower
-GagaEnvironment.[0]Environment.[27]TeslaTower1R
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[0]DiskTop
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[0]DiskTop.[0]Disk
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[0]DiskTop.[1]GlowingCore
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[0]DiskTop.[2]FakeGlow
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[1]DiskUpper
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[1]DiskUpper.[0]Disk
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[1]DiskUpper.[1]GlowingCore
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[1]DiskUpper.[2]FakeGlow
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[2]DiskBottom
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[2]DiskBottom.[0]Disk
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[2]DiskBottom.[1]GlowingCore
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[2]DiskBottom.[2]FakeGlow
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc.[0]Disk
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc.[1]GlowingCore
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc.[2]FakeGlow
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc.[3]LightningWithTarget
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[3]DynamicTeslaDisc.[5]LightningTarget
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[4]BloomFog
-GagaEnvironment.[0]Environment.[27]TeslaTower1R.[5]Tower
-GagaEnvironment.[0]Environment.[28]TeslaTower2L
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[0]DiskTop
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[0]DiskTop.[0]Disk
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[0]DiskTop.[1]GlowingCore
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[0]DiskTop.[2]FakeGlow
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[1]DiskUpper
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[1]DiskUpper.[0]Disk
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[1]DiskUpper.[1]GlowingCore
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[1]DiskUpper.[2]FakeGlow
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[2]DiskBottom
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[2]DiskBottom.[0]Disk
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[2]DiskBottom.[1]GlowingCore
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[2]DiskBottom.[2]FakeGlow
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc.[0]Disk
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc.[1]GlowingCore
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc.[2]FakeGlow
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc.[3]LightningWithTarget
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[3]DynamicTeslaDisc.[5]LightningTarget
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[4]BloomFog
-GagaEnvironment.[0]Environment.[28]TeslaTower2L.[5]Tower
-GagaEnvironment.[0]Environment.[29]TeslaTower2R
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[0]DiskTop
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[0]DiskTop.[0]Disk
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[0]DiskTop.[1]GlowingCore
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[0]DiskTop.[2]FakeGlow
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[1]DiskUpper
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[1]DiskUpper.[0]Disk
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[1]DiskUpper.[1]GlowingCore
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[1]DiskUpper.[2]FakeGlow
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[2]DiskBottom
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[2]DiskBottom.[0]Disk
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[2]DiskBottom.[1]GlowingCore
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[2]DiskBottom.[2]FakeGlow
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc.[0]Disk
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc.[1]GlowingCore
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc.[2]FakeGlow
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc.[3]LightningWithTarget
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[3]DynamicTeslaDisc.[5]LightningTarget
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[4]BloomFog
-GagaEnvironment.[0]Environment.[29]TeslaTower2R.[5]Tower
-GagaEnvironment.[0]Environment.[3]FakeMirrorSettings
-GagaEnvironment.[0]Environment.[30]TeslaTower3L
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[0]DiskTop
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[0]DiskTop.[0]Disk
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[0]DiskTop.[1]GlowingCore
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[0]DiskTop.[2]FakeGlow
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[1]DiskUpper
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[1]DiskUpper.[0]Disk
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[1]DiskUpper.[1]GlowingCore
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[1]DiskUpper.[2]FakeGlow
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[2]DiskBottom
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[2]DiskBottom.[0]Disk
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[2]DiskBottom.[1]GlowingCore
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[2]DiskBottom.[2]FakeGlow
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[3]DynamicTeslaDisc
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[3]DynamicTeslaDisc.[0]Disk
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[3]DynamicTeslaDisc.[1]GlowingCore
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[3]DynamicTeslaDisc.[2]FakeGlow
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[3]DynamicTeslaDisc.[3]LightningWithTarget
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[4]BloomFog
-GagaEnvironment.[0]Environment.[30]TeslaTower3L.[5]Tower
-GagaEnvironment.[0]Environment.[31]TeslaTower3R
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[0]DiskTop
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[0]DiskTop.[0]Disk
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[0]DiskTop.[1]GlowingCore
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[0]DiskTop.[2]FakeGlow
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[1]DiskUpper
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[1]DiskUpper.[0]Disk
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[1]DiskUpper.[1]GlowingCore
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[1]DiskUpper.[2]FakeGlow
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[2]DiskBottom
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[2]DiskBottom.[0]Disk
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[2]DiskBottom.[1]GlowingCore
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[2]DiskBottom.[2]FakeGlow
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[3]DynamicTeslaDisc
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[3]DynamicTeslaDisc.[0]Disk
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[3]DynamicTeslaDisc.[1]GlowingCore
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[3]DynamicTeslaDisc.[2]FakeGlow
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[3]DynamicTeslaDisc.[3]LightningWithTarget
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[4]BloomFog
-GagaEnvironment.[0]Environment.[31]TeslaTower3R.[5]Tower
-GagaEnvironment.[0]Environment.[32]SmokePSL
-GagaEnvironment.[0]Environment.[33]SmokePSR
-GagaEnvironment.[0]Environment.[34]StarSky
-GagaEnvironment.[0]Environment.[34]StarSky.[0]StarSkyPS
-GagaEnvironment.[0]Environment.[34]StarSky.[1]StarSkyPS2
-GagaEnvironment.[0]Environment.[35]Aurora
-GagaEnvironment.[0]Environment.[35]Aurora.[0]AuroraMain
-GagaEnvironment.[0]Environment.[35]Aurora.[1]AuroraSecondary
-GagaEnvironment.[0]Environment.[36]CoreLighting
-GagaEnvironment.[0]Environment.[36]CoreLighting.[0]LightManager
-GagaEnvironment.[0]Environment.[37]DirectionalLights
-GagaEnvironment.[0]Environment.[37]DirectionalLights.[0]DirectionalLightFront
-GagaEnvironment.[0]Environment.[37]DirectionalLights.[1]DirectionalLightBack
-GagaEnvironment.[0]Environment.[37]DirectionalLights.[2]DirectionalLightLeft
-GagaEnvironment.[0]Environment.[37]DirectionalLights.[3]DirectionalLightRight
-GagaEnvironment.[0]Environment.[37]DirectionalLights.[4]DirectionalLightTop
-GagaEnvironment.[0]Environment.[38]LightWithIdManager
-GagaEnvironment.[0]Environment.[39]LightEffects
-GagaEnvironment.[0]Environment.[4]FakeMirrorObjectsInstaller
-GagaEnvironment.[0]Environment.[40]GradientBackground
-GagaEnvironment.[0]Environment.[41]FrontLasers
-GagaEnvironment.[0]Environment.[41]FrontLasers.[0]FrontLaserL
-GagaEnvironment.[0]Environment.[41]FrontLasers.[0]FrontLaserL.[0]BakedBloom
-GagaEnvironment.[0]Environment.[41]FrontLasers.[0]FrontLaserL.[1]BoxLight
-GagaEnvironment.[0]Environment.[41]FrontLasers.[1]FrontLaserR
-GagaEnvironment.[0]Environment.[41]FrontLasers.[1]FrontLaserR.[0]BakedBloom
-GagaEnvironment.[0]Environment.[41]FrontLasers.[1]FrontLaserR.[1]BoxLight
-GagaEnvironment.[0]Environment.[41]FrontLasers.[2]FrontLaserFogL
-GagaEnvironment.[0]Environment.[41]FrontLasers.[3]FrontLaserFogR
-GagaEnvironment.[0]Environment.[41]FrontLasers.[4]MainBeamDisk
-GagaEnvironment.[0]Environment.[41]FrontLasers.[5]MainBeamDisk (1)
-GagaEnvironment.[0]Environment.[5]LightmapLightsWithIds
-GagaEnvironment.[0]Environment.[5]LightmapLightsWithIds.[0]1
-GagaEnvironment.[0]Environment.[5]LightmapLightsWithIds.[1]2
-GagaEnvironment.[0]Environment.[5]LightmapLightsWithIds.[2]3
-GagaEnvironment.[0]Environment.[5]LightmapLightsWithIds.[3]4
-GagaEnvironment.[0]Environment.[5]LightmapLightsWithIds.[4]5
-GagaEnvironment.[0]Environment.[6]====== STATIC ======
-GagaEnvironment.[0]Environment.[7]Runway
-GagaEnvironment.[0]Environment.[7]Runway.[0]SetDepthOnly
-GagaEnvironment.[0]Environment.[8]Construction
-GagaEnvironment.[0]Environment.[9]PlayersPlace
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[0]Mirror
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[1]Feet
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[2]Construction
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[3]RectangleFakeGlow
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[4]Frame
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[5]SaberBurnMarksParticles
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[6]SaberBurnMarksArea
-GagaEnvironment.[0]Environment.[9]PlayersPlace.[7]Collider
+GagaEnvironment.[0]Environment.[1]SceneSetup
+GagaEnvironment.[0]Environment.[10]PlayersPlace
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[0]Mirror
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[1]Feet
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[2]Construction
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[3]RectangleFakeGlow
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[4]SaberBurnMarksParticles
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[5]SaberBurnMarksArea
+GagaEnvironment.[0]Environment.[10]PlayersPlace.[6]Collider
+GagaEnvironment.[0]Environment.[11]BackCube
+GagaEnvironment.[0]Environment.[12]TubeR
+GagaEnvironment.[0]Environment.[13]TubeL
+GagaEnvironment.[0]Environment.[14]TubeL (1)
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1)
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[0]RunwayLightL1
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[0]RunwayLightL1.[0]BakedBloom
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[0]RunwayLightL1.[1]BoxLight
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[1]RunwayLightL0
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[1]RunwayLightL0.[0]BakedBloom
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[1]RunwayLightL0.[1]BoxLight
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[2]RunwayLightR0
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[2]RunwayLightR0.[0]BakedBloom
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[2]RunwayLightR0.[1]BoxLight
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[3]RunwayLightR1
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[3]RunwayLightR1.[0]BakedBloom
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[3]RunwayLightR1.[1]BoxLight
+GagaEnvironment.[0]Environment.[15]RunwayPillarLow (1).[4]RunwayPier
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2)
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[0]RunwayLightL1
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[0]RunwayLightL1.[0]BakedBloom
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[0]RunwayLightL1.[1]BoxLight
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[1]RunwayLightL0
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[1]RunwayLightL0.[0]BakedBloom
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[1]RunwayLightL0.[1]BoxLight
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[2]RunwayLightR0
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[2]RunwayLightR0.[0]BakedBloom
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[2]RunwayLightR0.[1]BoxLight
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[3]RunwayLightR1
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[3]RunwayLightR1.[0]BakedBloom
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[3]RunwayLightR1.[1]BoxLight
+GagaEnvironment.[0]Environment.[16]RunwayPillarLow (2).[4]RunwayPier
+GagaEnvironment.[0]Environment.[17]RunwayPillar
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[0]RunwayLightL1
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[0]RunwayLightL1.[0]BakedBloom
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[0]RunwayLightL1.[1]BoxLight
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[1]RunwayLightL0
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[1]RunwayLightL0.[0]BakedBloom
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[1]RunwayLightL0.[1]BoxLight
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[2]RunwayLightR0
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[2]RunwayLightR0.[0]BakedBloom
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[2]RunwayLightR0.[1]BoxLight
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[3]RunwayLightR1
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[3]RunwayLightR1.[0]BakedBloom
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[3]RunwayLightR1.[1]BoxLight
+GagaEnvironment.[0]Environment.[17]RunwayPillar.[4]RunwayPier
+GagaEnvironment.[0]Environment.[18]Tower
+GagaEnvironment.[0]Environment.[19]Tower (3)
+GagaEnvironment.[0]Environment.[2]EnvironmentBrandingManager
+GagaEnvironment.[0]Environment.[20]Tower (1)
+GagaEnvironment.[0]Environment.[21]Tower (2)
+GagaEnvironment.[0]Environment.[22]====== DYNAMIC ======
+GagaEnvironment.[0]Environment.[23]Logo
+GagaEnvironment.[0]Environment.[23]Logo.[0]TeslaDiscColumn1LLightningTarget
+GagaEnvironment.[0]Environment.[23]Logo.[1]TeslaDiscColumn1RLightningTarget
+GagaEnvironment.[0]Environment.[23]Logo.[2]Logo
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[0]BG
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+GagaEnvironment.[0]Environment.[24]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
+GagaEnvironment.[0]Environment.[25]====== LIGHTS ======
+GagaEnvironment.[0]Environment.[26]FloorLightTilesGridEffect
+GagaEnvironment.[0]Environment.[27]TeslaTower1L
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[0]DiskTop
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[0]DiskTop.[0]Disk
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[0]DiskTop.[1]GlowingCore
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[0]DiskTop.[2]FakeGlow
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[1]DiskUpper
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[1]DiskUpper.[0]Disk
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[1]DiskUpper.[1]GlowingCore
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[1]DiskUpper.[2]FakeGlow
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[2]DiskBottom
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[2]DiskBottom.[0]Disk
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[2]DiskBottom.[1]GlowingCore
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[2]DiskBottom.[2]FakeGlow
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc.[0]Disk
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc.[1]GlowingCore
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc.[2]FakeGlow
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc.[3]LightningWithTarget
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[3]DynamicTeslaDisc.[5]LightningTarget
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[4]BloomFog
+GagaEnvironment.[0]Environment.[27]TeslaTower1L.[5]Tower
+GagaEnvironment.[0]Environment.[28]TeslaTower1R
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[0]DiskTop
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[0]DiskTop.[0]Disk
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[0]DiskTop.[1]GlowingCore
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[0]DiskTop.[2]FakeGlow
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[1]DiskUpper
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[1]DiskUpper.[0]Disk
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[1]DiskUpper.[1]GlowingCore
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[1]DiskUpper.[2]FakeGlow
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[2]DiskBottom
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[2]DiskBottom.[0]Disk
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[2]DiskBottom.[1]GlowingCore
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[2]DiskBottom.[2]FakeGlow
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc.[0]Disk
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc.[1]GlowingCore
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc.[2]FakeGlow
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc.[3]LightningWithTarget
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[3]DynamicTeslaDisc.[5]LightningTarget
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[4]BloomFog
+GagaEnvironment.[0]Environment.[28]TeslaTower1R.[5]Tower
+GagaEnvironment.[0]Environment.[29]TeslaTower2L
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[0]DiskTop
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[0]DiskTop.[0]Disk
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[0]DiskTop.[1]GlowingCore
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[0]DiskTop.[2]FakeGlow
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[1]DiskUpper
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[1]DiskUpper.[0]Disk
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[1]DiskUpper.[1]GlowingCore
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[1]DiskUpper.[2]FakeGlow
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[2]DiskBottom
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[2]DiskBottom.[0]Disk
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[2]DiskBottom.[1]GlowingCore
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[2]DiskBottom.[2]FakeGlow
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc.[0]Disk
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc.[1]GlowingCore
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc.[2]FakeGlow
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc.[3]LightningWithTarget
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[3]DynamicTeslaDisc.[5]LightningTarget
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[4]BloomFog
+GagaEnvironment.[0]Environment.[29]TeslaTower2L.[5]Tower
+GagaEnvironment.[0]Environment.[3]BakedReflectionProbe
+GagaEnvironment.[0]Environment.[30]TeslaTower2R
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[0]DiskTop
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[0]DiskTop.[0]Disk
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[0]DiskTop.[1]GlowingCore
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[0]DiskTop.[2]FakeGlow
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[1]DiskUpper
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[1]DiskUpper.[0]Disk
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[1]DiskUpper.[1]GlowingCore
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[1]DiskUpper.[2]FakeGlow
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[2]DiskBottom
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[2]DiskBottom.[0]Disk
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[2]DiskBottom.[1]GlowingCore
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[2]DiskBottom.[2]FakeGlow
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc.[0]Disk
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc.[1]GlowingCore
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc.[2]FakeGlow
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc.[3]LightningWithTarget
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[3]DynamicTeslaDisc.[5]LightningTarget
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[4]BloomFog
+GagaEnvironment.[0]Environment.[30]TeslaTower2R.[5]Tower
+GagaEnvironment.[0]Environment.[31]TeslaTower3L
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[0]DiskTop
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[0]DiskTop.[0]Disk
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[0]DiskTop.[1]GlowingCore
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[0]DiskTop.[2]FakeGlow
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[1]DiskUpper
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[1]DiskUpper.[0]Disk
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[1]DiskUpper.[1]GlowingCore
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[1]DiskUpper.[2]FakeGlow
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[2]DiskBottom
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[2]DiskBottom.[0]Disk
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[2]DiskBottom.[1]GlowingCore
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[2]DiskBottom.[2]FakeGlow
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[3]DynamicTeslaDisc
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[3]DynamicTeslaDisc.[0]Disk
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[3]DynamicTeslaDisc.[1]GlowingCore
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[3]DynamicTeslaDisc.[2]FakeGlow
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[3]DynamicTeslaDisc.[3]LightningWithTarget
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[4]BloomFog
+GagaEnvironment.[0]Environment.[31]TeslaTower3L.[5]Tower
+GagaEnvironment.[0]Environment.[32]TeslaTower3R
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[0]DiskTop
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[0]DiskTop.[0]Disk
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[0]DiskTop.[1]GlowingCore
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[0]DiskTop.[2]FakeGlow
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[1]DiskUpper
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[1]DiskUpper.[0]Disk
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[1]DiskUpper.[1]GlowingCore
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[1]DiskUpper.[2]FakeGlow
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[2]DiskBottom
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[2]DiskBottom.[0]Disk
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[2]DiskBottom.[1]GlowingCore
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[2]DiskBottom.[2]FakeGlow
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[3]DynamicTeslaDisc
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[3]DynamicTeslaDisc.[0]Disk
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[3]DynamicTeslaDisc.[1]GlowingCore
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[3]DynamicTeslaDisc.[2]FakeGlow
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[3]DynamicTeslaDisc.[3]LightningWithTarget
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[3]DynamicTeslaDisc.[4]LightningWithTargetThin
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[4]BloomFog
+GagaEnvironment.[0]Environment.[32]TeslaTower3R.[5]Tower
+GagaEnvironment.[0]Environment.[33]SmokePSL
+GagaEnvironment.[0]Environment.[34]SmokePSR
+GagaEnvironment.[0]Environment.[35]StarSky
+GagaEnvironment.[0]Environment.[35]StarSky.[0]StarSkyPS
+GagaEnvironment.[0]Environment.[35]StarSky.[1]StarSkyPS2
+GagaEnvironment.[0]Environment.[36]Aurora
+GagaEnvironment.[0]Environment.[36]Aurora.[0]AuroraMain
+GagaEnvironment.[0]Environment.[36]Aurora.[1]AuroraSecondary
+GagaEnvironment.[0]Environment.[37]CoreLighting
+GagaEnvironment.[0]Environment.[37]CoreLighting.[0]LightManager
+GagaEnvironment.[0]Environment.[38]DirectionalLights
+GagaEnvironment.[0]Environment.[38]DirectionalLights.[0]DirectionalLightFront
+GagaEnvironment.[0]Environment.[38]DirectionalLights.[1]DirectionalLightBack
+GagaEnvironment.[0]Environment.[38]DirectionalLights.[2]DirectionalLightLeft
+GagaEnvironment.[0]Environment.[38]DirectionalLights.[3]DirectionalLightRight
+GagaEnvironment.[0]Environment.[38]DirectionalLights.[4]DirectionalLightTop
+GagaEnvironment.[0]Environment.[39]LightWithIdManager
+GagaEnvironment.[0]Environment.[4]FakeMirrorSettings
+GagaEnvironment.[0]Environment.[40]LightEffects
+GagaEnvironment.[0]Environment.[41]GradientBackground
+GagaEnvironment.[0]Environment.[42]FrontLasers
+GagaEnvironment.[0]Environment.[42]FrontLasers.[0]FrontLaserL
+GagaEnvironment.[0]Environment.[42]FrontLasers.[0]FrontLaserL.[0]BakedBloom
+GagaEnvironment.[0]Environment.[42]FrontLasers.[0]FrontLaserL.[1]BoxLight
+GagaEnvironment.[0]Environment.[42]FrontLasers.[1]FrontLaserR
+GagaEnvironment.[0]Environment.[42]FrontLasers.[1]FrontLaserR.[0]BakedBloom
+GagaEnvironment.[0]Environment.[42]FrontLasers.[1]FrontLaserR.[1]BoxLight
+GagaEnvironment.[0]Environment.[42]FrontLasers.[2]FrontLaserFogL
+GagaEnvironment.[0]Environment.[42]FrontLasers.[3]FrontLaserFogR
+GagaEnvironment.[0]Environment.[42]FrontLasers.[4]MainBeamDisk
+GagaEnvironment.[0]Environment.[42]FrontLasers.[5]MainBeamDisk (1)
+GagaEnvironment.[0]Environment.[5]FakeMirrorObjectsInstaller
+GagaEnvironment.[0]Environment.[6]LightmapLightsWithIds
+GagaEnvironment.[0]Environment.[6]LightmapLightsWithIds.[0]A
+GagaEnvironment.[0]Environment.[6]LightmapLightsWithIds.[1]B
+GagaEnvironment.[0]Environment.[6]LightmapLightsWithIds.[2]C
+GagaEnvironment.[0]Environment.[6]LightmapLightsWithIds.[3]D
+GagaEnvironment.[0]Environment.[6]LightmapLightsWithIds.[4]E
+GagaEnvironment.[0]Environment.[7]====== STATIC ======
+GagaEnvironment.[0]Environment.[8]Runway
+GagaEnvironment.[0]Environment.[8]Runway.[0]SetDepthOnly
+GagaEnvironment.[0]Environment.[9]Construction
+GagaEnvironment.[1]CinemaPlaybackController
+GagaEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+GagaEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

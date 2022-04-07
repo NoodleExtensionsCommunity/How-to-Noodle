@@ -518,11 +518,10 @@ BTSEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
 BTSEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
 BTSEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
 BTSEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
-BTSEnvironment.[0]Environment.[6]PlayersPlace.[4]Frame
-BTSEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles
-BTSEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-BTSEnvironment.[0]Environment.[6]PlayersPlace.[6]SaberBurnMarksArea
-BTSEnvironment.[0]Environment.[6]PlayersPlace.[7]Collider
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksArea
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[6]Collider
 BTSEnvironment.[0]Environment.[7]====== DYNAMIC ======
 BTSEnvironment.[0]Environment.[8]MagicDoorSprite
 BTSEnvironment.[0]Environment.[8]MagicDoorSprite.[0]BloomL
@@ -547,6 +546,9 @@ BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]Com
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -561,3 +563,17 @@ BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
+BTSEnvironment.[1]CinemaPlaybackController
+BTSEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+BTSEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

@@ -253,6 +253,9 @@ TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[0]BG
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[1]Top
@@ -269,16 +272,26 @@ TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]Multiplier
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
 TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[0]Background
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[2]DurationMinutes
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[3]DurationSeconds
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
+TimbalandEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
 TimbalandEnvironment.[0]Environment.[11]PlayersPlace
 TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[0]Mirror
 TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[1]Feet
 TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[2]Construction
 TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[3]RectangleFakeGlow
-TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[4]Frame
-TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles
-TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[6]SaberBurnMarksArea
-TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[7]Collider
+TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[4]SaberBurnMarksParticles
+TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[5]SaberBurnMarksArea
+TimbalandEnvironment.[0]Environment.[11]PlayersPlace.[6]Collider
 TimbalandEnvironment.[0]Environment.[12]DustPS
 TimbalandEnvironment.[0]Environment.[13]====== LIGHTS ======
 TimbalandEnvironment.[0]Environment.[14]PairLaserTrackLaneRings
@@ -337,3 +350,6 @@ TimbalandEnvironment.[0]Environment.[8]====== DYNAMIC ======
 TimbalandEnvironment.[0]Environment.[9]Spectrograms
 TimbalandEnvironment.[0]Environment.[9]Spectrograms.[0]Spectrogram
 TimbalandEnvironment.[0]Environment.[9]Spectrograms.[1]Spectrogram
+TimbalandEnvironment.[1]CinemaPlaybackController
+TimbalandEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+TimbalandEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body

@@ -11,11 +11,10 @@ BillieEnvironment.[0]Environment.[13]PlayersPlace.[0]Mirror
 BillieEnvironment.[0]Environment.[13]PlayersPlace.[1]Feet
 BillieEnvironment.[0]Environment.[13]PlayersPlace.[2]Construction
 BillieEnvironment.[0]Environment.[13]PlayersPlace.[3]RectangleFakeGlow
-BillieEnvironment.[0]Environment.[13]PlayersPlace.[4]Frame
-BillieEnvironment.[0]Environment.[13]PlayersPlace.[5]SaberBurnMarksParticles
-BillieEnvironment.[0]Environment.[13]PlayersPlace.[5]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
-BillieEnvironment.[0]Environment.[13]PlayersPlace.[6]SaberBurnMarksArea
-BillieEnvironment.[0]Environment.[13]PlayersPlace.[7]Collider
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[4]SaberBurnMarksParticles
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[5]SaberBurnMarksArea
+BillieEnvironment.[0]Environment.[13]PlayersPlace.[6]Collider
 BillieEnvironment.[0]Environment.[14]LeftRail
 BillieEnvironment.[0]Environment.[15]RightRail
 BillieEnvironment.[0]Environment.[16]LeftFarRail1
@@ -42,6 +41,9 @@ BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
@@ -56,6 +58,17 @@ BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCan
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
 BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+BillieEnvironment.[0]Environment.[2]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
 BillieEnvironment.[0]Environment.[20]RailingFullBack
 BillieEnvironment.[0]Environment.[21]RailingFullFront
 BillieEnvironment.[0]Environment.[22]LastRailingCurve
@@ -334,11 +347,14 @@ BillieEnvironment.[0]Environment.[54]BottomPairLasers (8).[1]PillarR.[0]Rotation
 BillieEnvironment.[0]Environment.[55]====== EDITOR ONLY ======
 BillieEnvironment.[0]Environment.[6]BakedReflectionProbe
 BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds
-BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[0]1
-BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[1]2
-BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[2]3
-BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[3]4
-BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[4]5
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[0]A
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[1]B
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[2]C
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[3]D
+BillieEnvironment.[0]Environment.[7]LightmapLightsWithIds.[4]E
 BillieEnvironment.[0]Environment.[8]CoreLighting
 BillieEnvironment.[0]Environment.[8]CoreLighting.[0]LightManager
 BillieEnvironment.[0]Environment.[9]LightWithIdManager
+BillieEnvironment.[1]CinemaPlaybackController
+BillieEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
+BillieEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
