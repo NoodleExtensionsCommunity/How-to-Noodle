@@ -53,7 +53,7 @@ function GiveWallsTrack(track, t1, t2) {
 }
 
 function GiveNoteTypesTrack(Type0Track, Type1Track, t1, t2) {
-	filterednotes = notes.filter(n => n.time >= t1 && n.time <= t2)
+	filterednotes = notes.filter(n => n._time >= t1 && n._time <= t2)
 	filterednotes.forEach(note => {
 		if (note._type == 0) {
 			if (!note.customData._track) note.customData._track = Type0Track
@@ -69,7 +69,7 @@ function GiveNoteTypesTrack(Type0Track, Type1Track, t1, t2) {
 }
 
 function GiveNoteLanesTrack(Lane1Track, Lane2Track, Lane3Track, Lane4Track, t1, t2) {
-	filterednotes = notes.filter(n => n.time >= t1 && n.time <= t2)
+	filterednotes = notes.filter(n => n._time >= t1 && n._time <= t2)
 	filterednotes.forEach(note => {
 		if (note._lineLayer == 0) {
 			if (!note.customData._track) note.customData._track = Lane1Track
