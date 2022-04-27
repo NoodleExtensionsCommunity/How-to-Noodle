@@ -55,12 +55,12 @@ function GiveWallsTrack(track, t1, t2) {
 function GiveNoteTypesTrack(Type0Track, Type1Track, t1, t2) {
 	filterednotes = notes.filter(n => n.time >= t1 && n.time <= t2)
 	filterednotes.forEach(note => {
-		if (note.type == 0) {
+		if (note._type == 0) {
 			if (!note.customData._track) note.customData._track = Type0Track
 			if (Array.isArray(note.customData._track)) note.customData._track.push(Type0Track)
 			else if (note.customData._track != Type0Track) note.customData._track = [note.customData._track, Type0Track]
 		}
-		if (note.type == 1) {
+		if (note._type == 1) {
 			if (!note.customData._track) note.customData._track = Type1Track
 			if (Array.isArray(note.customData._track)) note.customData._track.push(Type1Track)
 			else if (note.customData._track != Type0Track) note.customData._track = [note.customData._track, Type1Track]
@@ -71,22 +71,22 @@ function GiveNoteTypesTrack(Type0Track, Type1Track, t1, t2) {
 function GiveNoteLanesTrack(Lane1Track, Lane2Track, Lane3Track, Lane4Track, t1, t2) {
 	filterednotes = notes.filter(n => n.time >= t1 && n.time <= t2)
 	filterednotes.forEach(note => {
-		if (note.json._lineLayer == 0) {
+		if (note._lineLayer == 0) {
 			if (!note.customData._track) note.customData._track = Lane1Track
 			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane1Track)
 			else if (note.customData._track != Lane1Track) note.customData._track = [note.customData._track, Lane1Track]
 		}
-		if (note.json._lineLayer == 1) {
+		if (note._lineLayer == 1) {
 			if (!note.customData._track) note.customData._track = Lane2Track
 			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane2Track)
 			else if (note.customData._track != Lane2Track) note.customData._track = [note.customData._track, Lane2Track]
 		}
-		if (note.json._lineLayer == 2) {
+		if (note._lineLayer == 2) {
 			if (!note.customData._track) note.customData._track = Lane3Track
 			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane3Track)
 			else if (note.customData._track != Lane3Track) note.customData._track = [note.customData._track, Lane3Track]
 		}
-		if (note.json._lineLayer == 3) {
+		if (note._lineLayer == 3) {
 			if (!note.customData._track) note.customData._track = Lane4Track
 			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane4Track)
 			else if (note.customData._track != Lane4Track) note.customData._track = [note.customData._track, Lane4Track]
