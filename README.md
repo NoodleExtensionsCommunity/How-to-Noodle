@@ -20,4 +20,4 @@ Here are some examples of these scripts:
 - [Raine](https://discordapp.com/users/938534719430197310) - for helping with Regex
 - [Reaxt](https://discordapp.com/users/163052863038291970) - for the original noodle script
 - [Sands](https://discordapp.com/users/936371481263370270) - for originally teaching me about noodle
-- [Noodle Extensions Community](https://discord.gg/DVB6kvGVpa) - for being a great place to take inspiration from
+- [Heck Community](https://discord.gg/rrZf3kapeh) - A great place for all noodle mappers.
