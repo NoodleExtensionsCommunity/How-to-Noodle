@@ -358,3 +358,4 @@ BillieEnvironment.[0]Environment.[9]LightWithIdManager
 BillieEnvironment.[1]CinemaPlaybackController
 BillieEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 BillieEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+BillieEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

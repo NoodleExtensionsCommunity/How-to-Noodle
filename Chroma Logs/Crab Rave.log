@@ -54,6 +54,9 @@ CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgres
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+CrabRaveEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 CrabRaveEnvironment.[0]Environment.[12]MonstercatLogoL
 CrabRaveEnvironment.[0]Environment.[13]MonstercatLogoR
 CrabRaveEnvironment.[0]Environment.[14]Spectrograms
@@ -232,6 +235,7 @@ CrabRaveEnvironment.[0]Environment.[9]Construction
 CrabRaveEnvironment.[1]CinemaPlaybackController
 CrabRaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 CrabRaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+CrabRaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]SmallTrackLaneRing(Clone)
 GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
 GameCore.[10]SmallTrackLaneRing(Clone)

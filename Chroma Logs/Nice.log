@@ -1,3 +1,203 @@
+GameCore.[1]SmallTrackLaneRing(Clone)
+GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[10]SmallTrackLaneRing(Clone)
+GameCore.[10]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[11]SmallTrackLaneRing(Clone)
+GameCore.[11]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[12]SmallTrackLaneRing(Clone)
+GameCore.[12]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[13]SmallTrackLaneRing(Clone)
+GameCore.[13]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[14]SmallTrackLaneRing(Clone)
+GameCore.[14]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[15]SmallTrackLaneRing(Clone)
+GameCore.[15]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[16]SmallTrackLaneRing(Clone)
+GameCore.[16]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[17]SmallTrackLaneRing(Clone)
+GameCore.[17]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[18]SmallTrackLaneRing(Clone)
+GameCore.[18]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[19]SmallTrackLaneRing(Clone)
+GameCore.[19]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[2]SmallTrackLaneRing(Clone)
+GameCore.[2]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[20]SmallTrackLaneRing(Clone)
+GameCore.[20]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[21]SmallTrackLaneRing(Clone)
+GameCore.[21]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[22]SmallTrackLaneRing(Clone)
+GameCore.[22]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[23]SmallTrackLaneRing(Clone)
+GameCore.[23]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[24]SmallTrackLaneRing(Clone)
+GameCore.[24]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[25]SmallTrackLaneRing(Clone)
+GameCore.[25]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[26]SmallTrackLaneRing(Clone)
+GameCore.[26]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[27]SmallTrackLaneRing(Clone)
+GameCore.[27]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[28]SmallTrackLaneRing(Clone)
+GameCore.[28]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[29]SmallTrackLaneRing(Clone)
+GameCore.[29]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[3]SmallTrackLaneRing(Clone)
+GameCore.[3]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[30]SmallTrackLaneRing(Clone)
+GameCore.[30]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[31]BigTrackLaneRing(Clone)
+GameCore.[31]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[31]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[31]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[31]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[31]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[31]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[31]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[31]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[31]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[31]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[31]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[31]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[31]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[32]BigTrackLaneRing(Clone)
+GameCore.[32]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[32]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[32]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[32]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[32]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[32]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[32]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[32]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[32]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[32]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[32]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[32]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[32]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[33]BigTrackLaneRing(Clone)
+GameCore.[33]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[33]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[33]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[33]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[33]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[33]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[33]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[33]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[33]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[33]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[33]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[33]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[33]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[34]BigTrackLaneRing(Clone)
+GameCore.[34]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[34]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[34]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[34]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[34]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[34]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[34]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[34]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[34]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[34]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[34]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[34]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[34]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[35]BigTrackLaneRing(Clone)
+GameCore.[35]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[35]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[35]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[35]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[35]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[35]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[35]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[35]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[35]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[35]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[35]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[35]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[35]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[36]BigTrackLaneRing(Clone)
+GameCore.[36]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[36]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[36]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[36]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[36]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[36]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[36]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[36]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[36]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[36]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[36]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[36]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[36]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[37]BigTrackLaneRing(Clone)
+GameCore.[37]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[37]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[37]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[37]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[37]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[37]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[37]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[37]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[37]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[37]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[37]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[37]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[37]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[38]BigTrackLaneRing(Clone)
+GameCore.[38]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[38]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[38]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[38]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[38]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[38]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[38]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[38]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[38]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[38]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[38]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[38]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[38]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[39]BigTrackLaneRing(Clone)
+GameCore.[39]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[39]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[39]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[39]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[39]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[39]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[39]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[39]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[39]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[39]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[39]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[39]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[39]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[4]SmallTrackLaneRing(Clone)
+GameCore.[4]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[40]BigTrackLaneRing(Clone)
+GameCore.[40]BigTrackLaneRing(Clone).[0]Ring
+GameCore.[40]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional
+GameCore.[40]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[0]BakedBloom
+GameCore.[40]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional.[1]BoxLight
+GameCore.[40]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1)
+GameCore.[40]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[0]BakedBloom
+GameCore.[40]BigTrackLaneRing(Clone).[2]NeonTubeBothSidesDirectional (1).[1]BoxLight
+GameCore.[40]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2)
+GameCore.[40]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[0]BakedBloom
+GameCore.[40]BigTrackLaneRing(Clone).[3]NeonTubeBothSidesDirectional (2).[1]BoxLight
+GameCore.[40]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3)
+GameCore.[40]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[0]BakedBloom
+GameCore.[40]BigTrackLaneRing(Clone).[4]NeonTubeBothSidesDirectional (3).[1]BoxLight
+GameCore.[5]SmallTrackLaneRing(Clone)
+GameCore.[5]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[6]SmallTrackLaneRing(Clone)
+GameCore.[6]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[7]SmallTrackLaneRing(Clone)
+GameCore.[7]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[8]SmallTrackLaneRing(Clone)
+GameCore.[8]SmallTrackLaneRing(Clone).[0]Ring
+GameCore.[9]SmallTrackLaneRing(Clone)
+GameCore.[9]SmallTrackLaneRing(Clone).[0]Ring
 NiceEnvironment.[0]Environment
 NiceEnvironment.[0]Environment.[0]DecoratorContext
 NiceEnvironment.[0]Environment.[1]SceneSetup
@@ -57,6 +257,9 @@ NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCan
 NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+NiceEnvironment.[0]Environment.[14]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 NiceEnvironment.[0]Environment.[15]Spectrograms
 NiceEnvironment.[0]Environment.[15]Spectrograms.[0]Spectrogram
 NiceEnvironment.[0]Environment.[15]Spectrograms.[0]Spectrogram.[0]Spectrogram0
@@ -226,3 +429,4 @@ NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLi
 NiceEnvironment.[1]CinemaPlaybackController
 NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

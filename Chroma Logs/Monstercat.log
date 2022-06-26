@@ -44,7 +44,7 @@ MonstercatEnvironment.[0]Environment.[1]SceneSetup
 MonstercatEnvironment.[0]Environment.[10]Construction
 MonstercatEnvironment.[0]Environment.[11]====== DYNAMIC ======
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD
-MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[0]EnergyPane
+MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[0]EnergyPanel
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[0]EnergyPanel.[0]BG
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[0]EnergyPanel.[1]BarBG
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
@@ -95,6 +95,9 @@ MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgr
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+MonstercatEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 MonstercatEnvironment.[0]Environment.[13]MonstercatLogoL
 MonstercatEnvironment.[0]Environment.[14]MonstercatLogoR
 MonstercatEnvironment.[0]Environment.[15]Spectrograms
@@ -273,3 +276,4 @@ MonstercatEnvironment.[0]Environment.[9]SpectrogramEnd
 MonstercatEnvironment.[1]CinemaPlaybackController
 MonstercatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 MonstercatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+MonstercatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

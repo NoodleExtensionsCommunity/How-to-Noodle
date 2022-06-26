@@ -415,3 +415,4 @@ GreenDayEnvironment.[0]Environment.[9]BigSmokePS
 GreenDayEnvironment.[1]CinemaPlaybackController
 GreenDayEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 GreenDayEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+GreenDayEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

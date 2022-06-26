@@ -295,6 +295,9 @@ PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCa
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+PanicEnvironment.[0]Environment.[12]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 PanicEnvironment.[0]Environment.[13]Spectrograms
 PanicEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram
 PanicEnvironment.[0]Environment.[13]Spectrograms.[0]Spectrogram.[0]Spectrogram0
@@ -436,3 +439,4 @@ PanicEnvironment.[0]Environment.[9]TrackMirror.[0]TrackMirrorSetDepth
 PanicEnvironment.[1]CinemaPlaybackController
 PanicEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 PanicEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+PanicEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

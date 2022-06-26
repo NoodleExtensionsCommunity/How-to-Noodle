@@ -424,6 +424,9 @@ SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgres
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+SkrillexEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 SkrillexEnvironment.[0]Environment.[12]DustPS
 SkrillexEnvironment.[0]Environment.[13]BigSmokePS
 SkrillexEnvironment.[0]Environment.[14]====== LIGHTS ======
@@ -873,3 +876,4 @@ SkrillexEnvironment.[0]Environment.[9]====== DYNAMIC ======
 SkrillexEnvironment.[1]CinemaPlaybackController
 SkrillexEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 SkrillexEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+SkrillexEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

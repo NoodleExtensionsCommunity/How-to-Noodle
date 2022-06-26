@@ -292,3 +292,4 @@ GagaEnvironment.[0]Environment.[9]Construction
 GagaEnvironment.[1]CinemaPlaybackController
 GagaEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 GagaEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+GagaEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

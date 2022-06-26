@@ -53,6 +53,9 @@ BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgre
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 BigMirrorEnvironment.[0]Environment.[11]Spectrograms
 BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[0]Spectrogram
 BigMirrorEnvironment.[0]Environment.[11]Spectrograms.[0]Spectrogram.[0]Spectrogram0
@@ -231,6 +234,7 @@ BigMirrorEnvironment.[0]Environment.[9]====== DYNAMIC ======
 BigMirrorEnvironment.[1]CinemaPlaybackController
 BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]BigTrackLaneRing(Clone)
 GameCore.[1]BigTrackLaneRing(Clone).[0]Ring
 GameCore.[1]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional

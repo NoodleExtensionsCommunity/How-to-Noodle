@@ -105,6 +105,9 @@ DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgress
 DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+DefaultEnvironment.[0]Environment.[16]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 DefaultEnvironment.[0]Environment.[17]BigSmokePS
 DefaultEnvironment.[0]Environment.[18]SmallTrackLaneRings
 DefaultEnvironment.[0]Environment.[19]BigTrackLaneRings
@@ -248,6 +251,7 @@ DefaultEnvironment.[0]Environment.[9]TrackConstruction
 DefaultEnvironment.[1]CinemaPlaybackController
 DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]SmallTrackLaneRing(Clone)
 GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
 GameCore.[10]SmallTrackLaneRing(Clone)

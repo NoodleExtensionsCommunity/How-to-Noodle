@@ -1086,3 +1086,4 @@ KaleidoscopeEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongPro
 KaleidoscopeEnvironment.[1]CinemaPlaybackController
 KaleidoscopeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 KaleidoscopeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+KaleidoscopeEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
