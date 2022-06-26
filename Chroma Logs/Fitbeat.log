@@ -171,6 +171,7 @@ FitBeatEnvironment.[0]Environment.[9]====== LIGHTS ======
 FitBeatEnvironment.[1]CinemaPlaybackController
 FitBeatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 FitBeatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+FitBeatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]PanelLightTrackLaneRing(Clone)
 GameCore.[1]PanelLightTrackLaneRing(Clone).[0]Ring
 GameCore.[1]PanelLightTrackLaneRing(Clone).[1]Neon

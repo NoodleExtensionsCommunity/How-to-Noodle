@@ -332,3 +332,4 @@ LinkinParkEnvironment.[0]Environment.[9]====== STATIC ======
 LinkinParkEnvironment.[1]CinemaPlaybackController
 LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

@@ -402,6 +402,9 @@ KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanva
 KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+KDAEnvironment.[0]Environment.[9]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 KDAEnvironment.[0]Environment.[90]GlowLine (74)
 KDAEnvironment.[0]Environment.[90]GlowLine (74).[0]BakedBloom
 KDAEnvironment.[0]Environment.[90]GlowLine (74).[1]BoxLight
@@ -435,3 +438,4 @@ KDAEnvironment.[0]Environment.[99]GlowLine (61).[1]BoxLight
 KDAEnvironment.[1]CinemaPlaybackController
 KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

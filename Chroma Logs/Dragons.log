@@ -56,6 +56,9 @@ DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgress
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
+DragonsEnvironment.[0]Environment.[11]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
 DragonsEnvironment.[0]Environment.[12]Spectrograms
 DragonsEnvironment.[0]Environment.[12]Spectrograms.[0]Spectrogram
 DragonsEnvironment.[0]Environment.[12]Spectrograms.[0]Spectrogram.[0]Spectrogram0
@@ -172,6 +175,7 @@ DragonsEnvironment.[0]Environment.[9]====== LIGHTS ======
 DragonsEnvironment.[1]CinemaPlaybackController
 DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]PanelsTrackLaneRing(Clone)
 GameCore.[1]PanelsTrackLaneRing(Clone).[0]Ring
 GameCore.[10]PanelsTrackLaneRing(Clone)

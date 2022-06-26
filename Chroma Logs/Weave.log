@@ -1048,3 +1048,4 @@ WeaveEnvironment.[0]Environment.[9]====== DYNAMIC ======
 WeaveEnvironment.[1]CinemaPlaybackController
 WeaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
 WeaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
+WeaveEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
