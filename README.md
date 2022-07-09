@@ -13,6 +13,7 @@ Here are some examples of these scripts:
 - [StormPacer's Noodle Maps](https://github.com/StormPacer/Noodle-Maps)
 - [Swifter's Map Scripts](https://github.com/Swifter1243/MapScripts)
 - [Totally Balloon's le monke maps](https://github.com/Infinit3/le-monke-maps)
+- [Jevk's Map Scripts](https://github.com/Jevk/JevkMaps)
 - [TzurS11's NoodleScript](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) 
 # Credits
 - [Discovered](https://discordapp.com/users/849055689971204137) - for teaching me functions
