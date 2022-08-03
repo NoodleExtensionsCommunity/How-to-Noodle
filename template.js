@@ -56,14 +56,14 @@ function GiveNoteTypesTrack(Type0Track, Type1Track, t1, t2) {
 	filterednotes = notes.filter(n => n._time >= t1 && n._time <= t2)
 	filterednotes.forEach(note => {
 		if (note._type == 0) {
-			if (!note.customData._track) note.customData._track = Type0Track
-			if (Array.isArray(note.customData._track)) note.customData._track.push(Type0Track)
-			else if (note.customData._track != Type0Track) note.customData._track = [note.customData._track, Type0Track]
+			if (!note._customData._track) note._customData._track = Type0Track
+			if (Array.isArray(note._customData._track)) note._customData._track.push(Type0Track)
+			else if (note._customData._track != Type0Track) note._customData._track = [note._customData._track, Type0Track]
 		}
 		if (note._type == 1) {
-			if (!note.customData._track) note.customData._track = Type1Track
-			if (Array.isArray(note.customData._track)) note.customData._track.push(Type1Track)
-			else if (note.customData._track != Type0Track) note.customData._track = [note.customData._track, Type1Track]
+			if (!note._customData._track) note._customData._track = Type1Track
+			if (Array.isArray(note._customData._track)) note._customData._track.push(Type1Track)
+			else if (note._customData._track != Type0Track) note._customData._track = [note._customData._track, Type1Track]
 		}
 	})
 }
@@ -72,24 +72,24 @@ function GiveNoteLanesTrack(Lane1Track, Lane2Track, Lane3Track, Lane4Track, t1, 
 	filterednotes = notes.filter(n => n._time >= t1 && n._time <= t2)
 	filterednotes.forEach(note => {
 		if (note._lineLayer == 0) {
-			if (!note.customData._track) note.customData._track = Lane1Track
-			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane1Track)
-			else if (note.customData._track != Lane1Track) note.customData._track = [note.customData._track, Lane1Track]
+			if (!note._customData._track) note._customData._track = Lane1Track
+			if (Array.isArray(note._customData._track)) note._customData._track.push(Lane1Track)
+			else if (note._customData._track != Lane1Track) note._customData._track = [note._customData._track, Lane1Track]
 		}
 		if (note._lineLayer == 1) {
-			if (!note.customData._track) note.customData._track = Lane2Track
-			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane2Track)
-			else if (note.customData._track != Lane2Track) note.customData._track = [note.customData._track, Lane2Track]
+			if (!note._customData._track) note._customData._track = Lane2Track
+			if (Array.isArray(note._customData._track)) note._customData._track.push(Lane2Track)
+			else if (note._customData._track != Lane2Track) note._customData._track = [note._customData._track, Lane2Track]
 		}
 		if (note._lineLayer == 2) {
-			if (!note.customData._track) note.customData._track = Lane3Track
-			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane3Track)
-			else if (note.customData._track != Lane3Track) note.customData._track = [note.customData._track, Lane3Track]
+			if (!note._customData._track) note._customData._track = Lane3Track
+			if (Array.isArray(note._customData._track)) note._customData._track.push(Lane3Track)
+			else if (note._customData._track != Lane3Track) note._customData._track = [note._customData._track, Lane3Track]
 		}
 		if (note._lineLayer == 3) {
-			if (!note.customData._track) note.customData._track = Lane4Track
-			if (Array.isArray(note.customData._track)) note.customData._track.push(Lane4Track)
-			else if (note.customData._track != Lane4Track) note.customData._track = [note.customData._track, Lane4Track]
+			if (!note._customData._track) note.customData._track = Lane4Track
+			if (Array.isArray(note._customData._track)) note._customData._track.push(Lane4Track)
+			else if (note._customData._track != Lane4Track) note._customData._track = [note._customData._track, Lane4Track]
 		}
 	})
 }
