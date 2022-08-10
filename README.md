@@ -7,7 +7,7 @@ Also be sure to get the templates from above and not from releases.
   <img src="Images\WHAT HOW to noodle.png" alt="WHAT HOW to noodle" width="750"/>
   <hr>
 </div>
-I
+
 # How to Noodle
 This repository will help explain how to make a noodle map in Beat Saber, with some basics described and a provided script included.
 # Getting Started
