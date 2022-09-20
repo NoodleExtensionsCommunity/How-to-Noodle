@@ -22,7 +22,7 @@ Here are some examples of these scripts:
 - [TzurS11's NoodleScript](https://github.com/TzurS11/NoodleScript/tree/main/Examples/Scripts) 
 # Credits
 - [Discovered](https://discordapp.com/users/849055689971204137) - for teaching me functions
-- [Lone](https://discordapp.com/users/756274889492660315) - for helping being a resource regarding some lookup methods <!-- This needs to be reworded, no clue what it's supposed to mean -->
+- Lone (Lily) - For helping out with chroma lookups (You will be missed)
 - [Raine](https://discordapp.com/users/938534719430197310) - for helping with Regex
 - [Reaxt](https://discordapp.com/users/163052863038291970) - for the original noodle script
 - [Sands](https://discordapp.com/users/936371481263370270) - for originally teaching me about noodle
