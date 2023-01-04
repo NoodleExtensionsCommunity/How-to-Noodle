@@ -6,7 +6,7 @@ const OUTPUT = "ExpertPlusStandard.dat" //INPUT DIFFICULTY
 
 let difficulty = JSON.parse(fs.readFileSync(INPUT));
 
-difficulty.customData = { environment: [], customEvents: [] };
+difficulty.customData = { environment: [], customEvents: [], fakeColorNotes: [], fakeBombNotes: [], fakeObstacles: [], fakeBurstSliders: [] };
 
 const customData = difficulty.customData;
 const walls = difficulty.obstacles;
@@ -129,46 +129,8 @@ const precision = 4
 //!!! THIS IS BASICALLY HECKLIB ON JAVASCRIPT, I DID NOT MAKE THIS!!!
 
 
-
-
-//Geo Class
-exports.__esModule = true;
-exports.ModelEnvironment = void 0;
-var ModelEnv = /** @class */ (function () {
-    
-    function ModelEnv(filePath, shader, materialName, color) {
-        var model = JSON.parse(fs.readFileSync(filePath))
-        var matNum = 1;
-        var objs = model.objects;
-        var colors = [];
-        objs.forEach(function (x) {
 		
 
-            if (!colors.includes(x.color)) {
-                colors.push(x.color);
-            }
-
-			environment.push(
-				{
-					"geometry": {
-						"type": "Cube",
-						"material": {
-							"color": model.color,
-							"shader": shader,
-						}
-					},
-					"scale": model.scale,
-					"position": model.position,
-					"rotation": model.rotation
-				}
-			)
-        
-        });
-        
-    }
-    return ModelEnv;
-}());
-exports.ModelEnv = ModelEnv;
 
 
 
@@ -263,47 +225,6 @@ exports.ModelEnv = ModelEnv;
 //Chains track are also useless? idk that shit dont work
 
 
-
-
-
-class geoScene {
-	constructor(filePath, shader, materialName, color) {
-		const model = JSON.parse(fs.readFileSync(filePath))
-		let matNum = 1
-		const objs = model.objects;
-		const colors =[]
-		objs.forEach(x => {
-			if(!colors.includes(x.color)) {
-				colors.push(x.color)
-			
-			}
-			//New Geometry
-			environment.push(
-				{
-					"geometry": {
-						"type": x.shape,
-						"material": {
-							"shader": "Standard",
-							"color": [0, 1, 0, 0]
-						}
-					},
-					"position": x.position * 6,
-					"scale": x.scale / 0.6
-				}
-			)
-			
-			colors.forEach(x => {
-				let matName = materialName
-				if(x.length > 1) matName = '${materialName + matNum}'
-				//New Material Stuff Goes Here
-			})
-
-			
-		}) 
-			
-		}
-				
-	}
 
 // WRITE YOUR SCRIPT IN HERE ˇ
 
