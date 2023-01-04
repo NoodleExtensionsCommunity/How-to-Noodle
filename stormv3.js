@@ -17,10 +17,29 @@ const chains = difficulty.burstSliders;
 const beatMapEvent = difficulty.basicBeatmapEvents;
 const environment = customData.environment;
 const customEvents = customData.customEvents;
+const fakeNotes = customData.fakeColorNotes;
+const fakeBombs = customData.fakeBombNotes;
+const fakeWalls = customData.fakeObstacles;
+const fakeChains = customData.fakeBurstSliders;
 
 let filterednotes;
 let filteredwalls;
 let filterarcs;
+
+chains.forEach(chain => {
+	if(!chain.customData) {
+		chain.customData - {}
+	}
+})
+
+
+
+arcs.forEach(arc => {
+	if(!arc.customData) {
+		arc.customData - {}
+	}
+})
+
 
 walls.forEach(wall => {
 	if (!wall.customData) {
@@ -39,6 +58,35 @@ bombs.forEach(bomb => {
 		bomb.customData - {}
 	}
 })
+
+fakeNotes.forEach(fn => {
+	if(!fn.customData) {
+		fn.customData - {}
+	}
+})
+
+fakeWalls.forEach(fw => {
+	if(!fw.customData) {
+		fw.customData - {}
+	}
+})
+
+fakeBombs.forEach(fb => {
+	if(!fb.customData) {
+		fb.customData - {}
+	}
+})
+
+fakeChains.forEach(fc => {
+	if(!fc.customData) {
+		fc.customData - {}
+	}
+})
+
+
+
+
+
 
 function randint(min, max) {
 	max++;
