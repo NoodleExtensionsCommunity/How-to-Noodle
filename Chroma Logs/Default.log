@@ -248,10 +248,6 @@ DefaultEnvironment.[0]Environment.[7]PlayersPlace.[6]Collider
 DefaultEnvironment.[0]Environment.[8]TrackMirror
 DefaultEnvironment.[0]Environment.[8]TrackMirror.[0]SetDepthOnly
 DefaultEnvironment.[0]Environment.[9]TrackConstruction
-DefaultEnvironment.[1]CinemaPlaybackController
-DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-DefaultEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]SmallTrackLaneRing(Clone)
 GameCore.[1]SmallTrackLaneRing(Clone).[0]Ring
 GameCore.[10]SmallTrackLaneRing(Clone)

@@ -233,7 +233,3 @@ RocketEnvironment.[0]Environment.[7]RocketCarL.[0]Shadow
 RocketEnvironment.[0]Environment.[8]RocketCarR
 RocketEnvironment.[0]Environment.[8]RocketCarR.[0]Shadow
 RocketEnvironment.[0]Environment.[9]====== DYNAMIC ======
-RocketEnvironment.[1]CinemaPlaybackController
-RocketEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-RocketEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-RocketEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

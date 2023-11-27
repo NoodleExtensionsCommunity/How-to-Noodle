@@ -574,7 +574,3 @@ BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanv
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
 BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
-BTSEnvironment.[1]CinemaPlaybackController
-BTSEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-BTSEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-BTSEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

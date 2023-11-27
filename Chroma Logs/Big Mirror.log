@@ -13,6 +13,7 @@ BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[6]FailIcon
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[0]EnergyPanel.[7]PanelModifier
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[0]BG
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[1]Top
@@ -22,10 +23,12 @@ BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[1]ComboCanvas.[0]NumText
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[2]Line0
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[3]Line1
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[2]ComboPanel.[4]PanelModifier
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[0]ScoreText
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[1]ImmediateRankText
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[2]RelativeScoreText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[1]LeftPanel.[3]ScoreCanvas.[3]PanelModifier
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[0]BG
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[1]Top
@@ -42,6 +45,7 @@ BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]Multiplier
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[0]XText
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[5]TextPanel.[1]NumText
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[2]MultiplierCanvas.[6]PanelModifier
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[0]Progress
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[1]Slider
@@ -53,6 +57,7 @@ BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgre
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[4]ProgressMinutes
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[5]ProgressSeconds
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[6]BG
+BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[3]SongProgressCanvas.[7]PanelModifier
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[4]RecordingPanel
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[0]RecordingText
 BigMirrorEnvironment.[0]Environment.[10]BasicGameHUD.[2]RightPanel.[4]RecordingPanel.[1]RecordingCircle
@@ -231,10 +236,6 @@ BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[3]NeonTube (2)
 BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[3]NeonTube (2).[0]BakedBloom
 BigMirrorEnvironment.[0]Environment.[8]NearBuildingRight.[3]NeonTube (2).[1]BoxLight
 BigMirrorEnvironment.[0]Environment.[9]====== DYNAMIC ======
-BigMirrorEnvironment.[1]CinemaPlaybackController
-BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-BigMirrorEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]BigTrackLaneRing(Clone)
 GameCore.[1]BigTrackLaneRing(Clone).[0]Ring
 GameCore.[1]BigTrackLaneRing(Clone).[1]NeonTubeBothSidesDirectional

@@ -353,7 +353,3 @@ TimbalandEnvironment.[0]Environment.[8]====== DYNAMIC ======
 TimbalandEnvironment.[0]Environment.[9]Spectrograms
 TimbalandEnvironment.[0]Environment.[9]Spectrograms.[0]Spectrogram
 TimbalandEnvironment.[0]Environment.[9]Spectrograms.[1]Spectrogram
-TimbalandEnvironment.[1]CinemaPlaybackController
-TimbalandEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-TimbalandEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-TimbalandEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

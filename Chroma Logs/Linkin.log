@@ -329,7 +329,3 @@ LinkinParkEnvironment.[0]Environment.[69]LaserTop (7).[1]BakedBloom
 LinkinParkEnvironment.[0]Environment.[7]BSBakedLightingLightWithIds
 LinkinParkEnvironment.[0]Environment.[8]BakedReflectionProbe
 LinkinParkEnvironment.[0]Environment.[9]====== STATIC ======
-LinkinParkEnvironment.[1]CinemaPlaybackController
-LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-LinkinParkEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

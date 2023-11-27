@@ -435,7 +435,3 @@ KDAEnvironment.[0]Environment.[98]GlowLine (13).[1]BoxLight
 KDAEnvironment.[0]Environment.[99]GlowLine (61)
 KDAEnvironment.[0]Environment.[99]GlowLine (61).[0]BakedBloom
 KDAEnvironment.[0]Environment.[99]GlowLine (61).[1]BoxLight
-KDAEnvironment.[1]CinemaPlaybackController
-KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-KDAEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

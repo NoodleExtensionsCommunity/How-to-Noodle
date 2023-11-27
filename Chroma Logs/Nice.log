@@ -426,7 +426,3 @@ NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[2]NeonTubeDirectional (
 NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2)
 NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2).[0]BakedBloom
 NiceEnvironment.[0]Environment.[9]NearBuildingRight (2).[3]NeonTube (2).[1]BoxLight
-NiceEnvironment.[1]CinemaPlaybackController
-NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-NiceEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

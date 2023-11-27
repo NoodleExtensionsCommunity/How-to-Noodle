@@ -273,7 +273,3 @@ MonstercatEnvironment.[0]Environment.[6]TrackMirror.[0]TrackMirrorSetDepth
 MonstercatEnvironment.[0]Environment.[7]VConstruction
 MonstercatEnvironment.[0]Environment.[8]FarBuildings
 MonstercatEnvironment.[0]Environment.[9]SpectrogramEnd
-MonstercatEnvironment.[1]CinemaPlaybackController
-MonstercatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-MonstercatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-MonstercatEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight

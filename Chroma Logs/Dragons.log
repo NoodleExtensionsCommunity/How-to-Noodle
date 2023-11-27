@@ -172,10 +172,6 @@ DragonsEnvironment.[0]Environment.[6]HallConstruction
 DragonsEnvironment.[0]Environment.[7]Underground
 DragonsEnvironment.[0]Environment.[8]====== DYNAMIC ======
 DragonsEnvironment.[0]Environment.[9]====== LIGHTS ======
-DragonsEnvironment.[1]CinemaPlaybackController
-DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen
-DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[0]Body
-DragonsEnvironment.[1]CinemaPlaybackController.[0]CinemaScreen.[1]CinemaDirectionalLight
 GameCore.[1]PanelsTrackLaneRing(Clone)
 GameCore.[1]PanelsTrackLaneRing(Clone).[0]Ring
 GameCore.[10]PanelsTrackLaneRing(Clone)
