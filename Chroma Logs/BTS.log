@@ -1,0 +1,576 @@
+BTSEnvironment.[0]Environment
+BTSEnvironment.[0]Environment.[0]DecoratorContext
+BTSEnvironment.[0]Environment.[1]SceneSetup
+BTSEnvironment.[0]Environment.[10]DustPS
+BTSEnvironment.[0]Environment.[11]Clouds
+BTSEnvironment.[0]Environment.[11]Clouds.[0]LowCloudsGenerator
+BTSEnvironment.[0]Environment.[11]Clouds.[0]LowCloudsGenerator.[0]OpaqueGeometry
+BTSEnvironment.[0]Environment.[11]Clouds.[1]HighCloudsGenerator
+BTSEnvironment.[0]Environment.[11]Clouds.[1]HighCloudsGenerator.[0]OpaqueGeometry
+BTSEnvironment.[0]Environment.[12]StarHemisphere
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[0]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[0]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[1]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[1]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[10]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[10]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[11]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[11]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[12]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[12]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[13]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[13]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[14]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[14]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[15]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[15]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[16]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[16]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[17]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[17]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[18]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[18]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[19]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[19]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[2]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[2]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[20]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[20]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[21]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[21]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[22]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[22]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[23]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[23]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[24]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[24]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[25]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[25]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[26]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[26]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[27]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[27]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[28]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[28]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[29]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[29]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[3]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[3]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[4]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[4]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[5]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[5]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[6]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[6]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[7]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[7]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[8]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[8]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[9]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[13]PillarTrackLaneRingsR.[9]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[0]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[0]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[1]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[1]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[10]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[10]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[11]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[11]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[12]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[12]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[13]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[13]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[14]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[14]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[15]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[15]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[16]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[16]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[17]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[17]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[18]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[18]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[19]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[19]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[2]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[2]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[20]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[20]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[21]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[21]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[22]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[22]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[23]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[23]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[24]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[24]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[25]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[25]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[26]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[26]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[27]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[27]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[28]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[28]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[29]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[29]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[3]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[3]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[4]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[4]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[5]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[5]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[6]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[6]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[7]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[7]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[8]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[8]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[9]PillarTrackLaneRing(Clone)
+BTSEnvironment.[0]Environment.[14]PillarTrackLaneRingsR (1).[9]PillarTrackLaneRing(Clone).[0]Cube
+BTSEnvironment.[0]Environment.[15]PillarsMovementEffect
+BTSEnvironment.[0]Environment.[16]PillarPair
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[16]PillarPair.[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[17]SmallPillarPair.[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1)
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[18]PillarPair (1).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1)
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[19]SmallPillarPair (1).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[2]ShaderWarmup
+BTSEnvironment.[0]Environment.[20]PillarPair (2)
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[20]PillarPair (2).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2)
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[21]SmallPillarPair (2).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3)
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[22]PillarPair (3).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3)
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[23]SmallPillarPair (3).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4)
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[0]Pillar
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[0]LaserLH
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[0]LaserLH.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[1]LaserLight0
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[1]RotationBaseL.[2]Reflector
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[2]LaserL
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[2]LaserL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[2]LaserL.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[3]LaserLight0
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[0]PillarL.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[0]Pillar
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[0]LaserRH
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[0]LaserRH.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[1]LaserLight0
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[1]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[1]RotationBaseR.[2]Reflector
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[2]LaserR
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[2]LaserR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[2]LaserR.[1]BoxLight
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[3]LaserLight0
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[3]LaserLight0.[0]BakedBloom
+BTSEnvironment.[0]Environment.[24]PillarPair (4).[1]PillarR.[3]LaserLight0.[1]BoxLight
+BTSEnvironment.[0]Environment.[25]StarEmitterPS
+BTSEnvironment.[0]Environment.[25]StarEmitterPS.[0]StarsPS
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[0]LeftTextPosition0
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[1]LeftTextPosition1
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[2]LeftTextPosition2
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[3]LeftTextPosition3
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[4]LeftTextPosition4
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[5]RightTextPosition0
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[6]RightTextPosition1
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[7]RightTextPosition2
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[8]RightTextPosition3
+BTSEnvironment.[0]Environment.[26]BTSStarTextEffectEvent.[9]RightTextPosition4
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[0]OverallTimeline
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[1]BTSCharacterDataModel
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[0]FlyingPlatform
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[0]FlyingPlatform.[0]Glow
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[0]FlyingPlatform.[1]FlyingPlatform
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[1]ShardParticles
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[2]LaserLight
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[2]LaserLight.[0]BakedBloom
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[2]LaserLight.[1]BoxLight
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[0]CharacterScaleWrapper
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[0]RimLightIntensityAnimator
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[1]RimLightEdgeStartAnimator
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[2]RimLightColorSetter
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[3]CharacterWrapper.[1]PropertyBlockAnimators.[3]DummyMaterialPropertyBlockController
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[2]CharacterWrapper.[4]FloorGlow
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons.[0]VfxCircularRibbon3
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons.[1]VfxCircularRibbon2
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[3]CharacterRibbons.[2]VfxCircularRibbon
+BTSEnvironment.[0]Environment.[27]BTSEnvironmentCharacterSpawner.[4]BTSEventEffect
+BTSEnvironment.[0]Environment.[28]====== LIGHTS ======
+BTSEnvironment.[0]Environment.[29]LightWithIdManager
+BTSEnvironment.[0]Environment.[3]====== STATIC ======
+BTSEnvironment.[0]Environment.[30]LightEffects
+BTSEnvironment.[0]Environment.[31]CoreLighting
+BTSEnvironment.[0]Environment.[31]CoreLighting.[0]LightManager
+BTSEnvironment.[0]Environment.[31]CoreLighting.[1]LightWrapper0
+BTSEnvironment.[0]Environment.[31]CoreLighting.[1]LightWrapper0.[0]DirectionalLight
+BTSEnvironment.[0]Environment.[31]CoreLighting.[2]LightWrapper1
+BTSEnvironment.[0]Environment.[31]CoreLighting.[2]LightWrapper1.[0]DirectionalLight
+BTSEnvironment.[0]Environment.[31]CoreLighting.[3]DirectionalLight
+BTSEnvironment.[0]Environment.[31]CoreLighting.[4]DirectionalLight
+BTSEnvironment.[0]Environment.[31]CoreLighting.[5]DirectionalLight
+BTSEnvironment.[0]Environment.[32]GradientBackground
+BTSEnvironment.[0]Environment.[33]GlowLineL
+BTSEnvironment.[0]Environment.[33]GlowLineL.[0]BakedBloom
+BTSEnvironment.[0]Environment.[33]GlowLineL.[1]BoxLight
+BTSEnvironment.[0]Environment.[34]GlowLineR
+BTSEnvironment.[0]Environment.[34]GlowLineR.[0]BakedBloom
+BTSEnvironment.[0]Environment.[34]GlowLineR.[1]BoxLight
+BTSEnvironment.[0]Environment.[35]GlowLineC
+BTSEnvironment.[0]Environment.[35]GlowLineC.[0]BakedBloom
+BTSEnvironment.[0]Environment.[35]GlowLineC.[1]BoxLight
+BTSEnvironment.[0]Environment.[36]GlowLineH
+BTSEnvironment.[0]Environment.[37]GlowLineH (2)
+BTSEnvironment.[0]Environment.[38]LaserL
+BTSEnvironment.[0]Environment.[39]LaserR
+BTSEnvironment.[0]Environment.[4]TrackMirror
+BTSEnvironment.[0]Environment.[4]TrackMirror.[0]TrackMirrorSetDepth
+BTSEnvironment.[0]Environment.[40]BottomGlow
+BTSEnvironment.[0]Environment.[41]SideLaser
+BTSEnvironment.[0]Environment.[41]SideLaser.[0]BakedBloom
+BTSEnvironment.[0]Environment.[41]SideLaser.[1]BoxLight
+BTSEnvironment.[0]Environment.[42]SideLaser
+BTSEnvironment.[0]Environment.[42]SideLaser.[0]BakedBloom
+BTSEnvironment.[0]Environment.[42]SideLaser.[1]BoxLight
+BTSEnvironment.[0]Environment.[43]SideLaser
+BTSEnvironment.[0]Environment.[43]SideLaser.[0]BakedBloom
+BTSEnvironment.[0]Environment.[43]SideLaser.[1]BoxLight
+BTSEnvironment.[0]Environment.[44]SideLaser
+BTSEnvironment.[0]Environment.[44]SideLaser.[0]BakedBloom
+BTSEnvironment.[0]Environment.[44]SideLaser.[1]BoxLight
+BTSEnvironment.[0]Environment.[45]BakedReflectionProbe
+BTSEnvironment.[0]Environment.[46]BSBakedLightingLightWithIds
+BTSEnvironment.[0]Environment.[47]FakeMirrorSettings
+BTSEnvironment.[0]Environment.[48]BakedReflectionProbeInstaller
+BTSEnvironment.[0]Environment.[5]Construction
+BTSEnvironment.[0]Environment.[6]PlayersPlace
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[0]Mirror
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[1]Feet
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[3]RectangleFakeGlow
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[4]SaberBurnMarksParticles.[0]SaberBurnMarkSparklePS
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[5]SaberBurnMarksArea
+BTSEnvironment.[0]Environment.[6]PlayersPlace.[6]Collider
+BTSEnvironment.[0]Environment.[7]====== DYNAMIC ======
+BTSEnvironment.[0]Environment.[8]MagicDoorSprite
+BTSEnvironment.[0]Environment.[8]MagicDoorSprite.[0]BloomL
+BTSEnvironment.[0]Environment.[8]MagicDoorSprite.[1]BloomR
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[0]BG
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[1]BarBG
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[2]EnergyIconEmpty
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[3]EnergyIconFull
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[4]EnergyBarWrapper.[0]EnergyBar
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[5]Laser
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[0]BoxLight
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[5]Laser.[1]BakedBloom
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[0]EnergyPanel.[6]FailIcon
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[0]ComboText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[1]ComboCanvas.[0]NumText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[2]Line0
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[0]ComboPanel.[3]Line1
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[0]ScoreText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[1]ImmediateRankText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[1]LeftPanel.[1]ScoreCanvas.[2]RelativeScoreText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[0]BGCircle
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[1]FGCircle
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[2]AnimationCircle
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[0]XText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[3]TextOverlayPanelOutline1.[1]NumText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[0]XText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[4]TextOverlayPanelOutline0.[1]NumText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[0]XText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[0]MultiplierCanvas.[5]TextPanel.[1]NumText
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[0]Progress
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[0]Background
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[1]Slider.[1]Handle Slide Area.[0]Handle
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[2]DurationMinutes
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[3]DurationSeconds
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[4]ProgressMinutes
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[5]ProgressSeconds
+BTSEnvironment.[0]Environment.[9]NarrowGameHUD.[2]RightPanel.[1]SongProgressCanvas.[6]BG
